@@ -1,4 +1,6 @@
 
+- [Action](\Action)
+
 # Action
 Hiragana | Romaji | Translation | Applies To
 :-- | :-- | :-- | :--
