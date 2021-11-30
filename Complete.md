@@ -1,4 +1,11 @@
 
+# Categories
+
+
+["work attitude", "available space", "performing an action", "mental state", "work pressure", "action", "mood", "money issues", "crying", "physical health", "the body", "quantity", "the face", "applies to", "form", "perceived sound", "surrounding", "career exp1erience", "smiling", "personal traits", "hair", "mental actions", "flavour", "size", "writing", "facial expression", "onomatopoeia", "feelings", "laughter", "emotions", "state", "personal attire", "speech", "smells", "personal relations", "texture", "spacial orientation", "body function", "structure", "motions", "manga sound effects", "physical state", "weather", "shape", "to appear to be", "eye expressions", "sight", "temporal aspect", "resultant state", "personal attitude"]
+
+["sleeping and laying down", "breaking and bending", "noisy", "looking and glaring", "sticking", "walking and running", "rain, snow, and ice", "hurt and pain", "flowing, pouring, and streaming", "energetic", "doing nothing", "unconcerned and composed", "saying and speaking", "laughing and smiling", "surprised", "advancing and moving", "damp, oozing, and running", "burning", "thin", "falling and dropping", "ripping and tearing", "bending, folding, and crumpling", "bright and clear", "puking and vomiting", "fat and robust", "cold weather and feeling cold", "drinking and getting drunk", "shaking and swaying", "dirt, sand, and rocks", "hesitating and faltering", "getting wet", "eating, chewing, and licking", "piercing and stabbing", "rippling, bubbling, and sinking", "waking up and getting up", "shivering and shaking", "hot and warm", "crying", "tired", "wind, blowing", "thinking and feeling", "coughing and choking", "cutting", "flustered, impatient, and unable to calm down", "delighted", "not feeling well", "water drops, dripping, falling, and splashing", "angry, upset, antisocial"]
+
 
 # Complete Word Base (4138 words)
 
