@@ -7,7 +7,7 @@
 ["sleeping and laying down", "breaking and bending", "noisy", "looking and glaring", "sticking", "walking and running", "rain, snow, and ice", "hurt and pain", "flowing, pouring, and streaming", "energetic", "doing nothing", "unconcerned and composed", "saying and speaking", "laughing and smiling", "surprised", "advancing and moving", "damp, oozing, and running", "burning", "thin", "falling and dropping", "ripping and tearing", "bending, folding, and crumpling", "bright and clear", "puking and vomiting", "fat and robust", "cold weather and feeling cold", "drinking and getting drunk", "shaking and swaying", "dirt, sand, and rocks", "hesitating and faltering", "getting wet", "eating, chewing, and licking", "piercing and stabbing", "rippling, bubbling, and sinking", "waking up and getting up", "shivering and shaking", "hot and warm", "crying", "tired", "wind, blowing", "thinking and feeling", "coughing and choking", "cutting", "flustered, impatient, and unable to calm down", "delighted", "not feeling well", "water drops, dripping, falling, and splashing", "angry, upset, antisocial"]
 
 
-# Complete Word Base (4138 words)
+# Complete Word Base (4439 words)
 
 Hiragana | Romaji | Translation | Applies To
 :-- | :-- | :-- | :--
@@ -17,7 +17,7 @@ Hiragana | Romaji | Translation | Applies To
 あっ | a' | in the blink of an eye | temporal aspect
 あっちゃ | a'cha | ah, crap | manga sound effects
 あっちゃー | a'cha | ah, crap | manga sound effects
-あっはっは・あはは・わはは | a'ha'ha or ahaha or wahaha | Cheerfully, loudly laughing | laughing and smiling
+あっはっは | a'ha'ha | Cheerfully, loudly laughing | laughing and smiling
 あっはーん | a'haan | a single, seductive, moan | manga sound effects
 あっははは | a'hahaha | hahahaha | manga sound effects
 あっけらかん | a'kerakan | indifference, calmth | mental actions
@@ -36,15 +36,16 @@ Hiragana | Romaji | Translation | Applies To
 あーん | aan | crying with the mouth open | emotions
 あーん | aan | opening (the mouth) wide | manga sound effects
 あーん | aan | crying | onomatopoeia
-あーん・うわーん | aan or uwaan | A child crying loudly without considering the people around it | crying
+あーん | aan | A child crying loudly without considering the people around it | crying
 あーんあーん | aanaan | crying | onomatopoeia
 あちゃ | acha | uh-oh, ah, crap | manga sound effects
 あぎあぎ | agiagi | bite, gnaw | manga sound effects
 あぐあぐ | aguagu | bite | manga sound effects
 あはあは | ahaaha | A rude laugh with your mouth open | laughing and smiling
+あはは | ahaha | Cheerfully, loudly laughing | laughing and smiling
 あくせく | akuseku | toil, drudge, restlessly | work attitude
 あくせく（齷齪） | akuseku | Feeling like you don't have enough time | flustered, impatient, and unable to calm down
-あんあん・えんえん | anan or enen | A person crying loudly | crying
+あんあん | anan | A person crying loudly | crying
 あんぐり | anguri | gazing open-mouthed, stunned | facial expression
 あんぐり | anguri | dumbfounded with the mouth wide open | mental state
 あんぐり | anguri | Taking big bites with a wide, open mouth | eating, chewing, and licking
@@ -60,6 +61,7 @@ Hiragana | Romaji | Translation | Applies To
 ばっちり | ba'chiri | being clever at something | resultant state
 ばっさばっさ | ba'saba'sa | Cutting people down one by one with a sword | cutting
 ばっさり | ba'sari | compeltely sever | performing an action
+ばっさり | ba'sari | Exaggeratedly cutting something off with a blade | cutting
 ばったり | ba'tari | cease, stop | action
 ばったり | ba'tari | run across someone | action
 ばったり | ba'tari | stop suddenly | motions
@@ -75,11 +77,13 @@ Hiragana | Romaji | Translation | Applies To
 ばかっ | baka' | peel away, split | action
 ばき | baki | impact or loud noise | manga sound effects
 ばきっ | baki' | snap | action
-ばきっ・ばきん | baki' or bakin | Something hard and slim suddenly breaking | breaking and bending
+ばきっ | baki' | Something hard and slim suddenly breaking | breaking and bending
 ばきばき | bakibaki | snap, with a splitting sound | action
 ばきばき | bakibaki | Something dry forcefully breaking | breaking and bending
-ばくっ・ぱくっ | baku' or paku' | A big mouth biting forcefully | eating, chewing, and licking
-ばくばく・ぱくぱく・ばくりばくり・ぱくりぱくり | bakubaku or pakupaku or bakuribakuri or pakuripakuri | Opening and closing a big mouth repeatedly (usually while eating) | eating, chewing, and licking
+ばきん | bakin | Something hard and slim suddenly breaking | breaking and bending
+ばくっ | baku' | A big mouth biting forcefully | eating, chewing, and licking
+ばくばく | bakubaku | Opening and closing a big mouth repeatedly (usually while eating) | eating, chewing, and licking
+ばくりばくり | bakuribakuri | Opening and closing a big mouth repeatedly (usually while eating) | eating, chewing, and licking
 ばん | ban | bang!, bam! | manga sound effects
 ばん | ban | s/fx highlighting that the scene is profound or astonishing | manga sound effects
 ばん | ban | with a bang | onomatopoeia
@@ -88,6 +92,7 @@ Hiragana | Romaji | Translation | Applies To
 ばん | ban | relentless, straight and forcefully | speech
 ばん | ban | look well | to appear to be
 ばんばん | banban | relentless, straight and forcefully | speech
+ばんばん | banban | Forcefully moving forward without hesitating | advancing and moving
 ばらばら | barabara | to break into pieces | action
 ばらばら | barabara | rattling | manga sound effects
 ばらばら | barabara | scatter, disperse | motions
@@ -116,14 +121,15 @@ Hiragana | Romaji | Translation | Applies To
 ばさっ | basa' | flapping | onomatopoeia
 ばさっ | basa' | severing with a single cut | performing an action
 ばさっ | basa' | splatter | state
-ばさっ・ばさり | basa' or basari | Something like a vacant body falling | falling and dropping
+ばさっ | basa' | Something like a vacant body falling | falling and dropping
 ばさばさ | basabasa | a dry appearance or feeling, dry and loose | feelings
 ばさばさ | basabasa | loose, dry, crumbly | hair
 ばさばさ | basabasa | flapping | onomatopoeia
 ばさばさ | basabasa | loose, scruffy, in disarray | resultant state
 ばさばさ | basabasa | dry and crumbly, lacking flavor or fragrance | texture
 ばさり | basari | completely sever | performing an action
-ばさり・ばっさり | basari or ba'sari | Exaggeratedly cutting something off with a blade | cutting
+ばさり | basari | Something like a vacant body falling | falling and dropping
+ばさり | basari | Exaggeratedly cutting something off with a blade | cutting
 ばさりばさり | basaribasari | to cut down | performing an action
 ばしゃっ | basha' | a single forcefull splash | action
 ばしゃっ | basha' | Water forcefully scattering | water drops, dripping, falling, and splashing
@@ -154,6 +160,7 @@ Hiragana | Romaji | Translation | Applies To
 ばたばた | batabata | flapping | performing an action
 ばたばた | batabata | to be unsettlingly busy | work pressure
 ばたばた | batabata | Cloth strongly flapping in the wind | wind, blowing
+ばたばた | batabata | The pitter patter of footsteps | walking and running
 ばたばた | batabata | Hurrying around getting things done | flustered, impatient, and unable to calm down
 ばたん | batan | slam (with resonance) | action
 ばたん | batan | impact, from falling | manga sound effects
@@ -176,7 +183,7 @@ Hiragana | Romaji | Translation | Applies To
 べちゃべちゃ | bechabecha | Getting soft from water, mushy and soggy | getting wet
 べちゃべちゃ | bechabecha | Eating and making vulgar noises | eating, chewing, and licking
 べちゃくちゃ | bechakucha | chatter, babble | speech
-べちゃくちゃ・ぺちゃくちゃ・ぺちゃぺちゃ | bechakucha or pechakucha or pechapecha | Continuously chatting about frivolous things | saying and speaking
+べちゃくちゃ | bechakucha | Continuously chatting about frivolous things | saying and speaking
 べちょ | becho | dropping something | manga sound effects
 べちょっ | becho' | Smearing mud or paint | dirt, sand, and rocks
 べちょべちょ | bechobecho | Unpleasant from excess moisture | getting wet
@@ -188,17 +195,20 @@ Hiragana | Romaji | Translation | Applies To
 べりべり | beriberi | tear/rip something that's stuck on something | performing an action
 べりべり | beriberi | Ripping something thick over and over | ripping and tearing
 べろ | bero | peeling back | manga sound effects
+べろっ | bero' | Licking quickly | eating, chewing, and licking
 べろべろ | berobero | drunk enough to lose any sense of judgement | body function
 べろべろ | berobero | licking over and over | manga sound effects
 べろべろ | berobero | licking vigorously | performing an action
-べろべろ・べろんべろん | berobero or beronberon | Getting so drunk you can't move your body normally | drinking and getting drunk
-べろべろ・ぺろぺろ | berobero or peropero | Running your tongue over something | eating, chewing, and licking
+べろべろ | berobero | Running your tongue over something | eating, chewing, and licking
+べろべろ | berobero | Getting so drunk you can't move your body normally | drinking and getting drunk
 べろん | beron | having one's tongue sticking out | performing an action
 べろん | beron | flat | shape
-べろん・ぺろん | beron or peron | Licking something exaggeratedly once | eating, chewing, and licking
+べろん | beron | Licking something exaggeratedly once | eating, chewing, and licking
 べろんべろん | beronberon | stupendously drunk, stronger form of べろべろ | body function
-べろんべろん・ぺろんぺろん | beronberon or peronperon | Running your tongue over something exaggeratedly, multiple times | eating, chewing, and licking
+べろんべろん | beronberon | Running your tongue over something exaggeratedly, multiple times | eating, chewing, and licking
+べろんべろん | beronberon | Getting so drunk you can't move your body normally | drinking and getting drunk
 べろり | berori | having one's tongue sticking out | performing an action
+べろり | berori | Eating up all the food | eating, chewing, and licking
 べそべそ | besobeso | Crying while grumbling | crying
 べたっ | beta' | firmly | performing an action
 べたっ | beta' | Glued and sticking | sticking
@@ -217,18 +227,22 @@ Hiragana | Romaji | Translation | Applies To
 べとべと | betobeto | sticky | physical state
 べとべと | betobeto | Sticky with sweat or blood | damp, oozing, and running
 び | bi | high pitched noise | manga sound effects
-びっ・ぴっ・びびっ | bi' or pi' or bibi' | Forcefully tearing or peeling | ripping and tearing
+びっ | bi' | Forcefully tearing or peeling | ripping and tearing
 びっちょり | bi'chori | Completely drenched in a large amount of water | getting wet
 びっくん | bi'kun | surprise | manga sound effects
-びっくら・びっくり | bi'kura or bi'kuri | Surprised by something sudden or unexpected | surprised
+びっくら | bi'kura | Surprised by something sudden or unexpected | surprised
+びっくり | bi'kuri | Surprised by something sudden or unexpected | surprised
 びっしり | bi'shiri | packed | available space
 びっしょり | bi'shori | to be soaked (with sweat) | body function
 びっしょり | bi'shori | wet throughout | physical state
 びっしょり | bi'shori | Disgustingly drenched in a large amount of sweat | getting wet
+びびっ | bibi' | Forcefully tearing or peeling | ripping and tearing
 びちゃっ | bicha' | Water violently hitting something with a high sound | water drops, dripping, falling, and splashing
 びちゃびちゃ | bichabicha | small splash | manga sound effects
+びちゃびちゃ | bichabicha | Water collecting on the surface | getting wet
 びちっ | bichi' | Suddenly, completely cut off | cutting
 びちびち | bichibichi | flopping, smacking | manga sound effects
+びちょびちょ | bichobicho | Horribly soaked by a large amount of water | getting wet
 びー | bii | high pitched noise | manga sound effects
 びーん | biin | Numbness or itchiness spreading through your body | hurt and pain
 びくっ | biku' | surprise | manga sound effects
@@ -236,17 +250,18 @@ Hiragana | Romaji | Translation | Applies To
 びくっ | biku' | Body suddenly, reflexively shaking or trembling | shivering and shaking
 びくびく | bikubiku | worried that something bad might happen | emotions
 びくびく | bikubiku | strongly twitchign | performing an action
+びくびく | bikubiku | Part of your body shaking from fear | shivering and shaking
 びくびく | bikubiku | Trembling from anxiety or anger | flustered, impatient, and unable to calm down
-びくびく・ぴくぴく | bikubiku or pikupiku | Part of your body shaking from fear | shivering and shaking
 びくん | bikun | surprise | manga sound effects
 びくん | bikun | shocked, surprised | mental state
 びくり | bikuri | shocked, surprised | mental state
+びくり | bikuri | Trembling from a momentary fear | surprised
 びり | biri | electricity, energy | manga sound effects
 びりっ | biri' | single sharp momentary shock | feelings
 びりっ | biri' | momentary sharp shock | feelings
 びりっ | biri' | ripping something so that it feels to vibrate | performing an action
-びりっ・びりん | biri' or birin | Body going numb from sudden stimulation | shivering and shaking
-びりっ・ぴりっ | biri' or piri' | Forcefully tearing cloth or paper | ripping and tearing
+びりっ | biri' | Body going numb from sudden stimulation | shivering and shaking
+びりっ | biri' | Forcefully tearing cloth or paper | ripping and tearing
 びりびり | biribiri | shaky | feelings
 びりびり | biribiri | the feeling of electric shocks | feelings
 びりびり | biribiri | tearing, ripping  | manga sound effects
@@ -254,10 +269,11 @@ Hiragana | Romaji | Translation | Applies To
 びりびり | biribiri | shuddering | motions
 びりびり | biribiri | repetetively ripping something so that is feels to vibrate | performing an action
 びりびり | biribiri | Something like glass resonating from an explosion, rattling | shivering and shaking
-びりびり・ぴりぴり | biribiri or piripiri | Feeling a continued pain or irritation | hurt and pain
-びりびり・ぴりぴり | biribiri or piripiri | Continuously splitting cloth or paper | ripping and tearing
+びりびり | biribiri | Feeling a continued pain or irritation | hurt and pain
+びりびり | biribiri | Continuously splitting cloth or paper | ripping and tearing
 びりびりっ | biribiri' | a pricking pain with tailing longer than ぴりぴり | feelings
-びりり・ぴりり | biriri or piriri | Numb from a momentary stimulus, tingling, stinging | hurt and pain
+びりん | birin | Body going numb from sudden stimulation | shivering and shaking
+びりり | biriri | Numb from a momentary stimulus, tingling, stinging | hurt and pain
 びろびろ | birobiro | Flicking cloth or your tongue | shaking and swaying
 びろん | biron | tongue hanging out | manga sound effects
 びしゃっ | bisha' | with a big splash | state
@@ -267,23 +283,25 @@ Hiragana | Romaji | Translation | Applies To
 びしゃびしゃ | bishabisha | covered in water | physical state
 びしゃびしゃ | bishabisha | continualy splashing against an object | state
 びしゃびしゃ | bishabisha | splashing down | weather
-びしゃびしゃ・びちゃびちゃ | bishabisha or bichabicha | Water collecting on the surface | getting wet
+びしゃびしゃ | bishabisha | Water collecting on the surface | getting wet
 びし | bishi | whip, slap, smack | manga sound effects
 びしっ | bishi' | snapping something | action
 びしっ | bishi' | strict, rigorous | action
 びしっ | bishi' | cracking | motions
 びしっ | bishi' | cracking | onomatopoeia
 びしっ | bishi' | strictly correct | personal attire
-びしっ・びしり | bishi' or bishiri | Something small and thin folding or breaking | breaking and bending
+びしっ | bishi' | Something small and thin folding or breaking | breaking and bending
 びしっびしっ | bishi'bishi' | repetetively causing snapping sounds | action
 びしびし | bishibishi | repetetively snapping something dry, cylindrical | action
 びしびし | bishibishi | snapping something flexible | action
 びしびし | bishibishi | relentless, strictly | action
+びしり | bishiri | Something small and thin folding or breaking | breaking and bending
 びしょびしょ | bishobisho | wet throughout | physical state
 びしょびしょ | bishobisho | persistent, soaking, light rain | weather
-びしょびしょ・びちょびちょ | bishobisho or bichobicho | Horribly soaked by a large amount of water | getting wet
+びしょびしょ | bishobisho | Horribly soaked by a large amount of water | getting wet
 びたり | bitari | On one side | sticking
 ぼっ | bo' | whoosh | manga sound effects
+ぼっ | bo' | A flame flaring up for a moment | burning
 ぼっぼっ | bo'bo' | A large flame flaring every once in a while | burning
 ぼってり | bo'teri | thick, fat, plump | form
 ぼってり | bo'teri | plump, chubby | the body
@@ -300,9 +318,10 @@ Hiragana | Romaji | Translation | Applies To
 ぼけっ | boke' | relaxed and carefree | mental state
 ぼけっ | boke' | Living idly and sloppily | doing nothing
 ぼけーっ | bokee' | absent-minded | mental state
-ぼきっ・ぼきり | boki' or bokiri | A small cylindrical thing breaking | breaking and bending
+ぼきっ | boki' | A small cylindrical thing breaking | breaking and bending
 ぼきぼき | bokiboki | Hard cylindrical things breaking over and over | breaking and bending
 ぼきん | bokin | A hard cylindrical thing completely breaking | breaking and bending
+ぼきり | bokiri | A small cylindrical thing breaking | breaking and bending
 ぼこ | boko | boiling, bubbling | manga sound effects
 ぼこぼこ | bokoboko | gurgling | onomatopoeia
 ぼこぼこ | bokoboko | gurgling | onomatopoeia
@@ -326,7 +345,7 @@ Hiragana | Romaji | Translation | Applies To
 ぼーっ | boo' | blazing | onomatopoeia
 ぼーっ | boo' | blaze, burst into flame | state
 ぼーっ | boo' | blurred, misty | weather
-ぼーっ・ぼっ | boo' or bo' | A flame flaring up for a moment | burning
+ぼーっ | boo' | A flame flaring up for a moment | burning
 ぼーぼー | booboo | shaggy | hair
 ぼーぼー | booboo | blazing | onomatopoeia
 ぼーぼー | booboo | blazing, emitting crackling noises | state
@@ -336,7 +355,7 @@ Hiragana | Romaji | Translation | Applies To
 ぼりっ | bori' | Loudly biting something hard | eating, chewing, and licking
 ぼりぼり | boribori | crunching | onomatopoeia
 ぼりぼり | boribori | Chewing something hard with your teeth | eating, chewing, and licking
-ぼろっ・ぼろり | boro' or borori | A thing inadvertently falling | falling and dropping
+ぼろっ | boro' | A thing inadvertently falling | falling and dropping
 ぼろぼろ | boroboro | tears rolling down the cheek | crying
 ぼろぼろ | boroboro | ragged | personal attire
 ぼろぼろ | boroboro | worn out, falling apart, crumbling | resultant state
@@ -344,6 +363,7 @@ Hiragana | Romaji | Translation | Applies To
 ぼろぼろ | boroboro | Crying large tears | crying
 ぼろぼろ | boroboro | Something granular falling in large quantities | falling and dropping
 ぼろぼろ | boroboro | Little tears in cloth | ripping and tearing
+ぼろり | borori | A thing inadvertently falling | falling and dropping
 ぼさっ | bosa' | dreaming, idling away | mental state
 ぼさっ | bosa' | Acting unsociable, unfriendly | angry, upset, antisocial
 ぼさぼさ | bosabosa | scruffy | hair
@@ -356,17 +376,18 @@ Hiragana | Romaji | Translation | Applies To
 ぼそぼそ | bosoboso | whispered, in subdued tone | speech
 ぼそぼそ | bosoboso | dried out, unpalatable | texture
 ぼそぼそ | bosoboso | Speaking with a really low, lifeless voice | saying and speaking
-ぼそり・ぽつり | bosori or potsuri | Saying a single word in a low voice | saying and speaking
+ぼそり | bosori | Saying a single word in a low voice | saying and speaking
 ぼた | bota | dripping | manga sound effects
 ぼたっ | bota' | an abrupt heavy teardrop | crying
 ぼたっ | bota' | a heavy drop falling and splattering when hitting | state
-ぼたっ・ぽたっ・ぼたり・ぽたり・ぽとっ | bota' or pota' or botari or potari or poto' | A drop of water or a liquid falling | falling and dropping
+ぼたっ | bota' | A drop of water or a liquid falling | falling and dropping
 ぼたぼた | botabota | the sound of tears continuously hitting a surface | crying
 ぼたぼた | botabota | continuously dropping heavy drops | state
 ぼたぼた | botabota | Fairly large water droplets falling continuously | water drops, dripping, falling, and splashing
-ぼたぼた・ぽとぽと | botabota or potopoto | Large drops of liquid rolling or trickling down one by one | falling and dropping
-ぼたん・ぽたん | botan or potan | Drops of water falling from a high place | falling and dropping
+ぼたぼた | botabota | Large drops of liquid rolling or trickling down one by one | falling and dropping
+ぼたん | botan | Drops of water falling from a high place | falling and dropping
 ぼたり | botari | a heavy drop falling and splattering when hitting | state
+ぼたり | botari | A drop of water or a liquid falling | falling and dropping
 ぼたりぼたり | botaribotari | the sound of tears dripping at intervals | crying
 ぼたりぼたり | botaribotari | continuously dropping heavy drops, with pauses between drops | state
 ぼて | bote | falling | manga sound effects
@@ -376,10 +397,12 @@ Hiragana | Romaji | Translation | Applies To
 ぼとぼと | botoboto | falling | manga sound effects
 ぼとぼと | botoboto | drops continuously falling | state
 ぼとぼと | botoboto | Fairly large water droplets heavily falling | water drops, dripping, falling, and splashing
-ぼとり・ぼとん | botori or boton | A thing or liquid dropping heavily | falling and dropping
+ぼとん | boton | A thing or liquid dropping heavily | falling and dropping
+ぼとり | botori | A thing or liquid dropping heavily | falling and dropping
 ぼつ | botsu | whoosh | manga sound effects
 ぼつぼつ | botsubotsu | little by little | temporal aspect
 ぼつぼつ | botsubotsu | starting to lightly rain | weather
+ぼつぼつ | botsubotsu | Steadily progressing, gradually | advancing and moving
 ぼやっ | boya' | vaguely | mental actions
 ぼやっ | boya' | in a half-daze | mental state
 ぼやっ | boya' | vague, dim | weather
@@ -421,6 +444,7 @@ Hiragana | Romaji | Translation | Applies To
 ぶらぶら | burabura | leisurely | performing an action
 ぶらぶら | burabura | dangling | spacial orientation
 ぶらぶら | burabura | to loaf around | work attitude
+ぶらぶら | burabura | Wandering around without any goal or purpose | walking and running
 ぶらぶら | burabura | Living in laziness and doing nothing | doing nothing
 ぶらぶら | burabura | Something hanging and swaying, dangling | shaking and swaying
 ぶらん | buran | hanging, dangling | manga sound effects
@@ -434,6 +458,7 @@ Hiragana | Romaji | Translation | Applies To
 ぶらりぶらり | burariburari | leisurely, with swing | performing an action
 ぶらりぶらり | burariburari | hanging down and swaying | spacial orientation
 ぶらりぶらり | burariburari | Heavily, continuously slowly swaying | shaking and swaying
+ぶりっ | buri' | Blowing your cheeks out with anger or unhappiness | angry, upset, antisocial
 ぶりぶり | buriburi | fume, fret (stronger than ぷりぷり) | emotions
 ぶろろろ | burororo | sound of an engine | manga sound effects
 ぶる | buru | shaking 'no' violently | manga sound effects
@@ -441,45 +466,52 @@ Hiragana | Romaji | Translation | Applies To
 ぶるぶる | buruburu | shiver, tremble (due to cold, fear) | feelings
 ぶるぶる | buruburu | shiver, shake | performing an action
 ぶるぶる | buruburu | Trembling from cold, fear, or anger | shivering and shaking
-ぶるぶる・ぶるる・ぶるん | buruburu or bururu or burun | Vibrating and shaking | shaking and swaying
+ぶるぶる | buruburu | Vibrating and shaking | shaking and swaying
 ぶるぶるっ | buruburu' | shiver, tremble (due to cold, fear) | feelings
 ぶるぶるっ | buruburu' | shiver, shake | performing an action
 ぶるん | burun | Waving or shaking something around, like an arm | shivering and shaking
+ぶるん | burun | Vibrating and shaking | shaking and swaying
 ぶるんぶるん | burunburun | Continuously, intensely shaking | shivering and shaking
 ぶるり | bururi | Suddenly shaking and moving | shivering and shaking
+ぶるる | bururu | Vibrating and shaking | shaking and swaying
 ぶす | busu | muttered complaining | manga sound effects
 ぶすっ | busu' | sullen look, sulky, gloomy (showing discontent) | facial expression
 ぶすっ | busu' | sullen, sulky | mood
 ぶすっ | busu' | stabbing (once) | performing an action
-ぶすっ・ぶすり | busu' or busuri | Blowing your cheeks out with anger or unhappiness, looking sullen | angry, upset, antisocial
-ぶすっ・ぷすっ・ぶすり・ぷすり | busu' or pusu' or busuri or pusuri | Stabbing something soft | piercing and stabbing
+ぶすっ | busu' | Blowing your cheeks out with anger or unhappiness, looking sullen | angry, upset, antisocial
+ぶすっ | busu' | Stabbing something soft | piercing and stabbing
 ぶすぶす | busubusu | something smoldering or smoking | manga sound effects
 ぶすぶす | busubusu | muttered complaining | manga sound effects
 ぶすぶす | busubusu | rustling | onomatopoeia
 ぶすぶす | busubusu | repetetively stabbing | performing an action
 ぶすぶす | busubusu | complaining behind someone's back | speech
 ぶすぶす | busubusu | smolder, simmer | state
-ぶすぶす・ぷすぷす | busubusu or pusupusu | Sputtering of smokey embers | burning
-ぶすぶす・ぷすぷす | busubusu or pusupusu | Stabbing over and over | piercing and stabbing
+ぶすぶす | busubusu | Sputtering of smokey embers | burning
+ぶすぶす | busubusu | Stabbing over and over | piercing and stabbing
 ぶすり | busuri | sullen look, sulky, gloomy | facial expression
 ぶすり | busuri | driving a needle through | performing an action
+ぶすり | busuri | Blowing your cheeks out with anger or unhappiness, looking sullen | angry, upset, antisocial
+ぶすり | busuri | Stabbing something soft | piercing and stabbing
 ぶすりぶすり | busuribusuri | Continuously stabbing with a blade | piercing and stabbing
 ぶつ | butsu | muttered complaining | manga sound effects
 ぶつっ | butsu' | snapping off, breaking off (suddenly) | motions
+ぶつっ | butsu' | Muttering a single word under your breath | saying and speaking
 ぶつっ | butsu' | Sudden, forceful stabbing | piercing and stabbing
-ぶつっ・ぶつり | butsu' or butsuri | Muttering a single word under your breath | saying and speaking
 ぶつぶつ | butsubutsu | goose-bumps | feelings
 ぶつぶつ | butsubutsu | bumpy, dimpled | form
 ぶつぶつ | butsubutsu | grumble, mutter | speech
 ぶつぶつ | butsubutsu | mutter in a small voice | speech
 ぶつぶつ | butsubutsu | simmering | state
 ぶつぶつ | butsubutsu | simmering, bubbling | state
+ぶつぶつ | butsubutsu | Continuously complaining in a low voice | saying and speaking
 ぶつぶつ | butsubutsu | Cutting something into small pieces | cutting
 ぶつぶつ | butsubutsu | Making a hole using something sharp over and over | piercing and stabbing
 ぶつくさ | butsukusa | grumble, mutter | speech
-ぶつくさ・ぶつぶつ | butsukusa or butsubutsu | Continuously complaining in a low voice | saying and speaking
-ぶつり・ぶつん | butsuri or butsun | Suddenly, completely cutting | cutting
-ぶつり・ぷつり | butsuri or putsuri | Stabbing with something sharp or tapered | piercing and stabbing
+ぶつくさ | butsukusa | Continuously complaining in a low voice | saying and speaking
+ぶつん | butsun | Suddenly, completely cutting | cutting
+ぶつり | butsuri | Muttering a single word under your breath | saying and speaking
+ぶつり | butsuri | Suddenly, completely cutting | cutting
+ぶつり | butsuri | Stabbing with something sharp or tapered | piercing and stabbing
 ぶーっ | buu' | to puff out | performing an action
 ぶーっ | buu' | blowing something out of the mouth, bursting into laughter | performing an action
 ぶーぶー | buubuu | oink | onomatopoeia
@@ -498,6 +530,7 @@ Hiragana | Romaji | Translation | Applies To
 びゅ | byu | swift movement | manga sound effects
 びゅー | byu | The sound of strong wind blowing over | wind, blowing
 びゅっ | byu' | spurt, spout out | state
+びゅっ | byu' | Something cutting and flying in the wind | wind, blowing
 びゅーびゅー | byubyu | whizzing | onomatopoeia
 びゅーびゅー | byubyu | whistling, howling | weather
 びゅーびゅー | byubyu | Strong, continuous typhoon winds | wind, blowing
@@ -505,7 +538,7 @@ Hiragana | Romaji | Translation | Applies To
 びゅん | byun | whizzing | onomatopoeia
 びゅんびゅん | byunbyun | spin, whirl | action
 びゅんびゅん | byunbyun | whizzing | onomatopoeia
-びゅんびゅん・ぴゅんぴゅん | byunbyun or pyunpyun | Continuous, strong wind blowing | wind, blowing
+びゅんびゅん | byunbyun | Continuous, strong wind blowing | wind, blowing
 ちゃっかり | cha'kari | smart, calculated | money issues
 ちゃっかり | cha'kari | calculated / shrewd | personal traits
 ちゃっかり | cha'kari | Acting shrewd but still well liked, cheeky | unconcerned and composed
@@ -551,19 +584,24 @@ Hiragana | Romaji | Translation | Applies To
 ちくっ | chiku' | momentary jabbing feeling | feelings
 ちくっ | chiku' | sharp, single sting | performing an action
 ちくっ | chiku' | sting | performing an action
-ちくっ・ちくり・ちくん | chiku' or chikuri or chikun | A sudden stabbing pain from a needle or a bug | hurt and pain
-ちくっ・ちくり・ちくん | chiku' or chikuri or chikun | Stabbed once with something like a needle | piercing and stabbing
+ちくっ | chiku' | A sudden stabbing pain from a needle or a bug | hurt and pain
+ちくっ | chiku' | Stabbed once with something like a needle | piercing and stabbing
 ちくちく | chikuchiku | powerful emototion, like being stabbed with a needle | emotions
 ちくちく | chikuchiku | itchy, needlelike intermittent pain | feelings
 ちくちく | chikuchiku | pricking, tingling sensation | feelings
 ちくちく | chikuchiku | prick, quick and repeatedly with something needlelike | performing an action
 ちくちく | chikuchiku | A stabbing pain like needles over and over, prickling | hurt and pain
-ちくちく・ちくりちくり | chikuchiku or chikurichikuri | Repeatedly stabbed with something like needles | piercing and stabbing
+ちくちく | chikuchiku | Repeatedly stabbed with something like needles | piercing and stabbing
 ちくん | chikun | single sting | performing an action
+ちくん | chikun | A sudden stabbing pain from a needle or a bug | hurt and pain
+ちくん | chikun | Stabbed once with something like a needle | piercing and stabbing
 ちくり | chikuri | a single, sharp, needle-like pain | feelings
 ちくり | chikuri | single sting | performing an action
 ちくり | chikuri | sting | performing an action
+ちくり | chikuri | A sudden stabbing pain from a needle or a bug | hurt and pain
+ちくり | chikuri | Stabbed once with something like a needle | piercing and stabbing
 ちくりちくり | chikurichikuri | itchy, needlelike intermittent pain, with a lingering tingling sensation | feelings
+ちくりちくり | chikurichikuri | Repeatedly stabbed with something like needles | piercing and stabbing
 ちくたく | chikutaku | tick tock | onomatopoeia
 ちまちま | chimachima | neat, arranged | spacial orientation
 ちん | chin | blowing of a nose | onomatopoeia
@@ -572,7 +610,7 @@ Hiragana | Romaji | Translation | Applies To
 ちら | chira | quick sideways glance | manga sound effects
 ちらっ | chira' | to give a momentary glance | eye expressions
 ちらっ | chira' | flicker | sight
-ちらっ・ちらり | chira' or chirari | Glancing out of the corner of your eye for a moment | looking and glaring
+ちらっ | chira' | Glancing out of the corner of your eye for a moment | looking and glaring
 ちらちら | chirachira | to glance | eye expressions
 ちらちら | chirachira | falling (lightly), fluttering | motions
 ちらちら | chirachira | repeatedly seeing something momentarily | sight
@@ -585,6 +623,7 @@ Hiragana | Romaji | Translation | Applies To
 ちらり | chirari | to give a momentary glance | eye expressions
 ちらり | chirari | quick sideways glance | manga sound effects
 ちらり | chirari | flicker, less abrupt than きらっ | sight
+ちらり | chirari | Glancing out of the corner of your eye for a moment | looking and glaring
 ちらりちらり | chirarichirari | Something appearing and disappearing, flickering | looking and glaring
 ちりちり | chirichiri | calling out a cat | manga sound effects
 ちりちり | chirichiri | curly, frizzy | manga sound effects
@@ -603,6 +642,7 @@ Hiragana | Romaji | Translation | Applies To
 ちやほや | chiyahoya | pampering, groveling | speech
 ちょっきり | cho'kiri | exactly, precisely | quantity
 ちょっきり | cho'kiri | exactly | temporal aspect
+ちょっきり | cho'kiri | Completely cutting something off with scissors | cutting
 ちょっくら | cho'kura | a little, a bit | quantity
 ちょっくら | cho'kura | a little | temporal aspect
 ちょっくらちょい | cho'kurachoi | too litte | quantity
@@ -618,7 +658,7 @@ Hiragana | Romaji | Translation | Applies To
 ちょきちょき | chokichoki | snipping | onomatopoeia
 ちょきちょき | chokichoki | Cutting paper or plants with scissors | cutting
 ちょきん | chokin | snipping | onomatopoeia
-ちょきん・ちょっきり | chokin or cho'kiri | Completely cutting something off with scissors | cutting
+ちょきん | chokin | Completely cutting something off with scissors | cutting
 ちょこっ | choko' | doing something without taking too much the sound made by someone who is exerting physical effort | performing an action
 ちょこっ | choko' | very small | quantity
 ちょこちょこ | chokochoko | frequently | action
@@ -631,9 +671,10 @@ Hiragana | Romaji | Translation | Applies To
 ちょこん | chokon | snug | performing an action
 ちょこん | chokon | making a small bow | performing an action
 ちょこん | chokon | standing on (it/one)self | spacial orientation
-ちょこん・ちょん | chokon or chon | Small things sticking together | sticking
+ちょこん | chokon | Small things sticking together | sticking
 ちょこなん | chokonan | snug | performing an action
 ちょくちょく | chokuchoku | every one in a while | action
+ちょん | chon | Small things sticking together | sticking
 ちょろちょろ | chorochoro | trickling | onomatopoeia
 ちょろちょろ | chorochoro | darting about, making quick movement | performing an action
 ちょろちょろ | chorochoro | flickering (small flame) | state
@@ -645,16 +686,17 @@ Hiragana | Romaji | Translation | Applies To
 ちゅ | chu | sound of a kiss | manga sound effects
 ちゅ | chu | sucking something (like through a straw) | manga sound effects
 ちゅっ | chu' | the sound of a kiss | onomatopoeia
+ちゅっ | chu' | A small amount of water, forcefully shooting through the air | water drops, dripping, falling, and splashing
 ちゅっ | chu' | A short slurp of soup or a liquid | drinking and getting drunk
-ちゅっ・ぴゅっ | chu' or pyu' | A small amount of water, forcefully shooting through the air | water drops, dripping, falling, and splashing
 ちゅっちゅっ | chu'chu' | cheep, peep | onomatopoeia
 ちゅーちゅー | chuchu | squeak | onomatopoeia
 ちゅーちゅー | chuchu | sucking | onomatopoeia
-ちゅーちゅー・ちゅるちゅる | chuchu or churuchuru | Sucking a liquid (with a straw) or noodles slowly | drinking and getting drunk
+ちゅーちゅー | chuchu | Sucking a liquid (with a straw) or noodles slowly | drinking and getting drunk
 ちゅくりちくり | chukurichikuri | cynicism, sarcasm | speech
 ちゅんちゅん | chunchun | chirping | manga sound effects
 ちゅんちゅん | chunchun | chiming | onomatopoeia
 ちゅんちゅん | chunchun | song of a sparrow | onomatopoeia
+ちゅるちゅる | churuchuru | Sucking a liquid (with a straw) or noodles slowly | drinking and getting drunk
 だっだっ | da'da' | push forward with force | performing an action
 だっだっ | da'da' | Moving forward, maintaining force | advancing and moving
 だー | daa | a heavy impact | manga sound effects
@@ -716,24 +758,30 @@ Hiragana | Romaji | Translation | Applies To
 どっ | do' | thudding | onomatopoeia
 どっ | do' | topple | performing an action
 どっ | do' | gushing all of a sudden | state
-どっ・どっと | do' or do'to | Many people laughing together loudly | laughing and smiling
+どっ | do' | Many people laughing together loudly | laughing and smiling
 どっか | do'ka | sink into a chair | performing an action
 どっかり | do'kari | plopping down into a chair with a thud | performing an action
 どっかり | do'kari | gaping | shape
+どっきどっき | do'kido'ki | Violent throbbing | hurt and pain
+どっきんどっきん | do'kindo'kin | Violent throbbing | hurt and pain
+どっきり | do'kiri | Heart racing from excitement, fear, or anticipation | surprised
 どっぷり | do'puri | thoroughly soaked, immersed in liquid | action
+どっぷり | do'puri | Being completely immersed in bath water or liquids | getting wet
 どっさり | do'sari | in large quantity | quantity
 どっしどっし | do'shido'shi | Heavily stomping with your weight | walking and running
 どっしり | do'shiri | dignified, imposing | performing an action
 どっしり | do'shiri | bulky, heavy | to appear to be
 どっしゅ | do'shu | a cut going through bone | manga sound effects
+どっと | do'to | Many people laughing together loudly | laughing and smiling
 どばどば | dobadoba | A large amount of water spurting out all at once | flowing, pouring, and streaming
 どび | dobi | a missed kick | manga sound effects
 どぼどぼ | dobodobo | A large amount of liquid being poured continuously | flowing, pouring, and streaming
 どぼん | dobon | something small plopping into water | action
+どぼん | dobon | Something heavy falling into water | rippling, bubbling, and sinking
 どぶどぶ | dobudobu | The sound of water or sake being poured | flowing, pouring, and streaming
 どぶん | dobun | to plop into water | action
 どぶん | dobun | plopping | onomatopoeia
-どぶん・どぼん | dobun or dobon | Something heavy falling into water | rippling, bubbling, and sinking
+どぶん | dobun | Something heavy falling into water | rippling, bubbling, and sinking
 どぶーん | dobuun | to plop into water | action
 どだっ | doda' | plopping down | performing an action
 どだっ | doda' | dropping something heavy | performing an action
@@ -760,7 +808,7 @@ Hiragana | Romaji | Translation | Applies To
 どかん | dokan | exploding | onomatopoeia
 どかり | dokari | Something heavy falling or hitting | falling and dropping
 どきっ | doki' | stunned as if one's heart jumps | mental state
-どきっ・どきり・どっきり | doki' or dokiri or do'kiri | Heart racing from excitement, fear, or anticipation | surprised
+どきっ | doki' | Heart racing from excitement, fear, or anticipation | surprised
 どきどき | dokidoki | palpitating, throbbing | body function
 どきどき | dokidoki | heartbeat | manga sound effects
 どきどき | dokidoki | a thumping heart (of fear) | mental state
@@ -770,8 +818,9 @@ Hiragana | Romaji | Translation | Applies To
 どきん | dokin | stunned as if one's heart jumps | mental state
 どきんどきん | dokindokin | a louder and slower throbbing than どきどき | body function
 どきんどきん | dokindokin | a thumping heart (of fear) | mental state
-どきんどきん・どっきどっき・どっきんどっきん | dokindokin or do'kido'ki or do'kindo'kin | Violent throbbing | hurt and pain
+どきんどきん | dokindokin | Violent throbbing | hurt and pain
 どきり | dokiri | stunned as if one's heart jumps | mental state
+どきり | dokiri | Heart racing from excitement, fear, or anticipation | surprised
 どくどく | dokudoku | gushing, running off (thick liquid) | state
 どくどく | dokudoku | Something, like blood, overflowing out | flowing, pouring, and streaming
 どくん | dokun | a heavy heartbeat | manga sound effects
@@ -783,14 +832,15 @@ Hiragana | Romaji | Translation | Applies To
 どん | don | to bumb into something heavy | performing an action
 どん | don | a large number in one go | quantity
 どんぶりこ | donburiko | Something sinking underwater | rippling, bubbling, and sinking
-どんちゃか・どんちゃん | donchaka or donchan | Boisterous revelry, the sounds of music and enjoyment at a banquet or party | noisy
+どんちゃか | donchaka | Boisterous revelry, the sounds of music and enjoyment at a banquet or party | noisy
+どんちゃん | donchan | Boisterous revelry, the sounds of music and enjoyment at a banquet or party | noisy
 どんどこ | dondoko | Moving something forward without hesitating | advancing and moving
 どんどん | dondon | continuous action | manga sound effects
 どんどん | dondon | steadily, in number | motions
 どんどん | dondon | pounding | onomatopoeia
 どんどん | dondon | drumming | onomatopoeia
 どんどん | dondon | move with vigour | resultant state
-どんどん・ばんばん | dondon or banban | Forcefully moving forward without hesitating | advancing and moving
+どんどん | dondon | Forcefully moving forward without hesitating | advancing and moving
 どんぴしゃり | donpishari | on the mark | resultant state
 どんより | donyori | dull, leaden, gloomy | weather
 どんより | donyori | Rain will fall any moment now | rain, snow, and ice
@@ -809,17 +859,20 @@ Hiragana | Romaji | Translation | Applies To
 どろん | doron | cloudy eyes, not in focus, stronger version of とろん | eye expressions
 どろん | doron | sound of a magical transformation | manga sound effects
 どろん | doron | sticky, mudled | physical state
+どろん | doron | With eyes dull from drunkenness | looking and glaring
 どろろんぱ | dororonpa | sound of a magical transformation | manga sound effects
 どりゃ | dorya | yelled when charging, or when one is about to do something involving substantial the sound made by someone who is exerting physical effort | manga sound effects
 どさ | dosa | the sound of something (heavy) hitting the floor | manga sound effects
 どさっ | dosa' | thudding | onomatopoeia
-どさっ・どさり・どさん・どたり・どたん | dosa' or dosari or dosan or dotari or dotan | A big, heavy thing falling all at once | falling and dropping
+どさっ | dosa' | A big, heavy thing falling all at once | falling and dropping
 どさどさ | dosadosa | thudding | onomatopoeia
 どさどさ | dosadosa | A crowd of people jumbling together one after another | noisy
 どさどさ | dosadosa | Heavy things falling one after another | falling and dropping
 どさくさ | dosakusa | Confusion or a scandal | noisy
 どさん | dosan | thudding | onomatopoeia
+どさん | dosan | A big, heavy thing falling all at once | falling and dropping
 どさり | dosari | thudding | onomatopoeia
+どさり | dosari | A big, heavy thing falling all at once | falling and dropping
 どしゃどしゃ | doshadosha | pelting | onomatopoeia
 どしゃどしゃ | doshadosha | pelting | weather
 どしっ | doshi' | thudding | onomatopoeia
@@ -844,15 +897,18 @@ Hiragana | Romaji | Translation | Applies To
 どたばた | dotabata | running around in confusion | manga sound effects
 どたばた | dotabata | scrambling | onomatopoeia
 どたばた | dotabata | Noisily running around | walking and running
+どたばた | dotabata | Noisily running or stomping around | noisy
 どたばた | dotabata | Noisily rushing around doing things | flustered, impatient, and unable to calm down
-どたばた・どたんばたん | dotabata or dotanbatan | Noisily running or stomping around | noisy
 どたどた | dotadota | scrambling | onomatopoeia
 どたどた | dotadota | The sound of people heavily and recklessly moving around | noisy
 どたん | dotan | slam | action
 どたん | dotan | slamming | onomatopoeia
 どたん | dotan | Peaceful breathing while asleep, sleeping soundly | sleeping and laying down
+どたん | dotan | A big, heavy thing falling all at once | falling and dropping
 どたんばたん | dotanbatan | scrambling | onomatopoeia
+どたんばたん | dotanbatan | Noisily running or stomping around | noisy
 どたり | dotari | thudding | onomatopoeia
+どたり | dotari | A big, heavy thing falling all at once | falling and dropping
 どて | dote | falling. In adults, slapstick falling | manga sound effects
 どてっ | dote' | sitting lethargically | performing an action
 どてっ | dote' | to collapse, to fall over and stay there (lethargically) | performing an action
@@ -876,6 +932,7 @@ Hiragana | Romaji | Translation | Applies To
 えへん | ehen | clearing the throat | onomatopoeia
 えへん | ehen | Coughing violently and clearing your throat | coughing and choking
 えい | ei | yelled when getting down to serious (physical) business | manga sound effects
+えんえん | enen | A person crying loudly | crying
 ふ | fu | unexpected | action
 ふ | fu | unexpected | action
 ふ | fu | sighing, blowing | manga sound effects
@@ -890,6 +947,7 @@ Hiragana | Romaji | Translation | Applies To
 ふっ | fu' | sigh | onomatopoeia
 ふっ | fu' | light exhaling | performing an action
 ふっ | fu' | exhaling lightly | performing an action
+ふっ | fu' | Busting out with laughter at something funny | laughing and smiling
 ふっふっ | fu'fu' | laughing under one's breath | laughter
 ふっふっ | fu'fu' | A fearless smile | laughing and smiling
 ふっから | fu'kara | fluffy, soft and swollen | physical state
@@ -940,15 +998,15 @@ Hiragana | Romaji | Translation | Applies To
 ふらふら | furafura | unsteady | performing an action
 ふらふら | furafura | walking unsteady, swaying | performing an action
 ふらふら | furafura | wavering | personal traits
+ふらふら | furafura | Wandering around without any goal or purpose | walking and running
 ふらふら | furafura | Shaking from loss of your body's equilibrium | shaking and swaying
-ふらふら・ぶらぶら | furafura or burabura | Wandering around without any goal or purpose | walking and running
 ふらり | furari | by chance, to just happen | action
 ふらり | furari | staggering with a stray | performing an action
 ふらりふらり | furarifurari | unsteady, with swing | performing an action
 ふらりふらり | furarifurari | Slowly swaying in a big way | shaking and swaying
 ふり | furi | tremble | manga sound effects
 ふる | furu | tremble | manga sound effects
-ふるふる・ぷるぷる | furufuru or purupuru | Moved by light shaking or vibrating | shivering and shaking
+ふるふる | furufuru | Moved by light shaking or vibrating | shivering and shaking
 ふさ | fusa | touching abundant, soft, hair | manga sound effects
 ふさふさ | fusafusa | bushy, hanging down in bunches | form
 ふー | fuu | siiigh | onomatopoeia
@@ -981,13 +1039,16 @@ Hiragana | Romaji | Translation | Applies To
 がっちり | ga'chiri | firm, strong | resultant state
 がっちり | ga'chiri | strongly built | the body
 がっちり | ga'chiri | Shrewdly, being pushy | unconcerned and composed
+がっちり | ga'chiri | A study body or bone structure | fat and robust
 がっははは | ga'hahaha | evil laughter | manga sound effects
 がっかり | ga'kari | disappointed | emotions
 がっかり | ga'kari | Horribly exhausted, losing energy | tired
-がっかり・がっくり | ga'kari or ga'kuri | Discouraged by disappointing results | not feeling well
+がっかり | ga'kari | Discouraged by disappointing results | not feeling well
 がっくり | ga'kuri | downhearted | mood
 がっくり | ga'kuri | drooping | performing an action
 がっくり | ga'kuri | a drastic decline | physical health
+がっくり | ga'kuri | Discouraged by disappointing results | not feeling well
+がっくり | ga'kuri | Suddenly bending strongly back and forth | breaking and bending
 がっくり | ga'kuri | Suddenly strongly bending something | bending, folding, and crumpling
 がっぽがっぽ | ga'poga'po | making a large amount of money | quantity
 がっぽり | ga'pori | making a large amount of money | quantity
@@ -997,6 +1058,7 @@ Hiragana | Romaji | Translation | Applies To
 がっしり | ga'shiri | solid | manga sound effects
 がっしり | ga'shiri | solidly built | resultant state
 がっしり | ga'shiri | well-built, solid, muscular | the body
+がっしり | ga'shiri | A study body or bone structure | fat and robust
 がーっ | gaa' | Forcefully moving | advancing and moving
 がーがー | gaagaa | quack | onomatopoeia
 がーん | gaan | a big, horrible, revelation | manga sound effects
@@ -1022,18 +1084,21 @@ Hiragana | Romaji | Translation | Applies To
 がばがば | gabagaba | Continuously drinking alcohol, like beer, a lot | drinking and getting drunk
 がびーん | gabiin | Hit with disappointment and shock | not feeling well
 がぼっ | gabo' | large profit/loss | quantity
+がぼっ | gabo' | Taking a drink in a good mood | drinking and getting drunk
 がぼがぼ | gabogabo | loose, baggy | form
 がぼがぼ | gabogabo | gurgling | onomatopoeia
 がぼがぼ | gabogabo | loose, baggy | size
 がぼがぼ | gabogabo | Drinking quickly all of a sudden | drinking and getting drunk
 がぶっ | gabu' | swallow in one gulp | performing an action
 がぶっ | gabu' | bite something in one chomp (focus on the in-the-mouth aspect) | performing an action
-がぶっ・がぶり | gabu' or gaburi | Taking a big bite of something | eating, chewing, and licking
-がぶっ・がぶり | gabu' or gaburi | Drinking a lot all at once | drinking and getting drunk
+がぶっ | gabu' | Taking a big bite of something | eating, chewing, and licking
+がぶっ | gabu' | Drinking a lot all at once | drinking and getting drunk
 がぶがぶ | gabugabu | gulp down | performing an action
 がぶがぶ | gabugabu | Drinking a lot quickly | drinking and getting drunk
 がぶり | gaburi | swallow in one gulp (slower than がぶっ) | performing an action
 がぶり | gaburi | bite something in one chomp (focus on the biting aspect) | performing an action
+がぶり | gaburi | Taking a big bite of something | eating, chewing, and licking
+がぶり | gaburi | Drinking a lot all at once | drinking and getting drunk
 がぶりがぶり | gaburigaburi | Drinking a lot over and over again | drinking and getting drunk
 がびょーん | gabyon | Horribly, exaggeratedly shocked | surprised
 がちゃ | gacha | something being too big | manga sound effects
@@ -1054,6 +1119,7 @@ Hiragana | Romaji | Translation | Applies To
 がきん | gakin | clash | manga sound effects
 がく | gaku | shaking, wobbling | manga sound effects
 がくっ | gaku' | twist/bend with a jerk | motions
+がくっ | gaku' | Suddenly losing some of your energy | not feeling well
 がくがく | gakugaku | shiver, shake | feelings
 がくがく | gakugaku | wobbly, loose | structure
 がくがく | gakugaku | Joints, like knees, shaking | shivering and shaking
@@ -1070,10 +1136,11 @@ Hiragana | Romaji | Translation | Applies To
 がくり | gakuri | to lose heart | mood
 がくり | gakuri | drooping | performing an action
 がくり | gakuri | abruptly, suddenly | performing an action
-がくり・がっくり | gakuri or ga'kuri | Suddenly bending strongly back and forth | breaking and bending
+がくり | gakuri | Suddenly bending strongly back and forth | breaking and bending
 がくりがくり | gakurigakuri | Suddenly moving and then going back | advancing and moving
 がみがみ | gamigami | snarl, crabby, snapping | speech
 がみがみ | gamigami | A higher status person giving you a lecture or scolding you with strong words or tone | saying and speaking
+がみがみ | gamigami | Agitated by anger or dissatisfaction | angry, upset, antisocial
 がん | gan | receiving a strong blow | action
 がん | gan | slap | action
 がん | gan | a (usually horrible) revelation | manga sound effects
@@ -1098,8 +1165,9 @@ Hiragana | Romaji | Translation | Applies To
 がらがら | garagara | clatter, rattle | manga sound effects
 がらがら | garagara | gargling | onomatopoeia
 がらがら | garagara | rattling | onomatopoeia
+がらがら | garagara | Vomiting and gargling | puking and vomiting
 がらがら | garagara | Heavy things falling or collapsing one after another | falling and dropping
-がらがら・がらがらぺっ | garagara or garagarape' | Vomiting and gargling | puking and vomiting
+がらがらぺっ | garagarape' | Vomiting and gargling | puking and vomiting
 がらん | garan | empty (moved out of) | available space
 がらん | garan | clatter, rattle | manga sound effects
 がらん | garan | clanging | onomatopoeia
@@ -1107,7 +1175,7 @@ Hiragana | Romaji | Translation | Applies To
 がらり | garari | clattering | onomatopoeia
 がらり | garari | rattling | onomatopoeia
 がらり | garari | completely (suddenly) | resultant state
-がりっ・がりり | gari' or gariri | Chewing a mouthful of something hard | eating, chewing, and licking
+がりっ | gari' | Chewing a mouthful of something hard | eating, chewing, and licking
 がりがり | garigari | possessed, obsessed | mental state
 がりがり | garigari | nibbling | onomatopoeia
 がりがり | garigari | scratching | onomatopoeia
@@ -1116,6 +1184,7 @@ Hiragana | Romaji | Translation | Applies To
 がりがり | garigari | overly thin | the body
 がりがり | garigari | Trying to munch something hard with your teeth | eating, chewing, and licking
 がりがり | garigari | So thin that you can see their bones, skin and bones | thin
+がりり | gariri | Chewing a mouthful of something hard | eating, chewing, and licking
 がさ | gasa | rustle | manga sound effects
 がさっ | gasa' | falling off by crumbling (with a thud) | motions
 がさっ | gasa' | thudding | onomatopoeia
@@ -1133,7 +1202,7 @@ Hiragana | Romaji | Translation | Applies To
 がし | gashi | to hold tightly, to hug tightly | performing an action
 がしっ | gashi' | strongly built | resultant state
 がしっ | gashi' | strongly built | the body
-がしっ・がっしり・がっちり | gashi' or ga'shiri or ga'chiri | A study body or bone structure | fat and robust
+がしっ | gashi' | A study body or bone structure | fat and robust
 がしがし | gashigashi | Chewing something wildly with your teeth | eating, chewing, and licking
 がしん | gashin | crash, impact | manga sound effects
 がた | gata | reeling in shock from a revelation | manga sound effects
@@ -1154,13 +1223,14 @@ Hiragana | Romaji | Translation | Applies To
 がたん | gatan | reeling in shock from a revelation | manga sound effects
 がたん | gatan | falling over | manga sound effects
 がたん | gatan | clattering | onomatopoeia
-がたん・がたり | gatan or gatari | Something heavy suddenly falling or dropping | falling and dropping
+がたん | gatan | Something heavy suddenly falling or dropping | falling and dropping
 がたぴし | gatapishi | falling apart | form
 がたぴし | gatapishi | rattling | onomatopoeia
 がたぴし | gatapishi | disorderly, lacking smoothness | personal relations
 がたぴし | gatapishi | to fall apart, to move less easy | physical health
 がたぴし | gatapishi | a human relation (or system) going to shambles | resultant state
 がたぴし | gatapishi | poor | structure
+がたり | gatari | Something heavy suddenly falling or dropping | falling and dropping
 がつっ | gatsu' | something heavy hitting something hard accidentally | action
 がつっ | gatsu' | crunching | onomatopoeia
 がつっがつっ | gatsu'gatsu' | with a sharp heavy object | performing an action
@@ -1175,19 +1245,21 @@ Hiragana | Romaji | Translation | Applies To
 がやがや | gayagaya | A crowd of people gathered together talking noisily | noisy
 げ | ge | the momentary sensation of (wanting to) vomit | body function
 げっ | ge' | the momentary sensation of (wanting to) vomit | body function
+げっ | ge' | Vomiting food and drinks | puking and vomiting
+げっ | ge' | Observing unexpected things | surprised
 げっそり | ge'sori | disappoined, colloquailly interchanged with がっかり | emotions
 げっそり | ge'sori | emaciated, haggard | physical health
 げっそり | ge'sori | to look haggard | the body
 げっそり | ge'sori | Horribly exhausted and withering away | tired
 げっそり | ge'sori | Losing weight or getting sick from sickness or anxiety | not feeling well
 げぼ | gebo | throwing up | manga sound effects
-げー・げっ | gee or ge' | Vomiting food and drinks | puking and vomiting
-げー・げっ | gee or ge' | Observing unexpected things | surprised
+げー | gee | Vomiting food and drinks | puking and vomiting
+げー | gee | Observing unexpected things | surprised
 げーげー | geegee | vomitting | body function
-げーげー・げろげろ | geegee or gerogero | Continuously vomiting food and drinks | puking and vomiting
+げーげー | geegee | Continuously vomiting food and drinks | puking and vomiting
 げふ | gefu | belching | manga sound effects
 げほ | geho | cough | manga sound effects
-げほげほ・ごほごほ | gehogeho or gohogoho | Strong coughing fit | coughing and choking
+げほげほ | gehogeho | Strong coughing fit | coughing and choking
 げんなり | gennari | exhausted | manga sound effects
 げんなり | gennari | to be tired | mental state
 げんなり | gennari | Weakening from fatigue and heat | tired
@@ -1195,6 +1267,7 @@ Hiragana | Romaji | Translation | Applies To
 げらげら | geragera | Openly vulgar laughter, guffaw | laughing and smiling
 げろっ | gero' | Vomiting instantly | puking and vomiting
 げろげろ | gerogero | to continuously throw up | body function
+げろげろ | gerogero | Continuously vomiting food and drinks | puking and vomiting
 げるげるげる | gerugerugeru | purrrr | onomatopoeia
 げたっ | geta' | Rudely laughing with a loose expression | laughing and smiling
 げたげた | getageta | an out of place burly laugh, more vulgar than けたけた | laughter
@@ -1210,17 +1283,21 @@ Hiragana | Romaji | Translation | Applies To
 ぎーぎー | giigii | creaking | onomatopoeia
 ぎこぎこ | gikogiko | creaking | onomatopoeia
 ぎこぎこ | gikogiko | sawing | onomatopoeia
-ぎく・ぎくっ・ぎくり・ぎくん | giku or giku' or gikuri or gikun | Someone suddenly touched on a secret of yours | surprised
+ぎく | giku | Someone suddenly touched on a secret of yours | surprised
 ぎくっ | giku' | sharp startlement | mental state
 ぎくっ | giku' | twist/bend suddenly in an awkward manner | motions
-ぎくっ・ぎくり | giku' or gikuri | Something suddenly bending back and forth | breaking and bending
+ぎくっ | giku' | Someone suddenly touched on a secret of yours | surprised
+ぎくっ | giku' | Something suddenly bending back and forth | breaking and bending
 ぎくぎく | gikugiku | twisted | form
 ぎくぎく | gikugiku | awkward | motions
 ぎくぎく | gikugiku | Bending awkwardly and jerkily | bending, folding, and crumpling
 ぎくん | gikun | startled, frightened, stopped one breath short | mental state
+ぎくん | gikun | Someone suddenly touched on a secret of yours | surprised
 ぎくん | gikun | Sudden, violent bending back and forth | breaking and bending
 ぎくり | gikuri | unpleasant surprise | manga sound effects
 ぎくり | gikuri | startled, frightened, stopped one breath short | mental state
+ぎくり | gikuri | Someone suddenly touched on a secret of yours | surprised
+ぎくり | gikuri | Something suddenly bending back and forth | breaking and bending
 ぎくしゃく | gikushaku | clumsy, awkward | motions
 ぎくしゃく | gikushaku | clumsy | performing an action
 ぎくしゃく | gikushaku | clumsy, stiff and unnatural | personal relations
@@ -1247,7 +1324,7 @@ Hiragana | Romaji | Translation | Applies To
 ぎりぎり | girigiri | grinding the teeth | performing an action
 ぎりぎり | girigiri | barely, just in time | temporal aspect
 ぎろ | giro | glare, stare at | manga sound effects
-ぎろっ・きろり | giro' or kirori | Big eyes glaring | looking and glaring
+ぎろっ | giro' | Big eyes glaring | looking and glaring
 ぎろり | girori | Glaring threateningly | looking and glaring
 ぎし | gishi | creaking | manga sound effects
 ぎしぎし | gishigishi | jam-packed | available space
@@ -1257,7 +1334,9 @@ Hiragana | Romaji | Translation | Applies To
 ぎとぎと | gitogito | feeling sticky and greasy from oil | feelings
 ぎとぎと | gitogito | sticky, greasy | physical state
 ぎざぎざ | gizagiza | indented | form
+ごっくん | go'kun | Sipping or swallowing and making a gulp sound | drinking and getting drunk
 ごっくり | go'kuri | Drinking loudly in one breath | drinking and getting drunk
+ごっくりごっくり | go'kurigo'kuri | Drinking and making gulping sounds with your throat | drinking and getting drunk
 ごっそり | go'sori | entirely | quantity
 ごっそり | go'sori | a large (not per se literally) move | quantity
 ごっとんごっとん | go'tongo'ton | heavy rumbling | onomatopoeia
@@ -1268,12 +1347,14 @@ Hiragana | Romaji | Translation | Applies To
 ごぼごぼ | gobogobo | gurgling | onomatopoeia
 ごぼごぼ | gobogobo | gurgling | state
 ごぼごぼ | gobogobo | Bubbling loudly | rippling, bubbling, and sinking
+ごぶごぶ | gobugobu | Drinking and making gulping sounds with your throat | drinking and getting drunk
 ごちゃごちゃ | gochagocha | mix, jumble | action
 ごちゃごちゃ | gochagocha | be a mess, be confused | mental state
 ごちゃごちゃ | gochagocha | disordered, mixed up, confused | personal relations
 ごちゃごちゃ | gochagocha | confused, in disorder | resultant state
 ごちゃごちゃ | gochagocha | mixed up, jumbled | spacial orientation
 ごちゃごちゃ | gochagocha | griping about trifling matters | speech
+ごちゃごちゃ | gochagocha | Telling various excuses or complaints | saying and speaking
 ごちごち | gochigochi | hard to bite on | physical state
 ごちごち | gochigochi | particularly hard | texture
 ごちん | gochin | a comedy impact | manga sound effects
@@ -1281,22 +1362,26 @@ Hiragana | Romaji | Translation | Applies To
 ごふ | gofu | cough | manga sound effects
 ごごごご | gogogogo | a menacing atmosphere | manga sound effects
 ごほ | goho | a deep, wet, cough | manga sound effects
+ごほごほ | gohogoho | Strong coughing fit | coughing and choking
 ごほん | gohon | a deep, wet, cough | manga sound effects
 ごほん | gohon | Coughing strongly once to clear a blocked throat | coughing and choking
 ごほんごほん | gohongohon | coughing | onomatopoeia
 ごほんごほん | gohongohon | Strongly coughing many time | coughing and choking
-ごじゃごじゃ・ごたごた・ごちゃごちゃ | gojagoja or gotagota or gochagocha | Telling various excuses or complaints | saying and speaking
+ごじゃごじゃ | gojagoja | Telling various excuses or complaints | saying and speaking
+ごこりごこり | gokorigokori | Passing the time doing nothing | doing nothing
 ごく | goku | gulp, swallow | manga sound effects
 ごくっ | goku' | downing a mouthful quickly | performing an action
-ごくっ・ごくり・ごくん・ごっくん | goku' or gokuri or gokun or go'kun | Sipping or swallowing and making a gulp sound | drinking and getting drunk
+ごくっ | goku' | Sipping or swallowing and making a gulp sound | drinking and getting drunk
 ごくごく | gokugoku | gulping | onomatopoeia
 ごくごく | gokugoku | that noise made when drinking large gulps one after another | performing an action
-ごくごく・ごっくりごっくり・ごぶごぶ | gokugoku or go'kurigo'kuri or gobugobu | Drinking and making gulping sounds with your throat | drinking and getting drunk
+ごくごく | gokugoku | Drinking and making gulping sounds with your throat | drinking and getting drunk
 ごくん | gokun | gulp, swallow | manga sound effects
 ごくん | gokun | in a gulp | performing an action
+ごくん | gokun | Sipping or swallowing and making a gulp sound | drinking and getting drunk
 ごくんごくん | gokungokun | drinking | onomatopoeia
 ごくんごくん | gokungokun | Drinking quickly with gulp, gulp, gulping sounds | drinking and getting drunk
 ごくり | gokuri | in a gulp | performing an action
+ごくり | gokuri | Sipping or swallowing and making a gulp sound | drinking and getting drunk
 ごくりごくり | gokurigokuri | gulping | onomatopoeia
 ごくりごくり | gokurigokuri | Drinking continuously with loud gulp, gulp, gulping sounds | drinking and getting drunk
 ごにょごにょ | gonyogonyo | mumbling | speech
@@ -1319,7 +1404,7 @@ Hiragana | Romaji | Translation | Applies To
 ごろ | goro | rolling over | manga sound effects
 ごろっ | goro' | sudden, single, roll | motions
 ごろっ | goro' | lieing down lazily  | performing an action
-ごろっ・ごろり・ごろん | goro' or gorori or goron | Lying down and easily falling asleep | sleeping and laying down
+ごろっ | goro' | Lying down and easily falling asleep | sleeping and laying down
 ごろごろ | gorogoro | purring | manga sound effects
 ごろごろ | gorogoro | loafing | mental state
 ごろごろ | gorogoro | roll over and over, rumbling | motions
@@ -1330,14 +1415,16 @@ Hiragana | Romaji | Translation | Applies To
 ごろごろ | gorogoro | all over the place | spacial orientation
 ごろごろ | gorogoro | The sound of thunder rumbling and reverberating | rain, snow, and ice
 ごろごろ | gorogoro | Something like a boulder tumbling | dirt, sand, and rocks
+ごろごろ | gorogoro | Passing the time doing nothing | doing nothing
 ごろごろ | gorogoro | The ache of something getting in your eye | hurt and pain
-ごろごろ・ごこりごこり | gorogoro or gokorigokori | Passing the time doing nothing | doing nothing
 ごろごろっ | gorogoro' | roll over and over, rumbling | motions
 ごろん | goron | rolling over | manga sound effects
 ごろん | goron | a sudden single roll | motions
+ごろん | goron | Lying down and easily falling asleep | sleeping and laying down
 ごろんごろん | gorongoron | Rolling around idly | doing nothing
 ごろり | gorori | rolling once | motions
 ごろり | gorori | lieing down lazily  | performing an action
+ごろり | gorori | Lying down and easily falling asleep | sleeping and laying down
 ごしゃどしゃ | goshadosha | jumbled | spacial orientation
 ごし | goshi | scrubbing, rubbing, wiping | manga sound effects
 ごしっごしっ | goshi'goshi' | sawing | onomatopoeia
@@ -1352,13 +1439,15 @@ Hiragana | Romaji | Translation | Applies To
 ごたごた | gotagota | confused, in a state of turmoil | resultant state
 ごたごた | gotagota | mixed up | spacial orientation
 ごたごた | gotagota | talking disorderly about ones grievances | speech
+ごたごた | gotagota | Telling various excuses or complaints | saying and speaking
 ごたごた | gotagota | Noisy complaining and fussing | noisy
 ごてごて | gotegote | persistently complaining | speech
 ごてごて | gotegote | thickly, heavily (varieties) | to appear to be
 ごとごと | gotogoto | boiling | onomatopoeia
 ごとごと | gotogoto | boiling strongly | state
 ごとごと | gotogoto | The even swaying of a train car | shaking and swaying
-ごとり・ごとん | gotori or goton | Heavy things falling or collapsing | falling and dropping
+ごとん | goton | Heavy things falling or collapsing | falling and dropping
+ごとり | gotori | Heavy things falling or collapsing | falling and dropping
 ごつっ | gotsu' | the sound of bumping into something hard | action
 ごつごつ | gotsugotsu | rugged | form
 ごつごつ | gotsugotsu | knocking | onomatopoeia
@@ -1384,10 +1473,12 @@ Hiragana | Romaji | Translation | Applies To
 ぐっ | gu' | noticably, markedly | resultant state
 ぐっ | gu' | markedly | resultant state
 ぐっ | gu' | Keenly staring at your focal point | looking and glaring
+ぐっ | gu' | Gulping down something | drinking and getting drunk
 ぐっ | gu' | Receiving a strong blow to your heart | surprised
 ぐっぐっ | gu'gu' | Drinking quickly without stopping for air | drinking and getting drunk
 ぐっしょり | gu'shori | dripping wet | physical state
 ぐっしょり | gu'shori | Clothes getting severely wet | getting wet
+ぐっすん | gu'sun | The sound of your nose sniff when you cry | crying
 ぐっすり | gu'suri | to sleep soundly | body function
 ぐっすり | gu'suri | deep sleep | manga sound effects
 ぐっすり | gu'suri | Completely and totally asleep | sleeping and laying down
@@ -1396,11 +1487,14 @@ Hiragana | Romaji | Translation | Applies To
 ぐったり | gu'tari | lacking strength | performing an action
 ぐったり | gu'tari | to lie sprawled, dead tired, withered | physical health
 ぐったり | gu'tari | wilted, drooping | resultant state
+ぐったり | gu'tari | Tired and unable to move | tired
 ぐったり | gu'tari | Completely exhausted from fatigue or sickness | not feeling well
 ぐあっはは | gua'haha | evil laughter | manga sound effects
 ぐあはは | guahaha | evil laughter | manga sound effects
-ぐびっ・ぐぶり | gubi' or guburi | The gulping noise your throat makes when you drink alcohol | drinking and getting drunk
-ぐびぐび・ぐびりぐびり | gubigubi or gubirigubiri | Repetitive gulping from drinking alcohol | drinking and getting drunk
+ぐびっ | gubi' | The gulping noise your throat makes when you drink alcohol | drinking and getting drunk
+ぐびぐび | gubigubi | Repetitive gulping from drinking alcohol | drinking and getting drunk
+ぐびりぐびり | gubirigubiri | Repetitive gulping from drinking alcohol | drinking and getting drunk
+ぐぶり | guburi | The gulping noise your throat makes when you drink alcohol | drinking and getting drunk
 ぐちゃ | gucha | smashing, crunching | manga sound effects
 ぐちゃぐちゃ | guchagucha | soggy | form
 ぐちゃぐちゃ | guchagucha | chewing | onomatopoeia
@@ -1409,10 +1503,13 @@ Hiragana | Romaji | Translation | Applies To
 ぐちゃぐちゃ | guchagucha | soggy | resultant state
 ぐちゃぐちゃ | guchagucha | complaining endlessly, griping | speech
 ぐちゃぐちゃ | guchagucha | mushy, pulpy | texture
+ぐちゃぐちゃ | guchagucha | Eating loudly and vulgarly | eating, chewing, and licking
 ぐちゃぐちゃ | guchagucha | Talking forever about meaningless things | saying and speaking
 ぐちぐち | guchiguchi | Making complaints to someone or aloud to yourself | saying and speaking
+ぐちょぐちょ | guchogucho | Clothes getting completely wet | getting wet
 ぐちゅぐちゅ | guchuguchu | Rinsing out your mouth or chewing something | eating, chewing, and licking
 ぐだぐだ | gudaguda | tedious, wordy | speech
+ぐだぐだ | gudaguda | Doing or saying the same thing over and over again incessantly | saying and speaking
 ぐだぐだ | gudaguda | Acting slow out of unwillingness or laziness | hesitating and faltering
 ぐでんぐでん | gudenguden | drunk and passing out | body function
 ぐでんぐでん | gudenguden | Getting black out drunk | drinking and getting drunk
@@ -1450,23 +1547,27 @@ Hiragana | Romaji | Translation | Applies To
 ぐんにゃり | gunnyari | soft, lacking tension (more emphatc than ぐにゃり) | physical health
 ぐんにゃり | gunnyari | Bending or twisting easily | bending, folding, and crumpling
 ぐにゃ | gunya | sudden mental realisation | manga sound effects
+ぐにゃ | gunya | Part of something suddenly bending | bending, folding, and crumpling
 ぐにゃっ | gunya' | the first impression of touching something squishy | feelings
 ぐにゃぐにゃ | gunyagunya | soft | form
 ぐにゃぐにゃ | gunyagunya | soft, disfigured | resultant state
+ぐにゃぐにゃ | gunyagunya | Soft and freely bending | bending, folding, and crumpling
 ぐにゃり | gunyari | the feeling of touching something squishy | feelings
 ぐにゃり | gunyari | bending slowly, gently (for bigger things than くにゃり) | performing an action
 ぐにゃり | gunyari | soft, lacking tension | physical health
 ぐにゃり | gunyari | bent, distorted | resultant state
+ぐにゃり | gunyari | Part of something suddenly bending | bending, folding, and crumpling
 ぐおん | guon | the sound of a tumbledryer | manga sound effects
 ぐおー | guoo | a roar | manga sound effects
 ぐら | gura | stagger, moving shaky | manga sound effects
-ぐらっ・ぐらり | gura' or gurari | A sudden, huge shake for just a moment | shaking and swaying
+ぐらっ | gura' | A sudden, huge shake for just a moment | shaking and swaying
 ぐらぐら | guragura | shaking, unstable | motions
 ぐらぐら | guragura | boiling intensely | state
 ぐらぐら | guragura | shaky | structure
 ぐらぐら | guragura | Unsure due to weak resolution, indecisiveness | hesitating and faltering
 ぐらぐら | guragura | Huge, irregular, continuous shaking | shaking and swaying
 ぐらり | gurari | in a big swaying motion | performing an action
+ぐらり | gurari | A sudden, huge shake for just a moment | shaking and swaying
 ぐらりぐらり | gurarigurari | Huge, slow shaking movements | shaking and swaying
 ぐり | guri | giving noogies | manga sound effects
 ぐりぐり | guriguri | press and turn | action
@@ -1484,38 +1585,47 @@ Hiragana | Romaji | Translation | Applies To
 ぐるり | gururi | surround, encircle | motions
 ぐるりぐるり | gururigururi | twirl | action
 ぐるりぐるり | gururigururi | slowly rotating, winding | motions
-ぐさっ・ぐさり | gusa' or gusari | The psychological wounds from someone's words | hurt and pain
-ぐさっ・ぐさり | gusa' or gusari | Stabbing deeply once with a blade | piercing and stabbing
+ぐさっ | gusa' | The psychological wounds from someone's words | hurt and pain
+ぐさっ | gusa' | Stabbing deeply once with a blade | piercing and stabbing
 ぐさぐさ | gusagusa | Receiving a blow to the heart from cold words | hurt and pain
 ぐさぐさ | gusagusa | Deeply stabbing with a blade over and over | piercing and stabbing
+ぐさり | gusari | The psychological wounds from someone's words | hurt and pain
+ぐさり | gusari | Stabbing deeply once with a blade | piercing and stabbing
 ぐしゃ | gusha | squeeze, grab, crush | manga sound effects
 ぐしゃぐしゃ | gushagusha | smash, mash | action
 ぐしゃぐしゃ | gushagusha | crushed, smashed | resultant state
 ぐしゃり | gushari | crushed, smashed | resultant state
 ぐしょぐしょ | gushogusho | extremely wet | physical state
+ぐしょぐしょ | gushogusho | Clothes getting completely wet | getting wet
 ぐしょぐしょ | gushogusho | Lots of tears flowing | crying
-ぐしょぐしょ・ぐちょぐちょ | gushogusho or guchogucho | Clothes getting completely wet | getting wet
-ぐすっ・ぐすり | gusu' or gusuri | Sniffling, moved to tears | crying
+ぐすっ | gusu' | Sniffling, moved to tears | crying
 ぐすぐす | gusugusu | sniffling | onomatopoeia
 ぐすぐす | gusugusu | Crying and sniffling | crying
+ぐすん | gusun | The sound of your nose sniff when you cry | crying
+ぐすり | gusuri | Sniffling, moved to tears | crying
 ぐすりぐすり | gusurigusuri | Sniffling and snorting snot | crying
+ぐたっ | guta' | Tired and unable to move | tired
 ぐたぐた | gutaguta | dead drunk | body function
 ぐたぐた | gutaguta | more emphatic than くたくた | physical health
 ぐたぐた | gutaguta | soft and pulpy | texture
+ぐたぐた | gutaguta | Horribly tired and worn out | tired
 ぐたぐた | gutaguta | Getting so drunk you can't even move your body | drinking and getting drunk
 ぐたぐた | gutaguta | Complaining over and over about things, listing them | saying and speaking
 ぐたり | gutari | more emphatic than くたくた | physical health
 ぐつぐつ | gutsugutsu | boiling | onomatopoeia
 ぐつぐつ | gutsugutsu | simmering | state
 ぐー | guu | sound of a sleeping person | manga sound effects
+ぐー | guu | Drinking something in one gulp | drinking and getting drunk
 ぐーっ | guu' | extreme concentration | manga sound effects
+ぐーっ | guu' | Drinking something in one gulp | drinking and getting drunk
 ぐーぐー | guuguu | snoring | body function
 ぐーぐー | guuguu | growling stomach | onomatopoeia
 ぐーぐー | guuguu | sleeping noise | onomatopoeia
 ぐーぐー | guuguu | rumbling | onomatopoeia
-ぐーぐー・ぐーすか | guuguu or guusuka | Snoring while you're fast asleep | sleeping and laying down
+ぐーぐー | guuguu | Snoring while you're fast asleep | sleeping and laying down
 ぐーすか | guusuka | to sleep (between snoring and breathing) | body function
 ぐーすか | guusuka | sleeping noise | onomatopoeia
+ぐーすか | guusuka | Snoring while you're fast asleep | sleeping and laying down
 ぐーたら | guutara | Not having the willpower to do anything | doing nothing
 ぐず | guzu | whine, grumble | manga sound effects
 ぐずぐず | guzuguzu | grumble, complaining about everything | speech
@@ -1524,8 +1634,10 @@ Hiragana | Romaji | Translation | Applies To
 ぐずり | guzuri | A heavy, shaking movement | shaking and swaying
 ぎゃ | gya | shriek | manga sound effects
 ぎゃ | gya | grab | manga sound effects
-ぎゃー・ぎゃーぎゃー | gya or gyagya | An obstinate kid shouting | crying
+ぎゃー | gya | An obstinate kid shouting | crying
+ぎゃー | gya | Letting out a scream of surprise, fear, or pain | surprised
 ぎゃっ | gya' | eek! | onomatopoeia
+ぎゃっ | gya' | Letting out a scream of surprise, fear, or pain | surprised
 ぎゃっ | gya' | Shouting unintentionally in confusion | flustered, impatient, and unable to calm down
 ぎゃふん | gyafun | rendered speechless, dumbfounded | mental state
 ぎゃふん | gyafun | Not being able to talk back at all after being accused of something, unable to argue | not feeling well
@@ -1534,15 +1646,19 @@ Hiragana | Romaji | Translation | Applies To
 ぎゃーぎゃー | gyagya | high pitched crying | onomatopoeia
 ぎゃーぎゃー | gyagya | aaaaaaaaaaa! | onomatopoeia
 ぎゃーぎゃー | gyagya | Making complaints loudly and repeatedly | saying and speaking
+ぎゃーぎゃー | gyagya | Yelping out of joy or fear | noisy
+ぎゃーぎゃー | gyagya | An obstinate kid shouting | crying
 ぎゃはは | gyahaha | Laughing vulgarly when you encounter something that is good for you or that you can take advantage of | laughing and smiling
 ぎゃんぎゃん | gyangyan | Making a big fuss, bawling | noisy
 ぎょっ | gyo' | shocked, aghast | mental state
+ぎょっ | gyo' | Something suddenly opening your eyes | surprised
 ぎょえー | gyoee | Completely amazing and surprised | surprised
-ぎょぎょ・ぎょっ | gyogyo or gyo' | Something suddenly opening your eyes | surprised
-ぎょろ・ぎょろり | gyoro or gyorori | Glaring intently at someone | looking and glaring
+ぎょぎょ | gyogyo | Something suddenly opening your eyes | surprised
+ぎょろ | gyoro | Glaring intently at someone | looking and glaring
 ぎょろぎょろ | gyorogyoro | goggle, glare frightened | eye expressions
 ぎょろぎょろ | gyorogyoro | Big eyeballs shining keenly | looking and glaring
 ぎょろり | gyorori | giving a single piercing glare | eye expressions
+ぎょろり | gyorori | Glaring intently at someone | looking and glaring
 ぎゅ | gyu | grab, squeeze, twist | manga sound effects
 ぎゅー | gyu | fast motion | manga sound effects
 ぎゅー | gyu | Knocked down (emotionally) after being accused of something | not feeling well
@@ -1557,7 +1673,7 @@ Hiragana | Romaji | Translation | Applies To
 はっ | ha' | Suddenly noticing something and being surprised by it | surprised
 はっはっ | ha'ha' | stronger than はーはー | body function
 はっはっ | ha'ha' | a merry laugh (masculine) | laughter
-はっはっ・ははは | ha'ha' or hahaha | Laughing without a worry or care | laughing and smiling
+はっはっ | ha'ha' | Laughing without a worry or care | laughing and smiling
 はっきり | ha'kiri | clearly, plainly | resultant state
 はっきり | ha'kiri | clear | sight
 はっきり | ha'kiri | clear | weather
@@ -1567,6 +1683,7 @@ Hiragana | Romaji | Translation | Applies To
 はーはー | haahaa | panting open mouthed | body function
 はーはー | haahaa | panting | manga sound effects
 はーはー | haahaa | panting | onomatopoeia
+ははは | hahaha | Laughing without a worry or care | laughing and smiling
 はきはき | hakihaki | clear, concise | speech
 はきはき | hakihaki | Talking or replying in a clear, friendly manner | saying and speaking
 はくちょん | hakuchon | achoo! | onomatopoeia
@@ -1581,19 +1698,20 @@ Hiragana | Romaji | Translation | Applies To
 はらはら | harahara | Tears endlessly falling | water drops, dripping, falling, and splashing
 はらはら | harahara | Nervous or worried about something, on edge | flustered, impatient, and unable to calm down
 はらはら | harahara | Tears or petals falling one by one | falling and dropping
-はらり・ぱらり | harari or parari | Something light falling | falling and dropping
+はらり | harari | Something light falling | falling and dropping
 はた | hata | strike | action
 はた | hata | soft, quite landing noise | manga sound effects
 はた | hata | stop suddenly | motions
 はたはた | hatahata | Cloth fluttering in the wind | wind, blowing
-はたり・ぱたり | hatari or patari | Something light falling | falling and dropping
+はたり | hatari | Something light falling | falling and dropping
 はうはう | hauhau | gobbling | manga sound effects
 へっへっ | he'he' | evil, mean-spirited | laughter
-へっへっ・へへへ | he'he' or hehehe | Laughing meanly, triumphantly | laughing and smiling
+へっへっ | he'he' | Laughing meanly, triumphantly | laughing and smiling
 へべれけ | hebereke | stupendously drunk | body function
 へべれけ | hebereke | Getting super drunk, with slurred thinking and speaking | drinking and getting drunk
 へどもど | hedomodo | stutter, faltering | speech
 へへへ | hehehe | chuckling | manga sound effects
+へへへ | hehehe | Laughing meanly, triumphantly | laughing and smiling
 へこへこ | hekoheko | Weakly bending easily, pliable | bending, folding, and crumpling
 へなへな | henahena | worn out, exhausted | manga sound effects
 へなへな | henahena | weakly | performing an action
@@ -1611,20 +1729,21 @@ Hiragana | Romaji | Translation | Applies To
 へとへと | hetoheto | exhausted | physical health
 へとへと | hetoheto | Completely exhausted and out of breath | tired
 ひっ | hi' | Holding your breath out of shock | surprised
+ひっひっ | hi'hi' | Shifty laughing of a bad person or villain | laughing and smiling
 ひっひっ | hi'hi' | Sobbing but trying to hold back | crying
-ひっひっ・ひひひ | hi'hi' or hihihi | Shifty laughing of a bad person or villain | laughing and smiling
 ひっく | hi'ku | Hiccup, usually of a drunk person | drinking and getting drunk
 ひっく | hi'ku | A crying hiccup, similar to hyperventilation | crying
 ひっく | hi'ku | Terribly surprised | surprised
 ひっそり | hi'sori | still, hushed | surrounding
 ひえー | hiee | eek | manga sound effects
+ひひひ | hihihi | Shifty laughing of a bad person or villain | laughing and smiling
 ひひーん | hihiin | neigh | onomatopoeia
 ひー | hii | A cry of excitement, fear, or pain | surprised
 ひーっ | hii' | shrieking | manga sound effects
 ひーひー | hiihii | Crying out with a pitiful voice | crying
 ひく | hiku | shaking through anger or sobbing | manga sound effects
 ひく | hiku | hiccup | manga sound effects
-ひくっ・ぴくっ・ぴくり・ぴくん | hiku' or piku' or pikuri or pikun | Body, or part of it, spasming suddenly | shivering and shaking
+ひくっ | hiku' | Body, or part of it, spasming suddenly | shivering and shaking
 ひくひく | hikuhiku | shaking through anger or sobbing | manga sound effects
 ひくひく | hikuhiku | twitching | performing an action
 ひくひく | hikuhiku | Part of your body twitching or cramping | shivering and shaking
@@ -1637,10 +1756,11 @@ Hiragana | Romaji | Translation | Applies To
 ひらり | hirari | fluttering lightly, once | motions
 ひらり | hirari | leaping, jumping lightly | performing an action
 ひらりひらり | hirarihirari | nimbly,, by jumping | performing an action
-ひりっ・ぴりっ | hiri' or piri' | Feeling a sudden itch, pain, or hot taste | hurt and pain
+ひりっ | hiri' | Feeling a sudden itch, pain, or hot taste | hurt and pain
 ひりひり | hirihiri | smarting | feelings
 ひりひり | hirihiri | pungent, spicy, to smart | flavour
 ひりひり | hirihiri | continuous pain or irritation | manga sound effects
+ひりひり | hirihiri | An irritation in your throat or on your skin from pain or hot food | hurt and pain
 ひりり | hiriri | Feeling a pain from something for a moment, tingling, irritation | hurt and pain
 ひし | hishi | an overwhelming feeling | emotions
 ひし | hishi | hold onto something firmly, tightly | performing an action
@@ -1655,12 +1775,14 @@ Hiragana | Romaji | Translation | Applies To
 ひたひた | hitahita | Lightly soaking in water | getting wet
 ひたひた | hitahita | Waves lapping against the shore | rippling, bubbling, and sinking
 ひやっ | hiya' | shuddering (near terror-stricken) | mental state
-ひやっ・ひやり | hiya' or hiyari | Cold water or air touching your skin | cold weather and feeling cold
-ひやっ・ひやり | hiya' or hiyari | Momentarily feeling like something bad is about to happen | surprised
+ひやっ | hiya' | Cold water or air touching your skin | cold weather and feeling cold
+ひやっ | hiya' | Momentarily feeling like something bad is about to happen | surprised
 ひやひや | hiyahiya | to continually feeling fearful (like in a dangerous situation) | emotions
 ひやひや | hiyahiya | fear, worry | manga sound effects
 ひやひや | hiyahiya | Your skin feeling cold | cold weather and feeling cold
 ひやり | hiyari | shuddering (near terror-stricken) | mental state
+ひやり | hiyari | Cold water or air touching your skin | cold weather and feeling cold
+ひやり | hiyari | Momentarily feeling like something bad is about to happen | surprised
 ひやりひやり | hiyarihiyari | Your skin feeling cold over and over | cold weather and feeling cold
 ひよひよ | hiyohiyo | super fuzzy peeping | onomatopoeia
 ほっ | ho' | relieved, letting out a sight | mood
@@ -1668,6 +1790,7 @@ Hiragana | Romaji | Translation | Applies To
 ほっほっ | ho'ho' | Laughing loudly as if you're out of breath, like Santa's laugh | laughing and smiling
 ほっそり | ho'sori | Slim and slender figure | thin
 ほほほ | hohoho | sophisticated feminine laughter | manga sound effects
+ほほほ | hohoho | With a narrow mouth, acting refined | laughing and smiling
 ほいっさっ | hoi'sa' | said when performing a very easy task that requires a single the sound made by someone who is exerting physical effort | manga sound effects
 ほいほい | hoihoi | accept something readily | action
 ほいほい | hoihoi | Happily carefree and without much thought | delighted
@@ -1678,7 +1801,8 @@ Hiragana | Romaji | Translation | Applies To
 ほかほか | hokahoka | warm, fresh, steaming | state
 ほかほか | hokahoka | comfortably warm | weather
 ほかほか | hokahoka | A warm body or food | hot and warm
-ほこっ・ほこほこ | hoko' or hokohoko | Warm and feeling good | hot and warm
+ほこっ | hoko' | Warm and feeling good | hot and warm
+ほこほこ | hokohoko | Warm and feeling good | hot and warm
 ほくほく | hokuhoku | beaming, being pleased with oneself | facial expression
 ほくほく | hokuhoku | soft and tasty | flavour
 ほくほく | hokuhoku | delighted, satisfied | mood
@@ -1697,15 +1821,18 @@ Hiragana | Romaji | Translation | Applies To
 ほろっ | horo' | to feel tipsy | body function
 ほろっ | horo' | a single small teardrop, to be touched | crying
 ほろっ | horo' | moved to tears | emotions
-ほろっ・ほろり | horo' or horori | Getting tipsy, or a comfortable amount of drunkness | drinking and getting drunk
-ほろっ・ほろり | horo' or horori | A single tear spilling over and falling | falling and dropping
-ほろっ・ほろり・ぽろり | horo' or horori or porori | To shed a single tear out of sympathy or from being emotionally moved | crying
+ほろっ | horo' | Getting tipsy, or a comfortable amount of drunkness | drinking and getting drunk
+ほろっ | horo' | To shed a single tear out of sympathy or from being emotionally moved | crying
+ほろっ | horo' | A single tear spilling over and falling | falling and dropping
 ほろほろ | horohoro | small tears silently rolling off the cheek | crying
 ほろほろ | horohoro | Tears or drops of water flowing | falling and dropping
 ほろり | horori | a single small teardrop, to be touched | crying
+ほろり | horori | Getting tipsy, or a comfortable amount of drunkness | drinking and getting drunk
+ほろり | horori | To shed a single tear out of sympathy or from being emotionally moved | crying
 ほろり | horori | Feeling sympathy for someone | thinking and feeling
+ほろり | horori | A single tear spilling over and falling | falling and dropping
+ほろりほろり | hororihorori | Tears spilling down your cheeks one at a time | crying
 ほろりほろり | hororihorori | Tears, flowers, or leaves continuously falling | falling and dropping
-ほろりほろり・ぽろりぽろり | hororihorori or pororiporori | Tears spilling down your cheeks one at a time | crying
 ほてほて | hotehote | toddling | manga sound effects
 ほわっ | howa' | Soft and wrapped in warmth | hot and warm
 ほやほや | hoyahoya | to look fresh, inexperienced | career experience
@@ -1724,15 +1851,18 @@ Hiragana | Romaji | Translation | Applies To
 ひょこ | hyoko | popping up all of a sudden | manga sound effects
 ひょこひょこ | hyokohyoko | bob, dart, move around | performing an action
 ひょこひょこ | hyokohyoko | Taking a carefree stroll | walking and running
-ひょろっ・ひょろひょろ・ひょろり・ひょろん | hyoro' or hyorohyoro or hyorori or hyoron | Lanky, thin and tall | thin
+ひょろっ | hyoro' | Lanky, thin and tall | thin
 ひょろひょろ | hyorohyoro | thin, feeble | form
 ひょろひょろ | hyorohyoro | tottering | performing an action
 ひょろひょろ | hyorohyoro | staggering, reeling | performing an action
 ひょろひょろ | hyorohyoro | tall and thin, tall and feeble | the body
+ひょろひょろ | hyorohyoro | Lanky, thin and tall | thin
+ひょろん | hyoron | Lanky, thin and tall | thin
+ひょろり | hyorori | Lanky, thin and tall | thin
 ひゅ | hyu | quick movement | manga sound effects
 ひゅー | hyu | cold wind | manga sound effects
-ひゅー・ぴゅー | hyu or pyu | The sound of slightly strong wind blowing | wind, blowing
-ひゅっ・びゅっ・ぴゅっ | hyu' or byu' or pyu' | Something cutting and flying in the wind | wind, blowing
+ひゅー | hyu | The sound of slightly strong wind blowing | wind, blowing
+ひゅっ | hyu' | Something cutting and flying in the wind | wind, blowing
 ひゅーひゅー | hyuhyu | wizz | onomatopoeia
 ひゅーひゅー | hyuhyu | whizzing | onomatopoeia
 ひゅーひゅー | hyuhyu | spouting vigorously | state
@@ -1757,7 +1887,7 @@ Hiragana | Romaji | Translation | Applies To
 いらいら | iraira | fuming (with anger) | manga sound effects
 いらいら | iraira | fret, irritated, edgy | mood
 いらいら | iraira | Unable to do things at your own pace, rushed and in a hurry | flustered, impatient, and unable to calm down
-いらいら・ひりひり | iraira or hirihiri | An irritation in your throat or on your skin from pain or hot food | hurt and pain
+いらいら | iraira | An irritation in your throat or on your skin from pain or hot food | hurt and pain
 いそいそ | isoiso | moving happily | manga sound effects
 いそいそ | isoiso | eager, cheerful, lighthearted | mood
 いそいそ | isoiso | Happy and lighthearted | delighted
@@ -1769,8 +1899,9 @@ Hiragana | Romaji | Translation | Applies To
 じゃっじゃーん | ja'jan | ta-dah | manga sound effects
 じゃっじゃん | ja'jan | ta-dah | manga sound effects
 じゃぼん | jabon | a big splash | manga sound effects
+じゃぼん | jabon | Water violently flying | rippling, bubbling, and sinking
 じゃぶじゃぶ | jabujabu | quick splashing | action
-じゃぶん・じゃぼん | jabun or jabon | Water violently flying | rippling, bubbling, and sinking
+じゃぶん | jabun | Water violently flying | rippling, bubbling, and sinking
 じゃぶり | jaburi | a single splash | action
 じゃーじゃー | jaja | spraying, pouring | onomatopoeia
 じゃーじゃー | jaja | spurting | onomatopoeia
@@ -1798,6 +1929,7 @@ Hiragana | Romaji | Translation | Applies To
 じっ | ji' | intent, fixed | mental actions
 じっ | ji' | fixed, firm | performing an action
 じっ | ji' | fixed, motionless | performing an action
+じっ | ji' | Not taking your eyes off your target | looking and glaring
 じっくり | ji'kuri | thoroughly | mental actions
 じっくり | ji'kuri | thoroughly, without delay | performing an action
 じっとり | ji'tori | dripping wet | physical state
@@ -1808,8 +1940,8 @@ Hiragana | Romaji | Translation | Applies To
 じーっ | jii' | the sound of silence, paired with staring, stunnedness, waiting for the other shoe to drop, etc. | manga sound effects
 じーっ | jii' | intent, fixed | mental actions
 じーっ | jii' | fixed intently | performing an action
+じーっ | jii' | Not taking your eyes off your target | looking and glaring
 じーっ | jii' | Thinking deeply and quietly | thinking and feeling
-じーっ・じっ | jii' or ji' | Not taking your eyes off your target | looking and glaring
 じーじー | jiijii | chirping | onomatopoeia
 じーじー | jiijii | buzzing | onomatopoeia
 じーん | jiin | touched deeply | emotions
@@ -1827,6 +1959,7 @@ Hiragana | Romaji | Translation | Applies To
 じめじめ | jimejime | damp, wet, moist | physical state
 じめじめ | jimejime | damp, gloomy, melancholic | surrounding
 じめじめ | jimejime | damp, gloomy, melancholic | to appear to be
+じめじめ | jimejime | Rain continuously falling and soaking things | rain, snow, and ice
 じめじめ | jimejime | Completely soaked in humidity and moisture, sodden and clammy | damp, oozing, and running
 じみじみ | jimijimi | Feeling damp | damp, oozing, and running
 じん | jin | being touched | emotions
@@ -1851,21 +1984,24 @@ Hiragana | Romaji | Translation | Applies To
 じりじり | jirijiri | Slowly approaching someone | advancing and moving
 じろ | jiro | an intense stare | manga sound effects
 じろっ | jiro' | throwing a searching glance, staring intently for a short while | eye expressions
-じろっ・じろり | jiro' or jirori | Coldly glaring at someone | looking and glaring
+じろっ | jiro' | Coldly glaring at someone | looking and glaring
 じろじろ | jirojiro | staring with curiosity, looking at something with suspicion or disapproval | eye expressions
 じろじろ | jirojiro | staring intently | manga sound effects
 じろじろ | jirojiro | Rudely staring at someone over and over | looking and glaring
 じろり | jirori | throwing a searching glance, staring intently for a short while | eye expressions
+じろり | jirori | Coldly glaring at someone | looking and glaring
 じろりじろり | jirorijirori | Rudely sending and obstinate look at someone | looking and glaring
 じたばた | jitabata | failing one's limbs | manga sound effects
 じたばた | jitabata | struggle, writhe | performing an action
 じたばた | jitabata | Impatiently squirming | flustered, impatient, and unable to calm down
-じとっ・じとり | jito' or jitori | Unpleasant moisture and humidity | damp, oozing, and running
-じとっ・じとり | jito' or jitori | Glaring with jealously and resentment | looking and glaring
+じとっ | jito' | Unpleasant moisture and humidity | damp, oozing, and running
+じとっ | jito' | Glaring with jealously and resentment | looking and glaring
 じとじと | jitojito | to feel sticky with moisture or water | feelings
 じとじと | jitojito | sticky | physical state
+じとじと | jitojito | Rain continuously falling and soaking things | rain, snow, and ice
 じとじと | jitojito | Covered in an uncomfortable amount of rain | damp, oozing, and running
-じとじと・じめじめ | jitojito or jimejime | Rain continuously falling and soaking things | rain, snow, and ice
+じとり | jitori | Unpleasant moisture and humidity | damp, oozing, and running
+じとり | jitori | Glaring with jealously and resentment | looking and glaring
 じわ | jiwa | tears welling up | manga sound effects
 じわっ | jiwa' | Liquids soaking and oozing | damp, oozing, and running
 じわじわ | jiwajiwa | slowly by steadily | manga sound effects
@@ -1902,11 +2038,11 @@ Hiragana | Romaji | Translation | Applies To
 かっ | ka' | with a bang | onomatopoeia
 かっ | ka' | overwhelmingly stuffy | weather
 かっ | ka' | blazing, blinding | weather
+かっ | ka' | Hot sunlight blazing down | bright and clear
+かっ | ka' | Growing hot from fire or anger | hot and warm
 かっ | ka' | Eyes wide open, glaring | looking and glaring
 かっ | ka' | Violently breathing in phlegm or spit | coughing and choking
 かっ | ka' | Blowing up out of shame or anger | angry, upset, antisocial
-かっ・かっか | ka' or ka'ka | Hot sunlight blazing down | bright and clear
-かっ・かっか | ka' or ka'ka | Growing hot from fire or anger | hot and warm
 かっちんかっちん | ka'chinka'chin | slow tick tock | onomatopoeia
 かっちんかっちん | ka'chinka'chin | frozen solid | physical state
 かっちり | ka'chiri | well-built, tight-fitting | resultant state
@@ -1917,11 +2053,16 @@ Hiragana | Romaji | Translation | Applies To
 かっか | ka'ka | hot (spicy) | flavour
 かっか | ka'ka | red-hot, brightly | state
 かっか | ka'ka | blazing, blinding | weather
+かっか | ka'ka | Hot sunlight blazing down | bright and clear
+かっか | ka'ka | Growing hot from fire or anger | hot and warm
 かっか | ka'ka | The sun and fire continuously burning hot | burning
-かっか・かっかっ・がみがみ | ka'ka or ka'ka' or gamigami | Agitated by anger or dissatisfaction | angry, upset, antisocial
+かっか | ka'ka | Agitated by anger or dissatisfaction | angry, upset, antisocial
 かっかっ | ka'ka' | trotting | onomatopoeia
+かっかっ | ka'ka' | Agitated by anger or dissatisfaction | angry, upset, antisocial
 かっきり | ka'kiri | exact, precise | quantity
 かっきり | ka'kiri | exactly, precisely | temporal aspect
+かっくん | ka'kun | A little disappointed because your hopes didn't come true | not feeling well
+かっくん | ka'kun | Suddenly bending back and forth and disconnecting | breaking and bending
 かっくり | ka'kuri | Suddenly lightly bending something | bending, folding, and crumpling
 かっぽかっぽ | ka'poka'po | trotting | onomatopoeia
 かっぽかっぽ | ka'poka'po | The sound of horse hooves | walking and running
@@ -1954,11 +2095,11 @@ Hiragana | Romaji | Translation | Applies To
 かく | kaku | running a hand through (someone's) hair | manga sound effects
 かく | kaku | paddling a hand through the water | manga sound effects
 かく | kaku | shaking, wobbling, losing balance | manga sound effects
-かくっ・がくっ | kaku' or gaku' | Suddenly losing some of your energy | not feeling well
+かくっ | kaku' | Suddenly losing some of your energy | not feeling well
 かくん | kakun | shaking, wobbling, losing balance | manga sound effects
 かくん | kakun | jolting, jerking | motions
-かくん・かっくん | kakun or ka'kun | A little disappointed because your hopes didn't come true | not feeling well
-かくん・かっくん | kakun or ka'kun | Suddenly bending back and forth and disconnecting | breaking and bending
+かくん | kakun | A little disappointed because your hopes didn't come true | not feeling well
+かくん | kakun | Suddenly bending back and forth and disconnecting | breaking and bending
 かくんかくん | kakunkakun | Repeatedly, lightly folding back and forth | bending, folding, and crumpling
 かん | kan | clicking heels, footsteps | manga sound effects
 かんかん | kankan | boil with rage | emotions
@@ -1968,11 +2109,11 @@ Hiragana | Romaji | Translation | Applies To
 かんかん | kankan | So outraged that you won't listen to reason | angry, upset, antisocial
 かんこん | kankon | ding dong | manga sound effects
 かぱん | kapan | rattle, open | manga sound effects
-かぽっ・がぼっ | kapo' or gabo' | Taking a drink in a good mood | drinking and getting drunk
+かぽっ | kapo' | Taking a drink in a good mood | drinking and getting drunk
 かぽかぽ | kapokapo | trotting | onomatopoeia
 から | kara | empty | manga sound effects
 からっ | kara' | crispy dry, pleasant | weather
-からっ・からり | kara' or karari | Low and clear, comfortable temperatures | bright and clear
+からっ | kara' | Low and clear, comfortable temperatures | bright and clear
 からっぽ | kara'po | empty, vacant | available space
 からっぽ | kara'po | to be all out | money issues
 からから | karakara | empty, vacant | available space
@@ -1992,7 +2133,8 @@ Hiragana | Romaji | Translation | Applies To
 からり | karari | pleasantly dry | physical state
 からり | karari | open, clear, unobstructed | sight
 からり | karari | pleasantly dry, clearing up | weather
-かりっ・かりり・かりん | kari' or kariri or karin | Biting once into something hard | eating, chewing, and licking
+からり | karari | Low and clear, comfortable temperatures | bright and clear
+かりっ | kari' | Biting once into something hard | eating, chewing, and licking
 かりかり | karikari | something scratching on something else | manga sound effects
 かりかり | karikari | irritated, uptight, nervously excited | mood
 かりかり | karikari | nervous, excited, worked up | mood
@@ -2002,6 +2144,8 @@ Hiragana | Romaji | Translation | Applies To
 かりかり | karikari | hard | texture
 かりかり | karikari | Lightly chewing on something hard with your teeth | eating, chewing, and licking
 かりかり | karikari | Quick to take offense, tightly wound | angry, upset, antisocial
+かりん | karin | Biting once into something hard | eating, chewing, and licking
+かりり | kariri | Biting once into something hard | eating, chewing, and licking
 かさ | kasa | rustle | manga sound effects
 かさっ | kasa' | falling off by crumbling | motions
 かさかさ | kasakasa | a coarse, dried out feeling | feelings
@@ -2019,8 +2163,9 @@ Hiragana | Romaji | Translation | Applies To
 かたかた | katakata | clattering | onomatopoeia
 かたかた | katakata | rattling | onomatopoeia
 かたこと | katakoto | clattering | onomatopoeia
-かたん・かたり | katan or katari | Something light and hard falling or dropping | falling and dropping
+かたん | katan | Something light and hard falling or dropping | falling and dropping
 かたんかたん | katankatan | that sound trains make on tracks | onomatopoeia
+かたり | katari | Something light and hard falling or dropping | falling and dropping
 かつがつ | katsugatsu | barely in time | temporal aspect
 かつかつ | katsukatsu | clomping | manga sound effects
 けっけっ | ke'ke' | A mocking laugh, making fun of someone | laughing and smiling
@@ -2030,16 +2175,19 @@ Hiragana | Romaji | Translation | Applies To
 けほけほ | kehokeho | Choking slightly | coughing and choking
 けけ | keke | A weird, high laugh | laughing and smiling
 けらけら | kerakera | cackle, frivolous | laughter
-けらけら・けろけろ | kerakera or kerokero | Innocent, high laughter | laughing and smiling
-けりけろ・けろっ・けろり | kerikero or kero' or kerori | As if nothing happened, nonchalantly | unconcerned and composed
+けらけら | kerakera | Innocent, high laughter | laughing and smiling
+けりけろ | kerikero | As if nothing happened, nonchalantly | unconcerned and composed
 けろっ | kero' | calm, act like nothing happened, remaining cool | mental actions
+けろっ | kero' | As if nothing happened, nonchalantly | unconcerned and composed
 けろけろ | kerokero | laughing as if nothing happened | laughter
 けろけろ | kerokero | calm, act like nothing happened, remaining cool | mental actions
 けろけろ | kerokero | ribbit | onomatopoeia
+けろけろ | kerokero | Innocent, high laughter | laughing and smiling
 けろり | kerori | uneffected, casual, unimpressed | manga sound effects
 けろり | kerori | calm, act like nothing happened, remaining cool | mental actions
 けろり | kerori | sudden disappearance of some state | resultant state
 けろり | kerori | A cloudy sky becoming bright and clear | bright and clear
+けろり | kerori | As if nothing happened, nonchalantly | unconcerned and composed
 けたけた | ketaketa | an out of place burly laugh | laughter
 けたけた | ketaketa | High laughter that sounds fake or superficial | laughing and smiling
 き | ki | glare, a hint of danger in someone's eye | manga sound effects
@@ -2096,6 +2244,7 @@ Hiragana | Romaji | Translation | Applies To
 きーきー | kiikii | screetching | onomatopoeia
 きーきー | kiikii | A noisy, shrill voice | noisy
 きーん | kiin | Feeling too cold | cold weather and feeling cold
+きんきん | kinkin | Shouting, crying, or yelling with a high-pitch voice | saying and speaking
 きんきらきん | kinkirakin | gaudy, flashy | to appear to be
 きんこん | kinkon | ding dong | manga sound effects
 きら | kira | twinkle | manga sound effects
@@ -2121,11 +2270,13 @@ Hiragana | Romaji | Translation | Applies To
 きりきり | kirikiri | A stomachache with sharp pains | hurt and pain
 きろっ | kiro' | The sudden movement of your eyes | looking and glaring
 きろきろ | kirokiro | An expression lacking calmness or stability | flustered, impatient, and unable to calm down
+きろり | kirori | Big eyes glaring | looking and glaring
 きし | kishi | creaking | manga sound effects
 こっちんこっちん | ko'chinko'chin | dry and hard | physical state
 こっちんこっちん | ko'chinko'chin | dry and hard, emphatic | texture
 こっこっ | ko'ko' | clucking | onomatopoeia
 こっくん | ko'kun | nod | manga sound effects
+こっくん | ko'kun | Sipping or swallowing lightly | drinking and getting drunk
 こっくり | ko'kuri | to nod off | body function
 こっくり | ko'kuri | nodding sharply | performing an action
 こっくり | ko'kuri | Completely and totally asleep | sleeping and laying down
@@ -2148,16 +2299,18 @@ Hiragana | Romaji | Translation | Applies To
 こちょこちょ | kochokocho | tickle | action
 こちょく | kochoku | frozen, paralysed | manga sound effects
 こほ | koho | cough | manga sound effects
-こほこほ・こんこん | kohokoho or konkon | Light cough | coughing and choking
+こほこほ | kohokoho | Light cough | coughing and choking
 こほんこほん | kohonkohon | A light, halting cough | coughing and choking
 こいこい | koikoi | beckoning | manga sound effects
 こけこっこー | kokeko'koo | cock-a-doodle-doo | onomatopoeia
-こくっ・こくり・こくん・こっくん | koku' or kokuri or kokun or ko'kun | Sipping or swallowing lightly | drinking and getting drunk
+こくっ | koku' | Sipping or swallowing lightly | drinking and getting drunk
 こくこく | kokukoku | Drinking and tasting delicious flavors | drinking and getting drunk
 こくん | kokun | swallow | manga sound effects
 こくん | kokun | to drop one's head (as a nod) | performing an action
+こくん | kokun | Sipping or swallowing lightly | drinking and getting drunk
 こくり | kokuri | nod | manga sound effects
 こくり | kokuri | nodding sharply | performing an action
+こくり | kokuri | Sipping or swallowing lightly | drinking and getting drunk
 こくりこくり | kokurikokuri | Sipping or swallowing slowly as if you're savoring the flavors | drinking and getting drunk
 こまごま | komagoma | describing in meticulous detail | speech
 こん | kon | a quiet impact | manga sound effects
@@ -2167,6 +2320,7 @@ Hiragana | Romaji | Translation | Applies To
 こんこん | konkon | well up, gush out | state
 こんこん | konkon | Snow and hail coming down one by one | rain, snow, and ice
 こんこん（昏昏） | konkon | Laying down and stretching out | sleeping and laying down
+こんこん | konkon | Light cough | coughing and choking
 こんもり | konmori | The swelling roundness of a mountain | dirt, sand, and rocks
 こーんこーん | koonkoon | barking | onomatopoeia
 こぽ | kopo | pouring | manga sound effects
@@ -2184,7 +2338,7 @@ Hiragana | Romaji | Translation | Applies To
 ころっ | koro' | easily changed [personality] | personal traits
 ころっ | koro' | a sudden, abrupt, death | physical health
 ころっ | koro' | completely change (suddenly) | resultant state
-ころっ・ころり | koro' or korori | Falling asleep from fatigue | sleeping and laying down
+ころっ | koro' | Falling asleep from fatigue | sleeping and laying down
 ころころ | korokoro | a young woman's laughter | laughter
 ころころ | korokoro | roll over and over | motions
 ころころ | korokoro | raw chirp | onomatopoeia
@@ -2201,9 +2355,11 @@ Hiragana | Romaji | Translation | Applies To
 ころり | korori | roll over, fall down flat | performing an action
 ころり | korori | easily changed [personality] | personal traits
 ころり | korori | a sudden, abrupt, death | physical health
+ころり | korori | Falling asleep from fatigue | sleeping and laying down
 ころりころり | kororikorori | rolling at intervals | motions
 こせこせ | kosekose | confined | available space
 こせこせ | kosekose | fussy, make a big deal out of nothing | personal traits
+こせこせ | kosekose | Making a big deal out of nothing | flustered, impatient, and unable to calm down
 こしこし | koshikoshi | rubbing, wiping | manga sound effects
 こそ | koso | sneaky, stealthy | manga sound effects
 こそこそ | kosokoso | stealthily | action
@@ -2218,7 +2374,8 @@ Hiragana | Romaji | Translation | Applies To
 ことこと | kotokoto | boiling | onomatopoeia
 ことこと | kotokoto | rattling | onomatopoeia
 ことこと | kotokoto | boiling lightly | state
-ことり・ことん | kotori or koton | Light things falling or collapsing | falling and dropping
+ことん | koton | Light things falling or collapsing | falling and dropping
+ことり | kotori | Light things falling or collapsing | falling and dropping
 こつこつ | kotsukotsu | slowly but surely | manga sound effects
 こつこつ | kotsukotsu | knocking | onomatopoeia
 こつこつ | kotsukotsu | trotting | onomatopoeia
@@ -2231,13 +2388,15 @@ Hiragana | Romaji | Translation | Applies To
 く | ku | sound of a growling stomach | manga sound effects
 くっ | ku' | suddenly bend | motions
 くっ | ku' | noticably, markedly | resultant state
-くっ・ぐっ | ku' or gu' | Gulping down something | drinking and getting drunk
+くっ | ku' | Gulping down something | drinking and getting drunk
+くっ | ku' | Trying not to laugh, but laughing anyway | laughing and smiling
 くっきり | ku'kiri | distinct, clearly | resultant state
 くっきり | ku'kiri | distinctive | sight
 くっきり | ku'kiri | standing out | state
-くっく・くっくっ | ku'ku or ku'ku' | Laughing quietly, unable to hold it in | laughing and smiling
+くっく | ku'ku | Laughing quietly, unable to hold it in | laughing and smiling
 くっくっ | ku'ku' | laughing but trying to supress it. | laughter
 くっくっ | ku'ku' | coo | onomatopoeia
+くっくっ | ku'ku' | Laughing quietly, unable to hold it in | laughing and smiling
 くあくあ | kuakua | quak | onomatopoeia
 くちゃくちゃ | kuchakucha | wrinkle, crumple | action
 くちゃくちゃ | kuchakucha | squelch, press hard | action
@@ -2246,9 +2405,11 @@ Hiragana | Romaji | Translation | Applies To
 くちゃくちゃ | kuchakucha | squelching | onomatopoeia
 くちゃくちゃ | kuchakucha | the sound of chewing | performing an action
 くちゃくちゃ | kuchakucha | out of shape, crumpled | resultant state
-くだくだ・ぐだぐだ・くどくど | kudakuda or gudaguda or kudokudo | Doing or saying the same thing over and over again incessantly | saying and speaking
+くちゃくちゃ | kuchakucha | Eating loudly and vulgarly | eating, chewing, and licking
+くだくだ | kudakuda | Doing or saying the same thing over and over again incessantly | saying and speaking
 くどくど | kudokudo | repetetive | manga sound effects
 くどくど | kudokudo | hammering on something | speech
+くどくど | kudokudo | Doing or saying the same thing over and over again incessantly | saying and speaking
 くは | kuha | yawn | manga sound effects
 くい | kui | Lightly drinking something like sake in one gulp | drinking and getting drunk
 くい | kui | Suddenly bending something | bending, folding, and crumpling
@@ -2260,6 +2421,7 @@ Hiragana | Romaji | Translation | Applies To
 くくっ | kuku' | Laughing, but trying to hold back | laughing and smiling
 くくく | kukuku | giggling | manga sound effects
 くくり | kukuri | distinct, clear | manga sound effects
+くくー | kukuu | Drinking something in one gulp | drinking and getting drunk
 くくーっ | kukuu' | with gusto | performing an action
 くきゅるる | kukyururu | sound of a growling stomach | manga sound effects
 くん | kun | noticably, markedly | resultant state
@@ -2273,21 +2435,23 @@ Hiragana | Romaji | Translation | Applies To
 くんくん | kunkun | sniff sniff | onomatopoeia
 くんくん | kunkun | sniff | performing an action
 くにゃ | kunya | to suddenly bend (once) | performing an action
-くにゃ・ぐにゃ・くにゃり・ぐにゃり | kunya or gunya or kunyari or gunyari | Part of something suddenly bending | bending, folding, and crumpling
+くにゃ | kunya | Part of something suddenly bending | bending, folding, and crumpling
 くにゃっ | kunya' | to suddenly bend (once) | performing an action
 くにゃくにゃ | kunyakunya | soft, flexible, supple | form
 くにゃくにゃ | kunyakunya | bending while flexing the body | performing an action
 くにゃくにゃ | kunyakunya | wiggling | performing an action
 くにゃくにゃ | kunyakunya | fickle, irresolute | personal traits
-くにゃくにゃ・ぐにゃぐにゃ | kunyakunya or gunyagunya | Soft and freely bending | bending, folding, and crumpling
+くにゃくにゃ | kunyakunya | Soft and freely bending | bending, folding, and crumpling
 くにゃり | kunyari | bending slowly, gently | performing an action
+くにゃり | kunyari | Part of something suddenly bending | bending, folding, and crumpling
 くら | kura | dizziness | manga sound effects
 くらっ | kura' | momentary dizziness | body function
-くらっ・くらり | kura' or kurari | A sudden, big shake | shaking and swaying
+くらっ | kura' | A sudden, big shake | shaking and swaying
 くらくら | kurakura | dizzy | body function
 くらくら | kurakura | boiling up | state
 くらくら | kurakura | Unsure of what decision to make due to temptation | hesitating and faltering
 くらくら | kurakura | Shaking unstably from dizziness | shaking and swaying
+くらり | kurari | A sudden, big shake | shaking and swaying
 くらりくらり | kurarikurari | Repeatedly shaking in a big way | shaking and swaying
 くりくり | kurikuri | large rolling movement of eyes, very round eyes | eye expressions
 くりくり | kurikuri | short, cropped, but smooth looking cut. Also used for a shaven head | hair
@@ -2312,25 +2476,26 @@ Hiragana | Romaji | Translation | Applies To
 くしゃくしゃ | kushakusha | crumpled | resultant state
 くしゃくしゃ | kushakusha | mumbling against reason | speech
 くしゃくしゃ | kushakusha | mumur under one's breath | speech
-くしゃくしゃ・くちゃくちゃ・ぐちゃぐちゃ | kushakusha or kuchakucha or guchagucha | Eating loudly and vulgarly | eating, chewing, and licking
+くしゃくしゃ | kushakusha | Eating loudly and vulgarly | eating, chewing, and licking
 くしゃん | kushan | achoo | onomatopoeia
 くしゅ | kushu | sneeze | manga sound effects
 くしゅん | kushun | sneeze | manga sound effects
 くす | kusu | a little laugh | manga sound effects
-くすっ・くすり | kusu' or kusuri | Letting out just a little bit of a laugh | laughing and smiling
+くすっ | kusu' | Letting out just a little bit of a laugh | laughing and smiling
 くすくす | kusukusu | snickering | laughter
 くすくす | kusukusu | Laughing quietly, unable to hold it in, chuckling | laughing and smiling
 くすん | kusun | A light laugh out of your nose | laughing and smiling
-くすん・ぐすん・ぐっすん | kusun or gusun or gu'sun | The sound of your nose sniff when you cry | crying
+くすん | kusun | The sound of your nose sniff when you cry | crying
 くすんくすん | kusunkusun | sniffing | onomatopoeia
+くすり | kusuri | Letting out just a little bit of a laugh | laughing and smiling
 くた | kuta | droopy, wilted | manga sound effects
-くたっ・ぐたっ・ぐったり | kuta' or guta' or gu'tari | Tired and unable to move | tired
+くたっ | kuta' | Tired and unable to move | tired
 くたくた | kutakuta | totally exhausted, worn out, solf, pulpy | physical health
 くたくた | kutakuta | soft, mushy | texture
-くたくた・ぐたぐた | kutakuta or gutaguta | Horribly tired and worn out | tired
+くたくた | kutakuta | Horribly tired and worn out | tired
 くたり | kutari | droopy, wilted | manga sound effects
-くー・ぐー・ぐーっ・くくー | kuu or guu or guu' or kukuu | Drinking something in one gulp | drinking and getting drunk
-くーっ・くっ | kuu' or ku' | Trying not to laugh, but laughing anyway | laughing and smiling
+くー | kuu | Drinking something in one gulp | drinking and getting drunk
+くーっ | kuu' | Trying not to laugh, but laughing anyway | laughing and smiling
 くーくー | kuukuu | coo coo | onomatopoeia
 くーくー | kuukuu | The sound your nose makes when you're fast asleep | sleeping and laying down
 くわっ | kuwa' | suddenly opening the eyes with an angry look | eye expressions
@@ -2340,15 +2505,17 @@ Hiragana | Romaji | Translation | Applies To
 きゃ | kya | shriek | manga sound effects
 きゃー | kya | shriek | manga sound effects
 きゃー | kya | A shrill laugh | laughing and smiling
-きゃー・ぎゃー・きゃーきゃー・きゃっ・ぎゃっ | kya or gya or kyakya or kya' or gya' | Letting out a scream of surprise, fear, or pain | surprised
+きゃー | kya | Letting out a scream of surprise, fear, or pain | surprised
 きゃっ | kya' | eek! | onomatopoeia
+きゃっ | kya' | Letting out a scream of surprise, fear, or pain | surprised
 きゃっきゃっ | kya'kya' | merriment | onomatopoeia
 きゃっきゃっ | kya'kya' | gibbering | onomatopoeia
 きゃっきゃっ | kya'kya' | The laughter of children playing and having fun | laughing and smiling
 きゃーきゃー | kyakya | eeeeeeeeeeek! | onomatopoeia
-きゃーきゃー・ぎゃーぎゃー | kyakya or gyagya | Yelping out of joy or fear | noisy
+きゃーきゃー | kyakya | Yelping out of joy or fear | noisy
+きゃーきゃー | kyakya | Letting out a scream of surprise, fear, or pain | surprised
 きゃんきゃん | kyankyan | yelp | onomatopoeia
-きゃんきゃん・きんきん | kyankyan or kinkin | Shouting, crying, or yelling with a high-pitch voice | saying and speaking
+きゃんきゃん | kyankyan | Shouting, crying, or yelling with a high-pitch voice | saying and speaking
 きゃぴきゃぴ | kyapikyapi | happy noisy girlish chatter | manga sound effects
 きゃぴきゃぴ | kyapikyapi | Bringing out the happy youthfulness in a bitter woman | delighted
 きょろ | kyoro | Charming eyes opening wide | looking and glaring
@@ -2356,15 +2523,16 @@ Hiragana | Romaji | Translation | Applies To
 きょろきょろ | kyorokyoro | searching for something with one's eyes | manga sound effects
 きょろきょろ | kyorokyoro | Turning around looking around restlessly | looking and glaring
 きょろり | kyorori | Quickly surveying your surroundings | looking and glaring
-きょとっ・きょとん | kyoto' or kyoton | Understanding the situation with your eyes wide open | surprised
+きょとっ | kyoto' | Understanding the situation with your eyes wide open | surprised
 きょときょと | kyotokyoto | looking around nervously | eye expressions
 きょときょと | kyotokyoto | Looking around restlessly over and over | looking and glaring
 きょとん | kyoton | stupified, dumbfounded | facial expression
 きょとん | kyoton | dazed, blank | mental state
+きょとん | kyoton | Understanding the situation with your eyes wide open | surprised
 きゅ | kyu | grab, squeeze, twist | manga sound effects
 きゅ | kyu | sound of a growling stomach | manga sound effects
 きゅー | kyu | a squeezing, clamping pain | feelings
-きゅー・きゅっ | kyu or kyu' | Drinking down some strong alcohol | drinking and getting drunk
+きゅー | kyu | Drinking down some strong alcohol | drinking and getting drunk
 きゅーっ | kyu' | a squeezing, clamping pain | feelings
 きゅっ | kyu' | pinch | action
 きゅっ | kyu' | squeeze strongly | action
@@ -2373,6 +2541,7 @@ Hiragana | Romaji | Translation | Applies To
 きゅっ | kyu' | pressed/pursed lips | facial expression
 きゅっ | kyu' | hastily drink down in one gulp | performing an action
 きゅっ | kyu' | shrugging | performing an action
+きゅっ | kyu' | Drinking down some strong alcohol | drinking and getting drunk
 きゅーきゅー | kyukyu | squeeze lightly | action
 きゅーきゅー | kyukyu | creaking | onomatopoeia
 きゅーん | kyun | a strong emotion set off by a touching scene or pathetic sight | emotions
@@ -2394,6 +2563,7 @@ Hiragana | Romaji | Translation | Applies To
 まざまざ | mazamaza | Plainly visible before your eyes | looking and glaring
 めっきり | me'kiri | noticably, markedly | resultant state
 めっきり | me'kiri | markedly | resultant state
+めっきり | me'kiri | Visably making rapid progress | advancing and moving
 めちゃくちゃ | mechakucha | all screwed up, not making sense | resultant state
 めちゃくちゃ | mechakucha | ruined, in shambles | resultant state
 めちゃめちゃ | mechamecha | in pieces, a mess | resultant state
@@ -2405,13 +2575,14 @@ Hiragana | Romaji | Translation | Applies To
 めきめき | mekimeki | quick progress | manga sound effects
 めきめき | mekimeki | noticably, markedly | resultant state
 めきめき | mekimeki | remarkably, markedly | resultant state
-めきめき・めっきり | mekimeki or me'kiri | Visably making rapid progress | advancing and moving
+めきめき | mekimeki | Visably making rapid progress | advancing and moving
 めらめら | meramera | being devoured by flames | state
 めらめら | meramera | Suddenly bursting into flames | burning
-めりっ・めりめり | meri' or merimeri | Something brittle ripping, tearing, or breaking | ripping and tearing
+めりっ | meri' | Something brittle ripping, tearing, or breaking | ripping and tearing
 めりめり | merimeri | snap, split, crack | action
 めりめり | merimeri | cracking | onomatopoeia
 めりめり | merimeri | creaking | onomatopoeia
+めりめり | merimeri | Something brittle ripping, tearing, or breaking | ripping and tearing
 めろめろ | meromero | sloppily drunk | body function
 めろめろ | meromero | limp, floppy | manga sound effects
 めそめそ | mesomeso | sobing in self-pity | emotions
@@ -2429,10 +2600,11 @@ Hiragana | Romaji | Translation | Applies To
 みすみす | misumisu | missing what's right in front of the eyes | action
 もごもご | mogomogo | dumstruck, at a loss for words | speech
 もごもご | mogomogo | Mumbling while you eat, chewing your words | eating, chewing, and licking
+もごもご | mogomogo | Mumbling, talking without opening your mouth very much | saying and speaking
 もぐもぐ | mogumogu | chew with one's mouth closed | performing an action
 もぐもぐ | mogumogu | mumbling | speech
 もぐもぐ | mogumogu | Stuffing food in your mouth and chewing over and over | eating, chewing, and licking
-もぐもぐ・もごもご | mogumogu or mogomogo | Mumbling, talking without opening your mouth very much | saying and speaking
+もぐもぐ | mogumogu | Mumbling, talking without opening your mouth very much | saying and speaking
 もじゃもじゃ | mojamoja | the rougher version of もしゃもしゃ | hair
 もじもじ | mojimoji | shyness | manga sound effects
 もじもじ | mojimoji | timid, uneasy, refrained | mental state
@@ -2457,6 +2629,7 @@ Hiragana | Romaji | Translation | Applies To
 もそもそ | mosomoso | wriggle about | performing an action
 もそもそ | mosomoso | Eating something dry and unpleasant | eating, chewing, and licking
 もたもた | motamota | slow and trady | resultant state
+もわっ | mowa' | Heat spreading out in front of you | hot and warm
 もわー | mowaa | misty, steamy | weather
 もわもわ | mowamowa | Steam spreading out in front of you | hot and warm
 もやっ | moya' | foggy, dazed | mental state
@@ -2469,6 +2642,7 @@ Hiragana | Romaji | Translation | Applies To
 もぞもぞ | mozomozo | to fidget nervously, shifting uneasy | mood
 もぞもぞ | mozomozo | move about restlessly and noisily | performing an action
 もぞもぞ | mozomozo | wriggle about, with more sound than もそもそ | performing an action
+もぞもぞ | mozomozo | Feeling itchy like you were bitten by, or have bugs on you | hurt and pain
 む | mu | grimace | manga sound effects
 むっ | mu' | offended, miffed | emotions
 むっ | mu' | miffed, offended | facial expression
@@ -2477,24 +2651,30 @@ Hiragana | Romaji | Translation | Applies To
 むっ | mu' | Being angered by someone's words or actions | angry, upset, antisocial
 むっちり | mu'chiri | plump, fleshy | form
 むっちり | mu'chiri | plump | the body
+むっちり | mu'chiri | Supple skin and plenty of flesh in all the right places | fat and robust
+むっく | mu'ku | Suddenly waking up and getting up | waking up and getting up
 むっくり | mu'kuri | rising up suddenly | performing an action
+むっくり | mu'kuri | Suddenly waking up and getting up | waking up and getting up
 むっつり | mu'tsuri | glum | facial expression
 むっつり | mu'tsuri | moody, inhospitably | mood
 むっつり | mu'tsuri | moody, quiet | personal traits
 むっつり | mu'tsuri | Ignoring social graces and being blunt and curt | angry, upset, antisocial
-むちっ・むちむち・むっちり | muchi' or muchimuchi or mu'chiri | Supple skin and plenty of flesh in all the right places | fat and robust
+むちっ | muchi' | Supple skin and plenty of flesh in all the right places | fat and robust
 むちむち | muchimuchi | firm and fleshy | the body
+むちむち | muchimuchi | Supple skin and plenty of flesh in all the right places | fat and robust
 むぐ | mugu | eating, munching | manga sound effects
 むぐむぐ | mugumugu | Chewing something without opening your mouth | eating, chewing, and licking
 むかっ | muka' | to feel momentarily nauseous | body function
 むかっ | muka' | sick with anger | emotions
-むかっ・むかむか | muka' or mukamuka | Feeling the urge to vomit in your stomach, holding it down | puking and vomiting
-むかっ・むかむか | muka' or mukamuka | Anger suddenly welling up, surge of anger | angry, upset, antisocial
+むかっ | muka' | Feeling the urge to vomit in your stomach, holding it down | puking and vomiting
+むかっ | muka' | Anger suddenly welling up, surge of anger | angry, upset, antisocial
 むかむか | mukamuka | to feel nauseous | body function
 むかむか | mukamuka | sick, sickened | manga sound effects
+むかむか | mukamuka | Feeling the urge to vomit in your stomach, holding it down | puking and vomiting
+むかむか | mukamuka | Anger suddenly welling up, surge of anger | angry, upset, antisocial
 むく | muku | eating, munching | manga sound effects
 むく | muku | getting up, sitting up | manga sound effects
-むくっ・むっく・むっくり | muku' or mu'ku or mu'kuri | Suddenly waking up and getting up | waking up and getting up
+むくっ | muku' | Suddenly waking up and getting up | waking up and getting up
 むくむく | mukumuku | billow, swirl | motions
 むくむく | mukumuku | rising quietly | performing an action
 むくむく | mukumuku | plump [used only for children or animals] | the body
@@ -2502,8 +2682,9 @@ Hiragana | Romaji | Translation | Applies To
 むくむく | mukumuku | A feeling or idea that suddenly came up | thinking and feeling
 むむー | mumuu | grimace | manga sound effects
 むん | mun | Suddenly feeling heat | hot and warm
-むんむ・むんむん | munmu or munmun | Wrapped in oppressive heat | hot and warm
+むんむ | munmu | Wrapped in oppressive heat | hot and warm
 むんむん | munmun | stuffy | weather
+むんむん | munmun | Wrapped in oppressive heat | hot and warm
 むにゃむにゃ | munyamunya | mumble, poorly articulated | speech
 むにゃむにゃ | munyamunya | Muttering with food in your mouth | eating, chewing, and licking
 むにゃむにゃ | munyamunya | Sleep talking, or mumbling | saying and speaking
@@ -2531,11 +2712,12 @@ Hiragana | Romaji | Translation | Applies To
 むーっ | muu' | miffed, offended | facial expression
 むーっ | muu' | Showing your anger or displeasure | angry, upset, antisocial
 むーん | muun | grimace | manga sound effects
-むわっ・もわっ | muwa' or mowa' | Heat spreading out in front of you | hot and warm
+むわっ | muwa' | Heat spreading out in front of you | hot and warm
 むず | muzu | grab suddenly, with force | action
 むずむず | muzumuzu | itching for a chance to show off one's skill | emotions
 むずむず | muzumuzu | small itches like tiny bugs are crawling over the skin | feelings
-むずむず・もぞもぞ | muzumuzu or mozomozo | Feeling itchy like you were bitten by, or have bugs on you | hurt and pain
+むずむず | muzumuzu | Itching to do something, impatient to start something | flustered, impatient, and unable to calm down
+むずむず | muzumuzu | Feeling itchy like you were bitten by, or have bugs on you | hurt and pain
 ん | n | a small grunt of surprise, the sound made by someone who is exerting physical effort, sleepiness, pain, passion, etc. | manga sound effects
 んっしょ | n'sho | the sound made by someone who is exerting physical effort | manga sound effects
 ん？ | n? | Hmm? | manga sound effects
@@ -2560,6 +2742,7 @@ Hiragana | Romaji | Translation | Applies To
 にっこにこ | ni'koniko | Laughing and smiling with the utmost happiness | laughing and smiling
 にっこり | ni'kori | flasfhin a smile, giving a sweet smile | facial expression
 にっこり | ni'kori | flashing a smile, stronger than にこり | smiling
+にっこり | ni'kori | Smiling happily to show that you're happy | laughing and smiling
 にちゃにちゃ | nichanicha | a gluey feeling | feelings
 にちゃにちゃ | nichanicha | adhesive, like glue, viscous, greasy | physical state
 にちゃにちゃ | nichanicha | viscous | texture
@@ -2568,13 +2751,14 @@ Hiragana | Romaji | Translation | Applies To
 にこ | niko | smiling | manga sound effects
 にこっ | niko' | showing a smile | facial expression
 にこっ | niko' | flashing a smile | smiling
-にこっ・にこり・にっこり | niko' or nikori or ni'kori | Smiling happily to show that you're happy | laughing and smiling
+にこっ | niko' | Smiling happily to show that you're happy | laughing and smiling
 にこにこ | nikoniko | to beam [happiness] | facial expression
 にこにこ | nikoniko | smiling happily  | smiling
 にこにこ | nikoniko | Laughing and smiling brightly, showing gratitude | laughing and smiling
 にこり | nikori | showing a smile | facial expression
 にこり | nikori | smiling | manga sound effects
 にこり | nikori | flashing a smile | smiling
+にこり | nikori | Smiling happily to show that you're happy | laughing and smiling
 にんまり | ninmari | smiling satisfied | facial expression
 にんまり | ninmari | smiling satisfied | smiling
 にんまり | ninmari | Smiling with satisfaction because things went your way | laughing and smiling
@@ -2583,17 +2767,19 @@ Hiragana | Romaji | Translation | Applies To
 にしょ | nisho | the sound made by someone who is exerting physical effort | manga sound effects
 にた | nita | sinister smile | manga sound effects
 にたっ | nita' | flashing a smile brought on by ones own thoughts | smiling
-にたっ・にたにた | nita' or nitanita | A broad, evil grin, unable to hide your joy | laughing and smiling
+にたっ | nita' | A broad, evil grin, unable to hide your joy | laughing and smiling
 にたにた | nitanita | simpering, evil, devious | smiling
+にたにた | nitanita | A broad, evil grin, unable to hide your joy | laughing and smiling
 にたり | nitari | flashing a smile brought on by ones own thoughts | smiling
 にたりにたり | nitarinitari | Repeatedly smirking smugly | laughing and smiling
 にやっ | niya' | a grin, an unconscious smile | smiling
 にやっ | niya' | Unintentionally smiling and showing your joy | laughing and smiling
 にやにや | niyaniya | a grin showing teeth, simpering (gloatingly) | smiling
-にやにや・にやり | niyaniya or niyari | Giving a faint, cold smile | laughing and smiling
+にやにや | niyaniya | Giving a faint, cold smile | laughing and smiling
 にやり | niyari | leering | manga sound effects
 にやり | niyari | leering | manga sound effects
 にやり | niyari | a grin, an unconscious smile | smiling
+にやり | niyari | Giving a faint, cold smile | laughing and smiling
 んく | nku | sniffing, inhaling | manga sound effects
 んぬー | nnuu | menacing | manga sound effects
 のっぺり | no'peri | flat, plain | form
@@ -2626,7 +2812,8 @@ Hiragana | Romaji | Translation | Applies To
 のろのろ | noronoro | slowness | manga sound effects
 のろのろ | noronoro | slowly | motions
 のろのろ | noronoro | wandering about slowly, sluggishly | performing an action
-のろのろ・のろりのろり | noronoro or nororinorori | Proceeding at a snail's pace, slow and sluggish | walking and running
+のろのろ | noronoro | Proceeding at a snail's pace, slow and sluggish | walking and running
+のろりのろり | nororinorori | Proceeding at a snail's pace, slow and sluggish | walking and running
 のさのさ | nosanosa | Like you don't care, haughtily | walking and running
 のしのし | noshinoshi | Strong, heavy steps, lumbering | walking and running
 のそのそ | nosonoso | slowly, lazily | action
@@ -2639,14 +2826,15 @@ Hiragana | Romaji | Translation | Applies To
 のたりのたり | notarinotari | wave lightly | motions
 んしょ | nsho | the sound made by someone who is exerting physical effort | manga sound effects
 ぬっ | nu' | appearing out of the blue | action
+ぬっくり | nu'kuri | A comfortable, warm place | hot and warm
 ぬけぬけ | nukenuke | nonchalant | manga sound effects
 ぬけぬけ | nukenuke | to do something shamelessly | personal traits
 ぬけぬけ | nukenuke | brazen, impudent, nonchalant | speech
 ぬけぬけ | nukenuke | Saying or making something up to show off | saying and speaking
 ぬけぬけ | nukenuke | Acting like you didn't do (something negative) and it is obvious to other people, shamelessly | unconcerned and composed
 ぬくぬく | nukunuku | comfortably warm (all over the body) | feelings
+ぬくぬく | nukunuku | A comfortable, warm place | hot and warm
 ぬくぬく | nukunuku | Doing well on your own, carefree and successful | unconcerned and composed
-ぬくぬく・ぬっくり | nukunuku or nu'kuri | A comfortable, warm place | hot and warm
 ぬめぬめ | numenume | smooth, slimy | feelings
 ぬめぬめ | numenume | smooth, glossy | physical state
 ぬらぬら | nuranura | slimy and greasy | feelings
@@ -2682,7 +2870,7 @@ Hiragana | Romaji | Translation | Applies To
 おどおど | odoodo | Hesitating or faltering with nervousness or anger | flustered, impatient, and unable to calm down
 おぎゃーおぎゃー | ogyaogya | crying | onomatopoeia
 おぎゃーおぎゃー | ogyaogya | A baby bawling | crying
-おほほ・ほほほ | ohoho or hohoho | With a narrow mouth, acting refined | laughing and smiling
+おほほ | ohoho | With a narrow mouth, acting refined | laughing and smiling
 おほん | ohon | Clearing your throat for attention | coughing and choking
 おい | oi | hey! | manga sound effects
 おいっしょ | oi'sho | the sound made by someone who is exerting physical effort | manga sound effects
@@ -2716,11 +2904,14 @@ Hiragana | Romaji | Translation | Applies To
 ぱっ | pa' | vivid, attractive - with negative: not too good | resultant state
 ぱっ | pa' | Quickly standing up in reaction to something | waking up and getting up
 ぱっちり | pa'chiri | opening the eyes wide | eye expressions
+ぱっちり | pa'chiri | Looking with big, wide eyes | looking and glaring
+ぱっくん | pa'kun | Eating something with a big mouth and swallowing | eating, chewing, and licking
 ぱっくり | pa'kuri | to die suddenly, to drop dead | physical health
 ぱっぱ | pa'pa | to handle affairs promptly | work attitude
 ぱっぱっ | pa'pa' | to spend recklessly | money issues
 ぱっぱっ | pa'pa' | to handle affairs promptly (similar to ぱっぱ, but stronger) | work attitude
 ぱっぱっ | pa'pa' | Large flames fiercely burning | burning
+ぱっぱか | pa'paka | The sound of light horse footsteps, clip clop | walking and running
 ぱったり | pa'tari | cease, stop | action
 ぱったり | pa'tari | come to a stop | motions
 ぱー | paa | futile the sound made by someone who is exerting physical effort | action
@@ -2740,26 +2931,32 @@ Hiragana | Romaji | Translation | Applies To
 ぱちぱち | pachipachi | clicking | onomatopoeia
 ぱちぱち | pachipachi | crackling | onomatopoeia
 ぱちぱち | pachipachi | Strong popping of a fire | burning
+ぱちぱち | pachipachi | Looking with big, wide eyes | looking and glaring
+ぱちり | pachiri | Looking with big, wide eyes | looking and glaring
 ぱちり | pachiri | Something hard breaking | breaking and bending
-ぱちり・ぱちぱち・ぱっちり | pachiri or pachipachi or pa'chiri | Looking with big, wide eyes | looking and glaring
 ぱか | paka | opening, seperating | manga sound effects
 ぱか | paka | snap | manga sound effects
 ぱかっぱかっ | paka'paka' | trotting | onomatopoeia
 ぱかん | pakan | absent-minded | mental state
 ぱかぱか | pakapaka | trotting | onomatopoeia
-ぱかぱか・ぱっぱか | pakapaka or pa'paka | The sound of light horse footsteps, clip clop | walking and running
+ぱかぱか | pakapaka | The sound of light horse footsteps, clip clop | walking and running
 ぱきっ | paki' | snap | action
-ぱきっ・ぱきん | paki' or pakin | Something thin breaking | breaking and bending
+ぱきっ | paki' | Something thin breaking | breaking and bending
+ぱきん | pakin | Something thin breaking | breaking and bending
 ぱきぱき | pakipaki | Thin things breaking one after another | breaking and bending
 ぱく | paku | a mouth closing on food | manga sound effects
 ぱくっ | paku' | split open | action
 ぱくっ | paku' | to gobble up | performing an action
+ぱくっ | paku' | A big mouth biting forcefully | eating, chewing, and licking
+ぱくん | pakun | Eating something with a big mouth and swallowing | eating, chewing, and licking
 ぱくぱく | pakupaku | opening and closing the mouth repeatedly, dumbstruck | facial expression
 ぱくぱく | pakupaku | opening and closing the mouth | manga sound effects
 ぱくぱく | pakupaku | to devour, to gobble up | performing an action
 ぱくぱく | pakupaku | open and close the mouth repeatedly | performing an action
+ぱくぱく | pakupaku | Opening and closing a big mouth repeatedly (usually while eating) | eating, chewing, and licking
 ぱくり | pakuri | snap, gobble down, bite with a wide open mouth | performing an action
-ぱくり・ぱくん・ぱっくん | pakuri or pakun or pa'kun | Eating something with a big mouth and swallowing | eating, chewing, and licking
+ぱくり | pakuri | Eating something with a big mouth and swallowing | eating, chewing, and licking
+ぱくりぱくり | pakuripakuri | Opening and closing a big mouth repeatedly (usually while eating) | eating, chewing, and licking
 ぱん | pan | a sudden impact | manga sound effects
 ぱんぱん | panpan | pat, clapping one's hands (in cleaning) | manga sound effects
 ぱんぱん | panpan | stretched to the max | resultant state
@@ -2776,6 +2973,7 @@ Hiragana | Romaji | Translation | Applies To
 ぱらぱら | parapara | patter, sprinkling | weather
 ぱらぱら | parapara | A small amount of rain or hail suddenly coming down | rain, snow, and ice
 ぱらぱら | parapara | Rain, hail, or leaves falling sparsely | falling and dropping
+ぱらり | parari | Something light falling | falling and dropping
 ぱり | pari | crunch | manga sound effects
 ぱりっ | pari' | crisp, smart, keep, fresh | personal attire
 ぱりっ | pari' | crisp and new | to appear to be
@@ -2792,9 +2990,10 @@ Hiragana | Romaji | Translation | Applies To
 ぱりぱり | paripari | Strong ripping and tearing | ripping and tearing
 ぱりぱり | paripari | Cloth or paper forcefully being torn | ripping and tearing
 ぱさ | pasa | rustling | manga sound effects
-ぱさっ・ぱさり | pasa' or pasari | Something like an unrolled paper falling | falling and dropping
+ぱさっ | pasa' | Something like an unrolled paper falling | falling and dropping
 ぱさぱさ | pasapasa | a dry appearance or feeling, dry and loose, less coarse than ばさばさ | feelings
 ぱさぱさ | pasapasa | dehydrated, dry and crumbly (thinner/lighter than ばさばさ) | texture
+ぱさり | pasari | Something like an unrolled paper falling | falling and dropping
 ぱしゃ | pasha | splashing | manga sound effects
 ぱしゃっ | pasha' | Water gently scattering | water drops, dripping, falling, and splashing
 ぱしゃん | pashan | the impact of a forcefull splash | action
@@ -2819,9 +3018,10 @@ Hiragana | Romaji | Translation | Applies To
 ぱたぱた | patapata | slapping | onomatopoeia
 ぱたぱた | patapata | pit-a-pat | onomatopoeia
 ぱたぱた | patapata | Cloth lightly flapping in the wind | wind, blowing
+ぱたぱた | patapata | The pitter patter of footsteps | walking and running
 ぱたぱた | patapata | The sound of busily moving around | noisy
-ぱたぱた・ばたばた | patapata or batabata | The pitter patter of footsteps | walking and running
 ぱたり | patari | come to a stop | motions
+ぱたり | patari | Something light falling | falling and dropping
 ぱたた | patata | spattering | manga sound effects
 ぺっ | pe' | spitting | onomatopoeia
 ぺっ | pe' | spit aloud | performing an action
@@ -2831,11 +3031,14 @@ Hiragana | Romaji | Translation | Applies To
 ぺったり | pe'tari | Lightly sticking to one surface | sticking
 ぺっとり | pe'tori | Sticking something mucousy to one side | sticking
 ぺちゃくちゃ | pechakucha | chatter, babble (in voices less dull than べちゃくちゃ) | speech
+ぺちゃくちゃ | pechakucha | Continuously chatting about frivolous things | saying and speaking
 ぺちゃん | pechan | splash, sludge | state
 ぺちゃんこ | pechanko | flattened | manga sound effects
 ぺちゃんこ | pechanko | leveled, completely flattened | resultant state
 ぺちゃぺちゃ | pechapecha | chatter, babble (in voices less dull than べちゃべちゃ) | speech
+ぺちゃぺちゃ | pechapecha | Eating while making unpleasant tongue noises | eating, chewing, and licking
 ぺちゃぺちゃ | pechapecha | Making tongue noises while drinking and/or eating | drinking and getting drunk
+ぺちゃぺちゃ | pechapecha | Continuously chatting about frivolous things | saying and speaking
 ぺちょっ | pecho' | Lightly pasting and sticking | sticking
 ぺかぺか | pekapeka | giving (way when force is applied) | structure
 ぺこ | peko | bow | manga sound effects
@@ -2858,17 +3061,20 @@ Hiragana | Romaji | Translation | Applies To
 ぺろっ | pero' | to eat up in one gulp | performing an action
 ぺろっ | pero' | tear/rip/peel off a strip of material | performing an action
 ぺろっ | pero' | stick out one's tongue, to briefly lick | performing an action
-ぺろっ・べろっ | pero' or bero' | Licking quickly | eating, chewing, and licking
+ぺろっ | pero' | Licking quickly | eating, chewing, and licking
 ぺろん | peron | peel away | action
 ぺろん | peron | looking emotionless | facial expression
 ぺろん | peron | rolling up or down, flipping | manga sound effects
 ぺろん | peron | stick out one's tongue, to briefly lick | performing an action
+ぺろん | peron | Licking something exaggeratedly once | eating, chewing, and licking
+ぺろんぺろん | peronperon | Running your tongue over something exaggeratedly, multiple times | eating, chewing, and licking
 ぺろぺろ | peropero | licking | manga sound effects
 ぺろぺろ | peropero | licking vigorously (but lessheavy than べろべろ) | performing an action
+ぺろぺろ | peropero | Running your tongue over something | eating, chewing, and licking
 ぺろぺろ | peropero | Licking exaggeratedly over and over again | eating, chewing, and licking
 ぺろり | perori | to eat up in one gulp | performing an action
 ぺろり | perori | stick out one's tongue, to briefly lick | performing an action
-ぺろり・べろり | perori or berori | Eating up all the food | eating, chewing, and licking
+ぺろり | perori | Eating up all the food | eating, chewing, and licking
 ぺろりぺろり | peroriperori | slowly and thoroughly licking | performing an action
 ぺしゃっ | pesha' | splatter (at the moment of crushing something) | action
 ぺしゃん | peshan | crushed, flat | resultant state
@@ -2878,11 +3084,12 @@ Hiragana | Romaji | Translation | Applies To
 ぺしゃり | peshari | smashed, flat | resultant state
 ぺたっ | peta' | firmly | performing an action
 ぺたっ | peta' | flat | performing an action
-ぺたっ・ぺたん | peta' or petan | Sticking completely to a flat surface | sticking
+ぺたっ | peta' | Sticking completely to a flat surface | sticking
 ぺたん | petan | smooth, flat | manga sound effects
 ぺたん | petan | sitting flat | performing an action
 ぺたん | petan | stuck, pasted, to something unpleasant | physical state
 ぺたん | petan | to look flat, plain | the face
+ぺたん | petan | Sticking completely to a flat surface | sticking
 ぺたんぺたん | petanpetan | pattering | onomatopoeia
 ぺたぺた | petapeta | slapping | onomatopoeia
 ぺたぺた | petapeta | pattering | onomatopoeia
@@ -2894,7 +3101,10 @@ Hiragana | Romaji | Translation | Applies To
 ぺたり | petari | Sticking from being pressed down | sticking
 ぴ | pi | peep | manga sound effects
 ぴ | pi | drip | manga sound effects
+ぴっ | pi' | Forcefully tearing or peeling | ripping and tearing
 ぴっちり | pi'chiri | stuck together | resultant state
+ぴっちり | pi'chiri | Completely stuck together with no gaps | sticking
+ぴっかぴか | pi'kapika | A new life shining with hope and happiness | energetic
 ぴっしゃり | pi'shari | crushed, smashed | resultant state
 ぴったり | pi'tari | exactly | mental actions
 ぴったり | pi'tari | coming to a complete stop | motions
@@ -2902,12 +3112,13 @@ Hiragana | Romaji | Translation | Applies To
 ぴったり | pi'tari | quitting abruptly | resultant state
 ぴったり | pi'tari | fit like a glove | size
 ぴったり | pi'tari | exactly, damn close | temporal aspect
+ぴったり | pi'tari | Completely stuck together with no gaps | sticking
 ぴちゃ | picha | drip | manga sound effects
 ぴちゃっ | picha' | splashingly | performing an action
 ぴちゃっ | picha' | a strong splash | state
 ぴちゃっ | picha' | A small amount of water splashing | water drops, dripping, falling, and splashing
+ぴちゃぴちゃ | pichapicha | Eating while making unpleasant tongue noises | eating, chewing, and licking
 ぴちゃぴちゃ | pichapicha | Wet licking sound an animal, like a dog, makes | drinking and getting drunk
-ぴちゃぴちゃ・ぺちゃぺちゃ | pichapicha or pechapecha | Eating while making unpleasant tongue noises | eating, chewing, and licking
 ぴち | pichi | flap, bounce, snap | manga sound effects
 ぴちっ | pichi' | the kind of thing a fish does by popping out of the water and falling back in | performing an action
 ぴちっ | pichi' | tight | resultant state
@@ -2931,15 +3142,20 @@ Hiragana | Romaji | Translation | Applies To
 ぴかっ | pika' | a momentary sparkle | state
 ぴかぴか | pikapika | splarkle, glitter | state
 ぴかぴか | pikapika | shine, dazzle | to appear to be
-ぴかぴか・ぴっかぴか | pikapika or pi'kapika | A new life shining with hope and happiness | energetic
+ぴかぴか | pikapika | A new life shining with hope and happiness | energetic
 ぴかり | pikari | a momentary sparkle | state
 ぴきぴき | pikipiki | Twitching and on edge | hurt and pain
 ぴく | piku | blink, noticing something | manga sound effects
 ぴく | piku | twitch | manga sound effects
-ぴくっ・びくり | piku' or bikuri | Trembling from a momentary fear | surprised
+ぴくっ | piku' | Body, or part of it, spasming suddenly | shivering and shaking
+ぴくっ | piku' | Trembling from a momentary fear | surprised
+ぴくん | pikun | Body, or part of it, spasming suddenly | shivering and shaking
+ぴくんぴくん | pikunpikun | Continuously shaking for a period of time | shivering and shaking
 ぴくぴく | pikupiku | sharp, convulsive twitching | performing an action
+ぴくぴく | pikupiku | Part of your body shaking from fear | shivering and shaking
 ぴくり | pikuri | blink, noticing something | manga sound effects
-ぴくりぴくり・ぴくんぴくん | pikuripikuri or pikunpikun | Continuously shaking for a period of time | shivering and shaking
+ぴくり | pikuri | Body, or part of it, spasming suddenly | shivering and shaking
+ぴくりぴくり | pikuripikuri | Continuously shaking for a period of time | shivering and shaking
 ぴん | pin | pluck, prick | action
 ぴん | pin | intuitively, to come in a flash | mental actions
 ぴん | pin | with a flip | performing an action
@@ -2947,6 +3163,7 @@ Hiragana | Romaji | Translation | Applies To
 ぴん | pin | straight and taut | personal attire
 ぴん | pin | stretched tightly | resultant state
 ぴん | pin | Jumping up and standing erect | waking up and getting up
+ぴん | pin | Strong instincts or intuition | thinking and feeling
 ぴんぴん | pinpin | to twang repeatedly | action
 ぴんぴん | pinpin | flipping | performing an action
 ぴんぴん | pinpin | pull | performing an action
@@ -2954,28 +3171,34 @@ Hiragana | Romaji | Translation | Applies To
 ぴんぴん | pinpin | Energetic and lively | energetic
 ぴんぽん | pinpon | ding dong | manga sound effects
 ぴんしゃん | pinshan | a combination of ぴんぴん (good health) and しゃんしゃん (alive and well) | physical health
-ぴぴっ・ぴん | pipi' or pin | Strong instincts or intuition | thinking and feeling
+ぴぴっ | pipi' | Strong instincts or intuition | thinking and feeling
 ぴり | piri | tearing (ripping cloth, tearing open a bag of snack) | manga sound effects
 ぴりっ | piri' | strong, momentary pungent feeling (sharp) | flavour
 ぴりっ | piri' | over-sensitive, on edge and all senses on full (stronger than ぴりぴり) | mood
 ぴりっ | piri' | A sudden shaking movement | shivering and shaking
+ぴりっ | piri' | Feeling a sudden itch, pain, or hot taste | hurt and pain
+ぴりっ | piri' | Forcefully tearing cloth or paper | ripping and tearing
 ぴりぴり | piripiri | a pricking pain | feelings
 ぴりぴり | piripiri | pungent, spicy, to smart | flavour
 ぴりぴり | piripiri | a sharp sensation | manga sound effects
 ぴりぴり | piripiri | over-sensitive, on edge and all senses on full | mood
 ぴりぴり | piripiri | rip up | performing an action
+ぴりぴり | piripiri | Feeling a continued pain or irritation | hurt and pain
+ぴりぴり | piripiri | Continuously splitting cloth or paper | ripping and tearing
 ぴりり | piriri | strong, momentary pungent feeling (lingering) | flavour
 ぴりり | piriri | over-sensitive, on edge and all senses on full | mood
+ぴりり | piriri | Numb from a momentary stimulus, tingling, stinging | hurt and pain
 ぴしゃ | pisha | splashing | manga sound effects
 ぴしゃっ | pisha' | clean, sharp splash | action
 ぴしゃっ | pisha' | high-handedly, like a slap in the face | speech
 ぴしゃっ | pisha' | with a splash | state
 ぴしゃっ | pisha' | Water sharply splashing | water drops, dripping, falling, and splashing
-ぴしゃっ・ぴしゃり | pisha' or pishari | Stubbornly taking one side in an argument | saying and speaking
+ぴしゃっ | pisha' | Stubbornly taking one side in an argument | saying and speaking
 ぴしゃん | pishan | slamming | onomatopoeia
 ぴしゃぴしゃ | pishapisha | continuous splashing | action
 ぴしゃぴしゃ | pishapisha | continualy splashing against an object | state
 ぴしゃり | pishari | high-handedly, like a slap in the face | speech
+ぴしゃり | pishari | Stubbornly taking one side in an argument | saying and speaking
 ぴし | pishi | crack, snap, smack | manga sound effects
 ぴしっ | pishi' | snapping something | action
 ぴしっ | pishi' | cracking | onomatopoeia
@@ -2989,9 +3212,10 @@ Hiragana | Romaji | Translation | Applies To
 ぴたっ | pita' | suddenly coming to a complete stop | motions
 ぴたっ | pita' | tightly (something flat) | performing an action
 ぴたっ | pita' | exactly, damn close | temporal aspect
-ぴたっ・ぴたり・ぴったり・ぴっちり | pita' or pitari or pi'tari or pi'chiri | Completely stuck together with no gaps | sticking
+ぴたっ | pita' | Completely stuck together with no gaps | sticking
 ぴたん | pitan | slamming | onomatopoeia
-ぴたん・ぴたんぴたん | pitan or pitanpitan | Sticking a stamp to something by pressing it down | sticking
+ぴたん | pitan | Sticking a stamp to something by pressing it down | sticking
+ぴたんぴたん | pitanpitan | Sticking a stamp to something by pressing it down | sticking
 ぴたぴた | pitapita | slapping | onomatopoeia
 ぴたぴた | pitapita | pat lightly | performing an action
 ぴたぴた | pitapita | cling tightly | resultant state
@@ -2999,6 +3223,7 @@ Hiragana | Romaji | Translation | Applies To
 ぴたり | pitari | cease, stop | action
 ぴたり | pitari | coming to a complete stop | motions
 ぴたり | pitari | quitting abruptly | resultant state
+ぴたり | pitari | Completely stuck together with no gaps | sticking
 ぴと | pito | a gentle touch | manga sound effects
 ぴよ | piyo | peeping (like from a chick) | manga sound effects
 ぴよぴよ | piyopiyo | fuzzy peeping | onomatopoeia
@@ -3028,8 +3253,8 @@ Hiragana | Romaji | Translation | Applies To
 ぽちゃぽちゃ | pochapocha | Chubby, just a little fat | fat and robust
 ぽちぽち | pochipochi | splotched | form
 ぽちぽち | pochipochi | something happening steadily | manga sound effects
+ぽちぽち | pochipochi | Steadily progressing, gradually | advancing and moving
 ぽちぽち | pochipochi | Dead branches or twigs breaking one after another | breaking and bending
-ぽちぽち・ぼつぼつ | pochipochi or botsubotsu | Steadily progressing, gradually | advancing and moving
 ぽい | poi | throwing something, tossing something | manga sound effects
 ぽい | poi | toss away casually | performing an action
 ぽいっ | poi' | toss away casually | performing an action
@@ -3058,7 +3283,7 @@ Hiragana | Romaji | Translation | Applies To
 ぽかりぽかり | pokaripokari | Warm from sunlight | hot and warm
 ぽきっ | poki' | breaking something dry, fragile | action
 ぽきっ | poki' | cracking | onomatopoeia
-ぽきっ・ぽきり | poki' or pokiri | A hard, light, cylindrical thing breaking | breaking and bending
+ぽきっ | poki' | A hard, light, cylindrical thing breaking | breaking and bending
 ぽきん | pokin | breaking something dry, fragile | action
 ぽきん | pokin | A light cylindrical thing completely breaking | breaking and bending
 ぽきぽき | pokipoki | repetetively breaking something dry, fragile | action
@@ -3066,6 +3291,7 @@ Hiragana | Romaji | Translation | Applies To
 ぽきぽき | pokipoki | cracking | onomatopoeia
 ぽきぽき | pokipoki | Light cylindrical things breaking over and over | breaking and bending
 ぽきり | pokiri | breaking something dry, fragile | action
+ぽきり | pokiri | A hard, light, cylindrical thing breaking | breaking and bending
 ぽきりぽきり | pokiripokiri | repetetively breaking something dry, fragile | action
 ぽきりぽきり | pokiripokiri | cracking | onomatopoeia
 ぽん | pon | a fairly quiet impact | manga sound effects
@@ -3097,19 +3323,27 @@ Hiragana | Romaji | Translation | Applies To
 ぽろぽろ | poroporo | Tears spilling out over and over | water drops, dripping, falling, and splashing
 ぽろぽろ | poroporo | Tears that won't stop falling | crying
 ぽろぽろ | poroporo | Tears or grains of rice spilling and falling all over | falling and dropping
+ぽろり | porori | To shed a single tear out of sympathy or from being emotionally moved | crying
+ぽろりぽろり | pororiporori | Tears spilling down your cheeks one at a time | crying
 ぽろりぽろり | pororiporori | Tears or liquids falling in intervals | falling and dropping
 ぽしっ | poshi' | absolute correctness, rigidly | action
 ぽしっ | poshi' | cracking | motions
 ぽた | pota | drip | manga sound effects
 ぽたっ | pota' | an abrupt light teardrop | crying
 ぽたっ | pota' | a drop falling and impacting | state
+ぽたっ | pota' | A drop of water or a liquid falling | falling and dropping
 ぽたん | potan | the sound of a light teardrop hitting a surface | crying
+ぽたん | potan | Water droplets falling on the surface of something | water drops, dripping, falling, and splashing
+ぽたん | potan | Water droplets falling on the surface of something | water drops, dripping, falling, and splashing
+ぽたん | potan | Drops of water falling from a high place | falling and dropping
 ぽたぽた | potapota | the sound of light tears continuously hitting a surface | crying
 ぽたぽた | potapota | continuously dropping drops | state
 ぽたぽた | potapota | A small amount of water dripping | water drops, dripping, falling, and splashing
-ぽたぽた・ぽとぽと | potapota or potopoto | Small drops continuously falling | falling and dropping
+ぽたぽた | potapota | Small drops continuously falling | falling and dropping
 ぽたり | potari | a drop falling and impacting | state
-ぽたり・ぽたん・ぽつり・ぽつん・ぽたり・ぽたん | potari or potan or potsuri or potsun or potari or potan | Water droplets falling on the surface of something | water drops, dripping, falling, and splashing
+ぽたり | potari | Water droplets falling on the surface of something | water drops, dripping, falling, and splashing
+ぽたり | potari | Water droplets falling on the surface of something | water drops, dripping, falling, and splashing
+ぽたり | potari | A drop of water or a liquid falling | falling and dropping
 ぽたりぽたり | potaripotari | the sound of light tears dropping at intervals | crying
 ぽたりぽたり | potaripotari | continuously dropping drops, with pauses between drops | state
 ぽてっ | pote' | So fat it looks like your head is just riding your body | fat and robust
@@ -3117,19 +3351,25 @@ Hiragana | Romaji | Translation | Applies To
 ぽてぽて | potepote | Plump like a baby with supple skin | fat and robust
 ぽと | poto | dropping something, something rolling | manga sound effects
 ぽとっ | poto' | a small drop dropping | state
+ぽとっ | poto' | A drop of water or a liquid falling | falling and dropping
 ぽとん | poton | the sound of a light teardrop hitting a surface | crying
 ぽとん | poton | a small drop dropping | state
+ぽとん | poton | A thing or drop of water dropping lightly | falling and dropping
 ぽとぽと | potopoto | droplets, dripping tears | crying
 ぽとぽと | potopoto | drops continuously falling | state
 ぽとぽと | potopoto | A small amount of water trickling down | water drops, dripping, falling, and splashing
+ぽとぽと | potopoto | Large drops of liquid rolling or trickling down one by one | falling and dropping
+ぽとぽと | potopoto | Small drops continuously falling | falling and dropping
 ぽとり | potori | a small drop dropping | state
-ぽとり・ぽとん | potori or poton | A thing or drop of water dropping lightly | falling and dropping
+ぽとり | potori | A thing or drop of water dropping lightly | falling and dropping
 ぽとりぽとり | potoripotori | Falling one by one after a pause | falling and dropping
-ぽつっ・ぽつん | potsu' or potsun | Squinting at something small | looking and glaring
+ぽつっ | potsu' | Squinting at something small | looking and glaring
 ぽつん | potsun | alone, seperated | manga sound effects
 ぽつん | potsun | standing seperated | spacial orientation
 ぽつん | potsun | mutter in a single word | speech
 ぽつん | potsun | a single drop falling and hitting something | state
+ぽつん | potsun | Water droplets falling on the surface of something | water drops, dripping, falling, and splashing
+ぽつん | potsun | Squinting at something small | looking and glaring
 ぽつねん | potsunen | lonely, deep thought | mental actions
 ぽつぽつ | potsupotsu | dotted with bumps or small holes | form
 ぽつぽつ | potsupotsu | little by little | motions
@@ -3138,6 +3378,8 @@ Hiragana | Romaji | Translation | Applies To
 ぽつぽつ | potsupotsu | little by little | temporal aspect
 ぽつぽつ | potsupotsu | starting to lightly rain | weather
 ぽつぽつ | potsupotsu | Cut into small pieces or interrupted | cutting
+ぽつり | potsuri | Water droplets falling on the surface of something | water drops, dripping, falling, and splashing
+ぽつり | potsuri | Saying a single word in a low voice | saying and speaking
 ぽつり | potsuri | A single drop of rain falling | falling and dropping
 ぽつり | potsuri | Suddenly cut down the middle | cutting
 ぽつりぽつり | potsuripotsuri | speaking with frequent pauses | speech
@@ -3147,7 +3389,8 @@ Hiragana | Romaji | Translation | Applies To
 ぷっ | pu' | a burst of laughter | laughter
 ぷっ | pu' | spitting | onomatopoeia
 ぷっ | pu' | spitting something out | performing an action
-ぷっ・ぶりっ・ぷりぷり | pu' or buri' or puripuri | Blowing your cheeks out with anger or unhappiness | angry, upset, antisocial
+ぷっ | pu' | Busting out with laughter at something funny | laughing and smiling
+ぷっ | pu' | Blowing your cheeks out with anger or unhappiness | angry, upset, antisocial
 ぷっくり | pu'kuri | small swelling (round) | form
 ぷっぷっ | pu'pu' | Violently vomit in your own mouth | puking and vomiting
 ぷっつ | pu'tsu | Something suddenly coming apart of disconnecting | cutting
@@ -3189,27 +3432,36 @@ Hiragana | Romaji | Translation | Applies To
 ぷりぷり | puripuri | fuming with anger | facial expression
 ぷりぷり | puripuri | anger | manga sound effects
 ぷりぷり | puripuri | firm with resilient flesh | the body
+ぷりぷり | puripuri | Blowing your cheeks out with anger or unhappiness | angry, upset, antisocial
 ぷる | puru | shake, quiver | manga sound effects
 ぷるっ | puru' | Vibrating for a moment | shivering and shaking
+ぷるん | purun | Vibrating a little | shaking and swaying
 ぷるんぷるん | purunpurun | Trembling slightly | shaking and swaying
-ぷるる・ぷるん | pururu or purun | Vibrating a little | shaking and swaying
+ぷるぷる | purupuru | Moved by light shaking or vibrating | shivering and shaking
+ぷるる | pururu | Vibrating a little | shaking and swaying
 ぷす | pusu | puncturing, penetrating | manga sound effects
 ぷすっ | pusu' | jab, the sound of a jab | action
+ぷすっ | pusu' | Stabbing something soft | piercing and stabbing
 ぷすぷす | pusupusu | sound of something smoldering or smoking | manga sound effects
+ぷすぷす | pusupusu | Sputtering of smokey embers | burning
+ぷすぷす | pusupusu | Stabbing over and over | piercing and stabbing
 ぷすり | pusuri | Cutting something like a thread or from a group | cutting
+ぷすり | pusuri | Stabbing something soft | piercing and stabbing
 ぷつっ | putsu' | snapping off, breaking off (suddenly) | motions
 ぷつっ | putsu' | prick, sting, pierce | performing an action
 ぷつっ | putsu' | Belt, rope, correspondence or suddenly being cut | cutting
+ぷつん | putsun | Speech or correspondence suddenly being cut off | cutting
 ぷつぷつ | putsuputsu | bumpy, dimpled | form
 ぷつぷつ | putsuputsu | Things getting torn to shreds | cutting
 ぷつぷつ | putsuputsu | Making lots of hole with something sharp | piercing and stabbing
 ぷつり | putsuri | completely sever by snapping/breaking | motions
-ぷつり・ぷつん | putsuri or putsun | Speech or correspondence suddenly being cut off | cutting
+ぷつり | putsuri | Speech or correspondence suddenly being cut off | cutting
+ぷつり | putsuri | Stabbing with something sharp or tapered | piercing and stabbing
 ぷー | puu | puff | manga sound effects
 ぷー | puu | anger | manga sound effects
 ぷー | puu | snort, honk, toot | manga sound effects
+ぷー | puu | Busting out with laughter at something funny | laughing and smiling
 ぷー | puu | Blowing your cheeks out with anger or unhappiness | angry, upset, antisocial
-ぷー・ふっ・ぷっ | puu or fu' or pu' | Busting out with laughter at something funny | laughing and smiling
 ぷーっ | puu' | spitting | onomatopoeia
 ぷーっ | puu' | forcefully exhaling | performing an action
 ぷーっ | puu' | puff up, inflate | state
@@ -3222,6 +3474,10 @@ Hiragana | Romaji | Translation | Applies To
 ぴょん | pyon | bouncing up and down, jumping up and down | performing an action
 ぴょんぴょん | pyonpyon | to hop, bounce, jump | performing an action
 ぴゅ | pyu | fast motion | manga sound effects
+ぴゅー | pyu | The sound of slightly strong wind blowing | wind, blowing
+ぴゅっ | pyu' | Something cutting and flying in the wind | wind, blowing
+ぴゅっ | pyu' | A small amount of water, forcefully shooting through the air | water drops, dripping, falling, and splashing
+ぴゅんぴゅん | pyunpyun | Continuous, strong wind blowing | wind, blowing
 ぴゅーぴゅー | pyupyu | whizzing | onomatopoeia
 ぴゅーぴゅー | pyupyu | shrieking | weather
 ぴゅーぴゅー | pyupyu | Strong, continuous, and cold wintry winds | wind, blowing
@@ -3244,6 +3500,7 @@ Hiragana | Romaji | Translation | Applies To
 さっ | sa' | quickly, adroitly | performing an action
 さっ | sa' | swift, fast | performing an action
 さっ | sa' | Taking the initiative, and standing up willingly | waking up and getting up
+さっくり | sa'kuri | Cutting food with a sharp knife | cutting
 さっぱり | sa'pari | refreshed, relieved | feelings
 さっぱり | sa'pari | refreshing | flavour
 さっぱり | sa'pari | not at all, not in the slightest | performing an action
@@ -3252,14 +3509,15 @@ Hiragana | Romaji | Translation | Applies To
 さっぱり | sa'pari | completely, entirely | resultant state
 さっさ | sa'sa | quickly | action
 さっさ | sa'sa | quickly, hastily | performing an action
-さっさ・さっさっ | sa'sa or sa'sa' | Feet moving vigorously | walking and running
+さっさ | sa'sa | Feet moving vigorously | walking and running
+さっさっ | sa'sa' | Feet moving vigorously | walking and running
 さっさっ | sa'sa' | Moving on willingly, without any hangups | advancing and moving
 さー | saa | hissing | manga sound effects
 さー | saa | pouring | manga sound effects
 さー | saa | rustling wind | manga sound effects
 さーっ | saa' | sudden | motions
 さーっ | saa' | Wind momentarily blowing | wind, blowing
-さーっ・ざーっ | saa' or zaa' | A large amount of water pouring out all at once | flowing, pouring, and streaming
+さーっ | saa' | A large amount of water pouring out all at once | flowing, pouring, and streaming
 さーさー | saasaa | Wind blowing tree leaves together | wind, blowing
 さばさば | sabasaba | clean and refreshed | feelings
 さばさば | sabasaba | open, frank (no negative connotation) | personal traits
@@ -3267,8 +3525,9 @@ Hiragana | Romaji | Translation | Applies To
 さくっ | saku' | cutting of sharply | performing an action
 さくっ | saku' | Sand mixing as you step on it | dirt, sand, and rocks
 さくっ | saku' | The light feeling when you bite into something | eating, chewing, and licking
-さくっ・さくり・さっくり | saku' or sakuri or sa'kuri | Cutting food with a sharp knife | cutting
+さくっ | saku' | Cutting food with a sharp knife | cutting
 さくり | sakuri | clean cutting | performing an action
+さくり | sakuri | Cutting food with a sharp knife | cutting
 さくりさくり | sakurisakuri | Walking on soft dirt or sand | dirt, sand, and rocks
 さくさく | sakusaku | creaking | onomatopoeia
 さくさく | sakusaku | crunching | onomatopoeia
@@ -3317,11 +3576,12 @@ Hiragana | Romaji | Translation | Applies To
 せかせか | sekaseka | restless, impetuously, hastily | personal traits
 せかせか | sekaseka | Jogging as if you're in a hurry | walking and running
 せかせか | sekaseka | Feeling impatient and that you're being hurried | flustered, impatient, and unable to calm down
-せこせこ・こせこせ | sekoseko or kosekose | Making a big deal out of nothing | flustered, impatient, and unable to calm down
+せこせこ | sekoseko | Making a big deal out of nothing | flustered, impatient, and unable to calm down
 しゃー | sha | something slicing the air | manga sound effects
 しゃっきり | sha'kiri | Straight backed | waking up and getting up
+しゃっきり | sha'kiri | Feeling brisk and lively in both body and mind | energetic
 しゃかしゃか | shakashaka | scraping | manga sound effects
-しゃき・しゃっきり | shaki or sha'kiri | Feeling brisk and lively in both body and mind | energetic
+しゃき | shaki | Feeling brisk and lively in both body and mind | energetic
 しゃきっ | shaki' | feeling refreshed after feeling sluggish, renewed, refreshed | feelings
 しゃきっ | shaki' | fresh, pleasant crispy feel | texture
 しゃきしゃき | shakishaki | brisk, vigorous | action
@@ -3388,8 +3648,9 @@ Hiragana | Romaji | Translation | Applies To
 しみじみ | shimijimi | deeply, heartily | mental actions
 しん | shin | dead quiet | surrounding
 しん | shin | The cold deeply penetrating your body | cold weather and feeling cold
+しなっ | shina' | Bending and warping | bending, folding, and crumpling
 しなしな | shinashina | flexible, supple | form
-しなしな・しなっ | shinashina or shina' | Bending and warping | bending, folding, and crumpling
+しなしな | shinashina | Bending and warping | bending, folding, and crumpling
 しんまり | shinmari | calm, peacefull feeling | mood
 しんみ | shinmi | Feeling pity and a little sad for someone | thinking and feeling
 しんみり | shinmiri | heart-to-heart, touching | emotions
@@ -3402,9 +3663,11 @@ Hiragana | Romaji | Translation | Applies To
 しんしん | shinshin | continuously, thick and fast | weather
 しおしお | shioshio | dejected, heavy hearted (paired with coming/leaving) | mood
 しおしお | shioshio | Disappointed by your own failures | not feeling well
-しらっ・しれっ | shira' or shire' | Acting as if something is not a big deal at all | unconcerned and composed
-しとっ・しとり | shito' or shitori | Completely soaked through with a light dampness | damp, oozing, and running
+しらっ | shira' | Acting as if something is not a big deal at all | unconcerned and composed
+しれっ | shire' | Acting as if something is not a big deal at all | unconcerned and composed
+しとっ | shito' | Completely soaked through with a light dampness | damp, oozing, and running
 しとど | shitodo | glistening wet | physical state
+しとり | shitori | Completely soaked through with a light dampness | damp, oozing, and running
 しとしと | shitoshito | damp | physical state
 しとしと | shitoshito | drizzle | weather
 しとしと | shitoshito | Rain gently falling | rain, snow, and ice
@@ -3412,6 +3675,7 @@ Hiragana | Romaji | Translation | Applies To
 しず | shizu | move solemnly | manga sound effects
 しずしず | shizushizu | quietly, composed | performing an action
 しょぼっ | shobo' | Eyes that are open but can't understand what they see | looking and glaring
+しょぼっ | shobo' | Not energetic, depressed | not feeling well
 しょぼん | shobon | feeling miserable a moment | mood
 しょぼん | shobon | deflated | resultant state
 しょぼん | shobon | Depressed, losing energy and willpower | not feeling well
@@ -3421,6 +3685,7 @@ Hiragana | Romaji | Translation | Applies To
 しょぼしょぼ | shoboshobo | to lose one's livelyness | physical health
 しょぼしょぼ | shoboshobo | light, gloomy | weather
 しょぼしょぼ | shoboshobo | Blinking wearily after your eyes were open a long time | looking and glaring
+しょぼしょぼ | shoboshobo | Not energetic, depressed | not feeling well
 しょんぼり | shonbori | lonesomely, forlorn | mood
 しょんぼり | shonbori | Depressed and feeling lonely | not feeling well
 しょりしょり | shorishori | Refreshing, light crunchiness | eating, chewing, and licking
@@ -3432,7 +3697,7 @@ Hiragana | Romaji | Translation | Applies To
 しゅっしゅっ | shu'shu' | spurting | onomatopoeia
 しゅぼ | shubo | the sound of a flame igniting | manga sound effects
 しゅん | shun | wilting | manga sound effects
-しゅん・しょぼしょぼ・しょぼっ | shun or shoboshobo or shobo' | Not energetic, depressed | not feeling well
+しゅん | shun | Not energetic, depressed | not feeling well
 しゅんしゅん | shunshun | hissing | onomatopoeia
 しゅんしゅん | shunshun | the sound of steam escaping (a kettle) | state
 しゅる | shuru | snaking movement | manga sound effects
@@ -3465,7 +3730,8 @@ Hiragana | Romaji | Translation | Applies To
 そわそわ | sowasowa | restless, fidgety | manga sound effects
 そわそわ | sowasowa | restless, nervously waiting for an event to occur | mood
 そわそわ | sowasowa | Fidgeting from anxiety | flustered, impatient, and unable to calm down
-そよ・そより | soyo or soyori | Wind lightly, quietly blowing | wind, blowing
+そよ | soyo | Wind lightly, quietly blowing | wind, blowing
+そより | soyori | Wind lightly, quietly blowing | wind, blowing
 そよそよ | soyosoyo | gently, softly | weather
 そよそよ | soyosoyo | A gentle breeze quietly blowing | wind, blowing
 す | su | breathing in | manga sound effects
@@ -3488,11 +3754,12 @@ Hiragana | Romaji | Translation | Applies To
 すっきり | su'kiri | well formed, shapely | the face
 すっく | su'ku | standing up straight | action
 すっく | su'ku | suddenly standing perfectly straight | performing an action
+すっく | su'ku | Vigorously standing upright | waking up and getting up
 すっぱり | su'pari | cut off in a clean single cut | performing an action
 すっぱり | su'pari | to cut clean | personal relations
 すっぱり | su'pari | cutting clean | resultant state
 すっぱり | su'pari | cut off clean | resultant state
-すっぱり・すぱっ・すぱり | su'pari or supa' or supari | Completely cut off with a sharp blade | cutting
+すっぱり | su'pari | Completely cut off with a sharp blade | cutting
 すっぱすっぱ | su'pasu'pa | puffing | manga sound effects
 すっぽり | su'pori | pop out | motions
 すっぽり | su'pori | cover with something | motions
@@ -3529,7 +3796,7 @@ Hiragana | Romaji | Translation | Applies To
 すかすか | sukasuka | Cutting cleanly with a sharp blade | cutting
 すこん | sukon | plunk | manga sound effects
 すく | suku | getting up, standing up | manga sound effects
-すくっ・すっく | suku' or su'ku | Vigorously standing upright | waking up and getting up
+すくっ | suku' | Vigorously standing upright | waking up and getting up
 すくすく | sukusuku | to grow well and strong | physical health
 すくすく | sukusuku | Children growing up without complications | energetic
 すなり | sunari | slender, smooth, graceful | manga sound effects
@@ -3539,8 +3806,10 @@ Hiragana | Romaji | Translation | Applies To
 すんなり | sunnari | To calmly advance without resistance | advancing and moving
 すぱ | supa | cutting or breaking something | manga sound effects
 すぱっ | supa' | a swift single cut | performing an action
+すぱっ | supa' | Completely cut off with a sharp blade | cutting
 すぱり | supari | cutting or breaking something | manga sound effects
 すぱり | supari | cut off in a clean single cut | performing an action
+すぱり | supari | Completely cut off with a sharp blade | cutting
 すぱすぱ | supasupa | repetetively cut cleanly | performing an action
 すぱすぱ | supasupa | puffing away at a smokable | performing an action
 すぴぐ | supigu | peacful sleep, a whistling sound | manga sound effects
@@ -3550,18 +3819,19 @@ Hiragana | Romaji | Translation | Applies To
 すぽり | supori | pop out | motions
 すぽり | supori | cover with something | motions
 すらっ | sura' | emphatic form of すらり | the body
-すらっ・すらり | sura' or surari | Long, slender, and well proportioned | thin
+すらっ | sura' | Long, slender, and well proportioned | thin
 すらー | suraa | emphatic form of すらり | the body
 すらり | surari | slender | form
 すらり | surari | long and straight, slim, slender | manga sound effects
 すらり | surari | easily, without trouble | motions
 すらり | surari | smoothly | performing an action
 すらり | surari | long, slender, well-proportioned | the body
+すらり | surari | Long, slender, and well proportioned | thin
 すらすら | surasura | smoothly | motions
 すらすら | surasura | fluently | performing an action
 すらすら | surasura | smoothly | speech
 すらすら | surasura | Speaking really fluently, smoothly | saying and speaking
-すらすら・するする | surasura or surusuru | Smoothly advancing without delay | advancing and moving
+すらすら | surasura | Smoothly advancing without delay | advancing and moving
 すれすれ | suresure | very close | available space
 すれすれ | suresure | barely, just in time | temporal aspect
 する | suru | slow movement (garments sliding off, people moving smoothly, etc) | manga sound effects
@@ -3575,6 +3845,8 @@ Hiragana | Romaji | Translation | Applies To
 するする | surusuru | smooth and straight | motions
 するする | surusuru | smoothly, easily | motions
 するする | surusuru | smoothly, nimble | performing an action
+するする | surusuru | Smoothly advancing without delay | advancing and moving
+すすっ | susu' | Swallowing or sipping soup, or a liquid with loudly, like soba noodles | drinking and getting drunk
 すすす | sususu | sliding | manga sound effects
 すた | suta | landing (after jumping) | manga sound effects
 すたっ | suta' | Getting up lightly | waking up and getting up
@@ -3625,7 +3897,7 @@ Hiragana | Romaji | Translation | Applies To
 たったっ | ta'ta' | Flying through the minor details | advancing and moving
 たったかたったか | ta'takata'taka | Light running | walking and running
 たー | taa | dashing, running | manga sound effects
-たー・たたー | taa or tataa | Lightly taking off into a run | walking and running
+たー | taa | Lightly taking off into a run | walking and running
 たじたじ | tajitaji | staggering | performing an action
 たじたじ | tajitaji | Staggering or tripping over your feet | walking and running
 たじたじ | tajitaji | Hesitating because someone is coercing you | hesitating and faltering
@@ -3646,6 +3918,7 @@ Hiragana | Romaji | Translation | Applies To
 たらたら | taratara | Sweat or blood falling | flowing, pouring, and streaming
 たらたら | taratara | Complaining about something over and over for a really long time | saying and speaking
 たらたら | taratara | Liquid rolling down, dripping | falling and dropping
+たたー | tataa | Lightly taking off into a run | walking and running
 たたたた | tatatata | light running | manga sound effects
 たたたた | tatatata | Running at full speed | walking and running
 てっきり | te'kiri | surely, no doubt | mental actions
@@ -3672,11 +3945,12 @@ Hiragana | Romaji | Translation | Applies To
 とっぷり | to'puri | night falling | manga sound effects
 とっぷり | to'puri | night closing in | temporal aspect
 とっぷり | to'puri | Completely dark | bright and clear
-とっぷり・どっぷり | to'puri or do'puri | Being completely immersed in bath water or liquids | getting wet
+とっぷり | to'puri | Being completely immersed in bath water or liquids | getting wet
 とっと | to'to | to walk, to leave the very instant | performing an action
 とっと | to'to | Quickly walking | walking and running
 とっとっ | to'to' | small, rapid steps | performing an action
-とっとことっとこ・とっとっ | to'tokoto'toko or to'to' | The rhythm of quick, small steps | walking and running
+とっとっ | to'to' | The rhythm of quick, small steps | walking and running
+とっとことっとこ | to'tokoto'toko | The rhythm of quick, small steps | walking and running
 とぼとぼ | tobotobo | dejected walking | manga sound effects
 とぼとぼ | tobotobo | trudging along | performing an action
 とぼとぼ | tobotobo | Stooping as you walk a long way, trudging | walking and running
@@ -3722,7 +3996,8 @@ Hiragana | Romaji | Translation | Applies To
 とろん | toron | sleepy, dull eyes | body function
 とろん | toron | sleepy, dull eyes, stronger version of とろっ | eye expressions
 とろん | toron | Dozing, a light doze | sleeping and laying down
-とろり・とろん・どろん | torori or toron or doron | With eyes dull from drunkenness | looking and glaring
+とろん | toron | With eyes dull from drunkenness | looking and glaring
+とろり | torori | With eyes dull from drunkenness | looking and glaring
 とろりとろり | tororitorori | to sleep light for a short while (before real sleep), to be drowsy | body function
 とろとろ | torotoro | to sleep light for a short while (before real sleep), to be drowsy | body function
 とろとろ | torotoro | viscous, smooth | physical state
@@ -3745,24 +4020,26 @@ Hiragana | Romaji | Translation | Applies To
 つべつべ | tsubetsube | Annoyingly complaining or theorizing at someone | saying and speaking
 ついつい | tsuitsui | Advancing against your better judgement | advancing and moving
 つかつか | tsukatsuka | walking resolute | action
+つかつか | tsukatsuka | Not hesitating to say something, saying whatever you think | saying and speaking
 つかつか | tsukatsuka | Striding toward something without hesitation | advancing and moving
 つけつけ | tsuketsuke | harsh, without reserve | speech
+つけつけ | tsuketsuke | Not hesitating to say something, saying whatever you think | saying and speaking
 つけつけ | tsuketsuke | Saying and doing things without reserve, rude | unconcerned and composed
-つけつけ・つかつか | tsuketsuke or tsukatsuka | Not hesitating to say something, saying whatever you think | saying and speaking
 つくづく | tsukuzuku | thinking from the bottom of one's hear | mental actions
 つくづく | tsukuzuku | Gazing intently, unabashedly | looking and glaring
 つくづく | tsukuzuku | Believing something from the bottom of your heart | thinking and feeling
 つん | tsun | to look inapproachable | facial expression
 つん | tsun | sharp, pointy | form
 つん | tsun | a sudden, pungent odor | smells
+つん | tsun | Facing away disgruntled | angry, upset, antisocial
 つん | tsun | Lightly poked once | piercing and stabbing
-つん・つんつん | tsun or tsuntsun | Facing away disgruntled | angry, upset, antisocial
 つんけん | tsunken | Acting unsociable or crabby | angry, upset, antisocial
 つんつん | tsuntsun | vain, hard to approach | facial expression
 つんつん | tsuntsun | sharp, pointy | form
 つんつん | tsuntsun | bad-smelling | manga sound effects
 つんつん | tsuntsun | something small, pointed, moving rapidly | motions
 つんつん | tsuntsun | a pungent odor | smells
+つんつん | tsuntsun | Facing away disgruntled | angry, upset, antisocial
 つんつん | tsuntsun | Lightly poked over and over | piercing and stabbing
 つらつら | tsuratsura | carefully | mental actions
 つらつら | tsuratsura | Thinking about something for a long time | thinking and feeling
@@ -3845,27 +4122,30 @@ Hiragana | Romaji | Translation | Applies To
 うろうろ | urouro | loitering | performing an action
 うろうろ | urouro | Wandering aimlessly | walking and running
 うるっ | uru' | Unintentionally crying | crying
-うるうる・うるるん | uruuru or ururun | Moved to tears | crying
+うるるん | ururun | Moved to tears | crying
+うるうる | uruuru | Moved to tears | crying
 うりゃー | urya | yelled when charging, or when one is about to do something involving substantial the sound made by someone who is exerting physical effort, or doing something that involves substantial the sound made by someone who is exerting physical effort.  | manga sound effects
 うしうし | ushiushi | Happily and skillfully going about your business | delighted
 うす | usu | muttered complaining | manga sound effects
 うと | uto | nodding off | manga sound effects
 うとっ | uto' | Suddenly hit with drowsiness | sleeping and laying down
 うとうと | utouto | to doze off, nod off | body function
-うとうと・うつらうつら | utouto or utsurautsura | Half asleep, nodding off | sleeping and laying down
+うとうと | utouto | Half asleep, nodding off | sleeping and laying down
 うつら | utsura | half-asleep | manga sound effects
 うつらうつら | utsurautsura | drowsy, half asleep, dazed | body function
+うつらうつら | utsurautsura | Half asleep, nodding off | sleeping and laying down
 うつらうつら | utsurautsura | Eyes opening and closing, seeing and not seeing, nodding off | looking and glaring
 うつらうつら | utsurautsura | Swaying slowly | shaking and swaying
 うー | uu | anger | manga sound effects
 うーっ | uu' | growling | onomatopoeia
 うわー | uwaa | flabberghasted exclamation | manga sound effects
 うわーん | uwaan | crying | onomatopoeia
+うわーん | uwaan | A child crying loudly without considering the people around it | crying
 うようよ | uyouyo | a squirming mass | performing an action
 うぞうぞ | uzouzo | menacing | manga sound effects
 うずうず | uzuuzu | a burning desire to do something | emotions
+うずうず | uzuuzu | Itching to do something, impatient to start something | flustered, impatient, and unable to calm down
 うずうず | uzuuzu | Feeling a continuous dull pain | hurt and pain
-うずうず・むずむず | uzuuzu or muzumuzu | Itching to do something, impatient to start something | flustered, impatient, and unable to calm down
 わっ | wa' | wow | manga sound effects
 わっ | wa' | A large group of people stirring all at once | noisy
 わっ | wa' | Suddenly, violently bursting into tears | crying
@@ -3874,14 +4154,16 @@ Hiragana | Romaji | Translation | Applies To
 わーっ | waa' | A sudden, loud laugh | laughing and smiling
 わーん | waan | cry loudly | emotions
 わーん | waan | crying | onomatopoeia
+わーん | waan | Bawling without caring about where you are | crying
 わーわー | waawaa | crying loudly | perceived sound
 わーわー | waawaa | A raised voice crying or screaming | noisy
-わーわー・わーん・わんわん | waawaa or waan or wanwan | Bawling without caring about where you are | crying
+わーわー | waawaa | Bawling without caring about where you are | crying
+わはは | wahaha | Cheerfully, loudly laughing | laughing and smiling
 わい | wai | yay | manga sound effects
 わいわい | waiwai | yaay | manga sound effects
 わいわい | waiwai | excitement, commotion | perceived sound
-わいわい・わやわや | waiwai or wayawaya | Many people talking loudly | saying and speaking
-わいわい・わやわや | waiwai or wayawaya | A large group of people making a lot of noise | noisy
+わいわい | waiwai | Many people talking loudly | saying and speaking
+わいわい | waiwai | A large group of people making a lot of noise | noisy
 わく | waku | happy excitement | manga sound effects
 わくわく | wakuwaku | happy excitement | manga sound effects
 わくわく | wakuwaku | excited, trembling with joy | mood
@@ -3893,6 +4175,7 @@ Hiragana | Romaji | Translation | Applies To
 わんわ | wanwa | Noisiness | noisy
 わんわん | wanwan | woof woof | manga sound effects
 わんわん | wanwan | woof woof | onomatopoeia
+わんわん | wanwan | Bawling without caring about where you are | crying
 わらわら | warawara | a noise made by crowds | manga sound effects
 わさわさ | wasawasa | rustling | manga sound effects
 わさわさ | wasawasa | nervously | performing an action
@@ -3901,6 +4184,8 @@ Hiragana | Romaji | Translation | Applies To
 わたわた | watawata | flapping | manga sound effects
 わたわた | watawata | Restless and unable to calm down | walking and running
 わう | wau | woof | onomatopoeia
+わやわや | wayawaya | Many people talking loudly | saying and speaking
+わやわや | wayawaya | A large group of people making a lot of noise | noisy
 やっほ | ya'ho | yoohoo!, hey! | manga sound effects
 やっほい | ya'hoi | yoohoo!, hey! | manga sound effects
 やっほー | ya'hoo | yoohoo!, hey! | manga sound effects
@@ -3971,17 +4256,22 @@ Hiragana | Romaji | Translation | Applies To
 ざっ | za' | skim over | performing an action
 ざっ | za' | quick, rough | performing an action
 ざっ | za' | roughly, approximately | quantity
+ざっ | za' | A light shower coming down for a short time | rain, snow, and ice
+ざっ | za' | A short, violent evening shower | rain, snow, and ice
 ざっく | za'ku | Roughly grabbing something like sand | dirt, sand, and rocks
+ざっく | za'ku | Hollowing something out by cutting into it | cutting
 ざっくばらん | za'kubaran | Explaining your situation frankly | saying and speaking
+ざっくり | za'kuri | Deeply plunging a blade into something | cutting
 ざー | zaa | pouring rain | manga sound effects
 ざーっ | zaa' | pouring | onomatopoeia
 ざーっ | zaa' | swift | performing an action
 ざーっ | zaa' | forcefully showering down | state
 ざーっ | zaa' | pouring down | weather
+ざーっ | zaa' | A light shower coming down for a short time | rain, snow, and ice
+ざーっ | zaa' | A short, violent evening shower | rain, snow, and ice
 ざーっ | zaa' | Wind violently shaking tree leaves | wind, blowing
+ざーっ | zaa' | A large amount of water pouring out all at once | flowing, pouring, and streaming
 ざーっ | zaa' | Forcefully moving sand | dirt, sand, and rocks
-ざーっ・ざっ | zaa' or za' | A light shower coming down for a short time | rain, snow, and ice
-ざーっ・ざっ | zaa' or za' | A short, violent evening shower | rain, snow, and ice
 ざーざー | zaazaa | rustling | manga sound effects
 ざーざー | zaazaa | showering down | onomatopoeia
 ざーざー | zaazaa | spraying, pouring | onomatopoeia
@@ -3992,16 +4282,18 @@ Hiragana | Romaji | Translation | Applies To
 ざば | zaba | big splash | manga sound effects
 ざばっ | zaba' | A large amount of water moving | rippling, bubbling, and sinking
 ざぶ | zabu | big splash | manga sound effects
-ざぶっ・ざぶん | zabu' or zabun | The sound of jumping into water | rippling, bubbling, and sinking
+ざぶっ | zabu' | The sound of jumping into water | rippling, bubbling, and sinking
 ざぶん | zabun | plunging into water with a splash | action
 ざぶん | zabun | plunging | action
 ざぶん | zabun | big splash | manga sound effects
 ざぶん | zabun | plunging | onomatopoeia
+ざぶん | zabun | The sound of jumping into water | rippling, bubbling, and sinking
 ざぶざぶ | zabuzabu | splashing | action
 ざぶざぶ | zabuzabu | splashing | onomatopoeia
-ざぐり・ざっく | zaguri or za'ku | Hollowing something out by cutting into it | cutting
+ざぐり | zaguri | Hollowing something out by cutting into it | cutting
 ざくっ | zaku' | cutting deeply | performing an action
-ざくっ・ざくり・ざっくり | zaku' or zakuri or za'kuri | Deeply plunging a blade into something | cutting
+ざくっ | zaku' | Deeply plunging a blade into something | cutting
+ざくり | zakuri | Deeply plunging a blade into something | cutting
 ざくざく | zakuzaku | Chopping the stalks off of vegetables | cutting
 ざんぶ | zanbu | something big/heavy plunging into water | action
 ざんぶ | zanbu | plunging | onomatopoeia
@@ -4066,25 +4358,29 @@ Hiragana | Romaji | Translation | Applies To
 ずっぷり | zu'puri | being immersed in liquid | action
 ずっぷり | zu'puri | completely soaked | physical state
 ずっしり | zu'shiri | weighty | to appear to be
-ずっずっ・ずんずん | zu'zu' or zunzun | Things strongly pressing forward | advancing and moving
+ずっずっ | zu'zu' | Things strongly pressing forward | advancing and moving
 ずば | zuba | slicing with a single cut | manga sound effects
 ずばっ | zuba' | cut off in a clean single cut | performing an action
 ずばっ | zuba' | blunt, unreserved | speech
+ずばっ | zuba' | Saying or pointing out something straight forward, get to the point in a very outspoken manner | saying and speaking
 ずばっ | zuba' | Being pierced by an arrow or a spear | piercing and stabbing
 ずばり | zubari | slicing with a single cut | manga sound effects
 ずばり | zubari | to hit the mark | mental actions
 ずばり | zubari | with a bold cut | performing an action
 ずばり | zubari | blunt, unreserved | speech
+ずばり | zubari | Saying or pointing out something straight forward, get to the point in a very outspoken manner | saying and speaking
 ずばり | zubari | Cutting through something at once | cutting
 ずばりずばり | zubarizubari | Viciously cutting many times | cutting
 ずばりずばり | zubarizubari | Sharply stabbing in your vitals or your core | piercing and stabbing
 ずばずば | zubazuba | getting to the point, not wasting words | speech
+ずばずば | zubazuba | Saying or pointing out something straight forward, get to the point in a very outspoken manner | saying and speaking
 ずばずば | zubazuba | Relentlessly cutting with a blade | cutting
-ずばずば・ずばっ・ずばり | zubazuba or zuba' or zubari | Saying or pointing out something straight forward, get to the point in a very outspoken manner | saying and speaking
-ずぶっ・ずぶり | zubu' or zuburi | Being stabbed at the base with a blade | piercing and stabbing
+ずぼずぼ | zubozubo | Sinking into a swamp or a sand | dirt, sand, and rocks
+ずぶっ | zubu' | Being stabbed at the base with a blade | piercing and stabbing
+ずぶり | zuburi | Being stabbed at the base with a blade | piercing and stabbing
 ずぶずぶ | zubuzubu | sopping wet | physical state
+ずぶずぶ | zubuzubu | Sinking into a swamp or a sand | dirt, sand, and rocks
 ずぶずぶ | zubuzubu | Something soft being pierced | piercing and stabbing
-ずぶずぶ・ずぼずぼ | zubuzubu or zubozubo | Sinking into a swamp or a sand | dirt, sand, and rocks
 ずでん | zuden | tumbling a fall | performing an action
 ずどん | zudon | kaboom | onomatopoeia
 ずどん | zudon | a heavy object falling | performing an action
@@ -4097,14 +4393,16 @@ Hiragana | Romaji | Translation | Applies To
 ずけずけ | zukezuke | Saying something very straight forward | saying and speaking
 ずけずけ | zukezuke | Saying something that could hurt someone else, blunt | unconcerned and composed
 ずき | zuki | sharp pain | manga sound effects
-ずきっ・ずきり・ずきん | zuki' or zukiri or zukin | Sudden, violent, traveling and throbbing pain | hurt and pain
+ずきっ | zuki' | Sudden, violent, traveling and throbbing pain | hurt and pain
 ずきん | zukin | a pang of consciousness, a momentary powerfull emotion | emotions
 ずきん | zukin | a sharp, single, pain (stronger than ずきずき) | feelings
+ずきん | zukin | Sudden, violent, traveling and throbbing pain | hurt and pain
 ずきんずきん | zukinzukin | continuous throbbing pain | feelings
 ずきんずきん | zukinzukin | Continuous throbbing pain | hurt and pain
+ずきり | zukiri | Sudden, violent, traveling and throbbing pain | hurt and pain
 ずきずき | zukizuki | a throbbing, pulsing pain | feelings
+ずきずき | zukizuki | Throbbing, grinding pain | hurt and pain
 ずきずき | zukizuki | Forcefully cutting something | cutting
-ずきずき・ずんずん | zukizuki or zunzun | Throbbing, grinding pain | hurt and pain
 ずくずく | zukuzuku | The uncomfortable feeling of getting wet from rain or water | getting wet
 ずも | zumo | menace | manga sound effects
 ずもも | zumomo | menacing | manga sound effects
@@ -4117,6 +4415,8 @@ Hiragana | Romaji | Translation | Applies To
 ずんぐりむっくり | zungurimu'kuri | short and fat, short and pudgy | the body
 ずんぐりむっくり | zungurimu'kuri | Getting fat, gaining weight, swelling | fat and robust
 ずんずん | zunzun | rapidly, noticably, markedly | resultant state
+ずんずん | zunzun | Throbbing, grinding pain | hurt and pain
+ずんずん | zunzun | Things strongly pressing forward | advancing and moving
 ずらっ | zura' | lined up | spacial orientation
 ずらーっ | zuraa' | lined up | spacial orientation
 ずらり | zurari | lining up | action
@@ -4142,10 +4442,11 @@ Hiragana | Romaji | Translation | Applies To
 ずたずた | zutazuta | Tearing to pieces over and over | ripping and tearing
 ずてんどー | zutendoo | a tumble making a shuddering sound | performing an action
 ずー | zuu | disappoinment | manga sound effects
-ずーっ・すすっ・ずずっ | zuu' or susu' or zuzu' | Swallowing or sipping soup, or a liquid with loudly, like soba noodles | drinking and getting drunk
+ずーっ | zuu' | Swallowing or sipping soup, or a liquid with loudly, like soba noodles | drinking and getting drunk
 ずーん | zuun | disappoinment | manga sound effects
 ずーずー | zuuzuu | Swallowing or sipping soup, or a liquid with higer-pitch loud sound, like sucking soba noodles | drinking and getting drunk
 ずず | zuzu | sip | manga sound effects
+ずずっ | zuzu' | Swallowing or sipping soup, or a liquid with loudly, like soba noodles | drinking and getting drunk
 ずずん | zuzun | kaboom | onomatopoeia
 ずずん | zuzun | shuddering | onomatopoeia
 ずずん | zuzun | thundering | onomatopoeia
