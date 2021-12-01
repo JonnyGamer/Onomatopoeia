@@ -1,4 +1,146 @@
 
+# Categories
+
+### Unsorted Onomatpoeia
+
+- [Sound Effects](\#sound-effects)
+- [Onomatopoeia](\#onomatopoeia)
+- [Noise](\#noisy)
+- [Unsorted Action](\#action)
+
+### Actions
+
+- [Unsorted Performing Action](\#performing-an-action)
+- [Unsorted Motions](\#motions)
+
+Violent Actions
+- [Advancing and Moving](\#advancing-and-moving)
+- [Bending and Breaking](\#breaking-and-bending)
+- [Bending, Folding, and Crumpling](\#bending-folding-and-crumpling)
+- [Cut](\#cutting)
+- [Falling and Drooping](\#falling-and-dropping)
+- [Piercing and Stabbing](\#piercing-and-stabbing)
+- [Ripping and Tearing](\#ripping-and-tearing)
+- [Shaking and Swaying](\#shaking-and-swaying)
+- [Sticking](\#sticking)
+
+Non-Violent Actions
+- [Walking and Running](\#walking-and-running)
+- [Doing Nothing](\#doing-nothing)
+
+Mind Actions
+- [Mental Actions](\#mental-actions)
+- [Hesitating and Faltering](\#hesitating-and-faltering)
+
+### Nature
+
+Weather Temperature
+- [Weather](#weather)
+- [Bright and Clear](\#bright-and-clear)
+- [Wind Blowing](\#wind-blowing)
+- [Hot](\#burning)
+- [Hot and Warm](\#hot-and-warm)
+- [Cold](\#cold-weather-and-feeling-cold)
+
+Water
+- [Damp](#damp-oozing-and-running)
+- [Flowing, Pouring, Streaming](\#flowing-pouring-and-streaming)
+- [Getting Wet](\#getting-wet)
+- [Rain, Snow, Ice](\#rain-snow-and-ice)
+- [Rippling, Bubbling, and Sinking](\#rippling-bubbling-and-sinking)
+- [Water Drops, Dripping, Falling, and Splashing](\#water-drops-dripping-falling-and-splashing)
+
+Other
+- [Dirt, Sand, Rocks](\#dirt-sand-and-rocks)
+
+### Person
+
+About a Person
+- [Attitude](\#attitude)
+- [Attitude at Work](\#work-attitude) and [Work Pressure](#work-pressure)
+- [Career Experience](\#career-experience)
+- [Clothing](\#personal-attire)
+- [Health](\#physical-health)
+- [Money](\#money-issues)
+- [Relations](\#personal-relations)
+- [Traits](\#personal-traits)
+
+Facial Actions
+- [Eye Expressions](\#eye-expressions)
+- [Facial Expressions](\#facial-expression)
+- [Looking and Glaring](\#looking-and-glaring)
+
+Mouth Actions
+- [Cough](\#coughing-and-choking)
+- [Cry](\#crying)
+- [Drink](\#drinking)
+- [Eat, Chew, Lick](\#eating-chewing-and-licking)
+- [Laughing and Smiling](\#laughing-and-smiling)
+- [Laughter](\#laughter)
+- [Puking](\#puking-and-vomitting)
+- [Saying and Speaking](\#saying-and-speaking)
+- [Smiling](\#smiling)
+- [Speech](\#speech)
+
+About the Body
+- [Body](#the-body)
+- [Face](\#the-face)
+- [Fat and Robust](\#fat-and-robust)
+- [Form](\#form)
+- [Hair](\#hair)
+- [This](\#thin)
+
+Sensory
+- [Flavor](\#flavor)
+- [Percieved Sound](\#percieved-sound)
+- [Sight](\#sight)
+- [Smell](\#smells)
+- [Texture](\#texture)
+
+
+### Emotions
+
+Generic Feelings
+- [Emotions](\#emotions)
+- [Feelings](\#feelings)
+- [Mental State](\#mental-state)
+- [Mood](\#mood)
+- [Thinking and Feeling](\#thinking-and-feeling)
+- [Body Function](\#body-function)
+
+Positive Feelings
+- [Delighted](\#delighted)
+- [Energetic](\#energetic)
+- [Surprised](\#surprised)
+- [Unconcerned and Composed](\#unconcerned-and-composed)
+
+Negative Feelings
+- [Angry](\#angry-upset-antisocial)
+- [Flustered, Impatient, Uncalm](\#flustered-impatient-and-unable-to-calm-down)
+- [Hurt and Pain](\#hurt-and-pain)
+- [Not Feeling Well](\#not-feeling-well)
+- [Shivering and Shaking](\#shivering-and-shaking)
+
+Sleep, Laying Down, Getting Up
+- [Tired](\#tired)
+- [Sleeping and Laying Down](\#sleeping-and-laying-down)
+- [Waking Up or Getting Up](\#waking-and-getting-up)
+
+### About an Object
+- [Appearance](\#to-appear-to-be)
+- [Physical State](\#physical-state)
+- [Quantity](\#quantity)
+- [Resultant State](\#resultant-state)
+- [Shape](\#shape)
+- [Size](\#size)
+- [Orientation](\#spacial-orientation)
+- [State](\#state)
+- [Structure](\#structure)
+- [Surroundings](\#surrounding) or [Cramped](\#available-space)
+- [Temporal Aspect](\#termporal-aspect)
+
+
+
 - [Action](\Action)
 
 # Action
