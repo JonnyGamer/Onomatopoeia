@@ -1,15 +1,18 @@
 
 # Categories
 
-### Unsorted Onomatpoeia
+Sorted them in categories, jump to the place you want
+
+# Unsorted Onomatpoeia
 
 - [Sound Effects](\#sound-effects)
 - [Onomatopoeia](\#onomatopoeia)
 - [Noise](\#noisy)
 - [Unsorted Action](\#action)
 
-### Actions
+# Actions
 
+- [Unsorted Actions](\Action)
 - [Unsorted Performing Action](\#performing-an-action)
 - [Unsorted Motions](\#motions)
 
@@ -32,7 +35,7 @@ Mind Actions
 - [Mental Actions](\#mental-actions)
 - [Hesitating and Faltering](\#hesitating-and-faltering)
 
-### Nature
+# Nature
 
 Weather Temperature
 - [Weather](#weather)
@@ -53,7 +56,7 @@ Water
 Other
 - [Dirt, Sand, Rocks](\#dirt-sand-and-rocks)
 
-### Person
+# Person
 
 About a Person
 - [Attitude](\#attitude)
@@ -98,7 +101,7 @@ Sensory
 - [Texture](\#texture)
 
 
-### Emotions
+# Emotions
 
 Generic Feelings
 - [Emotions](\#emotions)
@@ -126,7 +129,7 @@ Sleep, Laying Down, Getting Up
 - [Sleeping and Laying Down](\#sleeping-and-laying-down)
 - [Waking Up or Getting Up](\#waking-and-getting-up)
 
-### About an Object
+# About an Object
 - [Appearance](\#to-appear-to-be)
 - [Physical State](\#physical-state)
 - [Quantity](\#quantity)
@@ -140,8 +143,6 @@ Sleep, Laying Down, Getting Up
 - [Temporal Aspect](\#termporal-aspect)
 
 
-
-- [Action](\Action)
 
 # Action
 Hiragana | Romaji | Translation | Applies To
