@@ -1,2 +1,2 @@
-Sorted List -> [Click Here](\https://github.com/JonnyGamer/Onomatopoeia/blob/main/AllCategories.md) <-
+Sorted List -> [Click Here](\https://github.com/JonnyGamer/Onomatopoeia/AllCategories.md) <-
 
