@@ -1,4 +1,4 @@
-Sorted List -> [Click Here](https://github.com/JonnyGamer/Onomatopoeia/blob/main/Alternative.md) <-
+Sorted List -> [Click Here](https://github.com/JonnyGamer/Onomatopoeia/blob/main/AllCategories.md) <-
 
 # Complete Word Base (4439 words)
 
